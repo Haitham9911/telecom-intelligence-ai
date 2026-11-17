@@ -141,3 +141,16 @@ Telefónica FY2025 revenue growth uses its restated FY2024 continuing-operations
 The existing GitHub Pages job publishes changes; the existing daily 08:00 Asia/Muscat research automation reviews all nine companies and the indicator dataset. A schedule or successful source check does not imply a new disclosure. The UI separates latest filing/balance dates, source checks, and completed reviews. Browser Refresh loads the last published snapshot, not a new issuer report. Financial data is periodic, not live tick data. Tests include instant-versus-duration periods, currency isolation, failed-refresh retention, customer reporting changes and mixed-scope ratio suppression.
 
 Additional validation: `python -m unittest -v test_financial_refresh.py` and `node test_indicators.cjs`.
+
+
+## Oman TRA/NCSI observatory and Ooredoo details
+
+`#oman-market` combines source-linked TRA open data, reviewed TRA market-share reports and NCSI monthly/yearbook statistics. It presents FY2021–2025, separate latest periods, prepaid/postpaid/M2M counts, mobile/fixed broadband, technology mix, penetration, investment, service revenue and service-specific ARPU. Annual revenue requires all four quarters; annual ARPU is Q4. Company definitions and source-vintage differences remain explicit. September 2026 NCSI totals and June 2026 TRA operator shares must never be multiplied together.
+
+Vodafone mobile and Awasr fixed-broadband counts are estimates from the matching TRA period's total and rounded share, with formulas and rounding sensitivity, not direct company disclosures. H2 2025 mobile-broadband share and H1 2026 all-mobile share are different measures. Never allocate the residual after Omantel and Ooredoo to Vodafone. Reported Omantel domestic counts remain separately scoped.
+
+`oman_refresh.py` checks five public TRA HTML tables at most daily, validates headers, periods, nonnegative values and component totals, and preserves the last successful data on failure. `data/oman-auto.json` is cached by the existing Pages workflow; reviewed sources are in `data/oman-market.json`. Build exports `oman-data.json` and `oman-market.csv`. NCSI PDFs, market-share reports and company details require actual source review through the existing daily research automation. A successful check is not a new observation, and financial/sector disclosures are periodic, not live ticks.
+
+Ooredoo's operating page puts country selection and latest customer/ARPU cards first. Oman has exact five-year prepaid/postpaid/fixed-line counts and Q4 ARPU, six quarterly observations through Q3 2026, and separate 9M 2026 results. Eight markets can be compared. Ooredoo ARPU and financial schedules retain QAR even outside Qatar; Fixed Line preserves the issuer's definition. Consolidated group counts exclude IOH, and company-defined net debt is not reconstructed by subtracting the displayed cash from debt.
+
+Validation: `python -m unittest -v test_oman.py test_deploy.py` and `node test_oman.cjs`.
