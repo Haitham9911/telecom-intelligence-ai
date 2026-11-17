@@ -26,15 +26,18 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate offline tests
-        run: python -m unittest -v test_live.py test_app.py test_deploy.py test_quotes.py test_intelligence.py
+        run: python -m unittest -v test_live.py test_app.py test_deploy.py test_quotes.py test_intelligence.py test_financial_refresh.py
       - name: Check financial calculations
-        run: node test_intelligence.cjs
+        run: |
+          node test_intelligence.cjs
+          node test_indicators.cjs
       - name: Restore public feed and quote history
         uses: actions/cache/restore@v4
         with:
           path: |
             data/intelligence.sqlite3
             data/stock-quotes-cache.json
+            data/financial-auto.json
           key: telecom-market-v2-${{ github.run_id }}-${{ github.run_attempt }}
           restore-keys: telecom-market-v2-
       - name: Configure GitHub Pages
@@ -47,6 +50,7 @@ jobs:
           path: |
             data/intelligence.sqlite3
             data/stock-quotes-cache.json
+            data/financial-auto.json
           key: telecom-market-v2-${{ github.run_id }}-${{ github.run_attempt }}
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3

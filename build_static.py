@@ -2,7 +2,7 @@
 """Build public static site. No company secrets, no external dependencies."""
 import csv,datetime as dt,io,json,shutil,sqlite3
 from pathlib import Path
-import updater,quotes
+import updater,quotes,financial_refresh
 R=Path(__file__).resolve().parent
 SITE=R/'_site'; DATA=R/'data'
 
@@ -16,6 +16,7 @@ def build(refresh=True):
     if refresh:
         updater.refresh()
         quotes.refresh(DATA)
+        financial_refresh.refresh(DATA)
     if not (DATA/'stock-quotes.json').exists():
         (DATA/'stock-quotes.json').write_text(json.dumps({'schema':1,'quotes':[]}))
     with updater.connect() as db:
@@ -51,6 +52,7 @@ def build(refresh=True):
     status['built_at']=updater.utcnow()
     for name,obj in [('live-news.json',news),('feed-health.json',health),('live-status.json',status)]:
         (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    financial_refresh.export(DATA)
     seed=json.loads((DATA/'seed.json').read_text(encoding='utf-8'))
     with (DATA/'facts.csv').open('w',encoding='utf-8-sig',newline='') as fh:
         writer=csv.DictWriter(fh,fieldnames=['company_id','scope','period','metric','value','previous_value','previous_period','comparison_basis','unit','precision','growth_yoy','growth_basis','source_id']);writer.writeheader();writer.writerows(seed['facts'])
@@ -71,13 +73,13 @@ def build(refresh=True):
                         if row.get(k) is not None:w.writerow([p['id'],market['name_en'],row['year'],k,row[k],market['arpu_unit'] if k in ('arpu','prepaid','postpaid') else 'million customers' if k=='customers' else market['currency']+' million',market['note_en'],row.get('sources',{}).get(k) or row.get('source_url',market.get('source_url',''))])
     if SITE.exists():shutil.rmtree(SITE)
     (SITE/'data').mkdir(parents=True)
-    for name in ('seed.json','live-news.json','feed-health.json','live-status.json','facts.csv','stock-quotes.json','five-year-financials.csv','operating-metrics.csv'):
+    for name in ('seed.json','live-news.json','feed-health.json','live-status.json','facts.csv','stock-quotes.json','five-year-financials.csv','operating-metrics.csv','indicator-data.json','financial-indicators.csv'):
         shutil.copy2(DATA/name,SITE/'data'/name)
     html=(R/'index.html').read_text(encoding='utf-8')
     if 'const IS_STATIC=false;' not in html:
         raise ValueError('Static build marker is missing')
     html=html.replace('const IS_STATIC=false;', 'const IS_STATIC=true;', 1)
-    for name in ('styles.css', 'app.js', 'research.js', 'stocks.js', 'intelligence.js', 'icon.svg'):
+    for name in ('styles.css', 'app.js', 'research.js', 'stocks.js', 'intelligence.js', 'indicators.js', 'icon.svg'):
         shutil.copy2(R/name, SITE/name)
     (SITE/'index.html').write_text(html,encoding='utf-8')
     (SITE/'.nojekyll').write_text('',encoding='utf-8')

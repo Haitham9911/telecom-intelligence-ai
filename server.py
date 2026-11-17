@@ -4,7 +4,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
 import json, sqlite3, os, sys, csv, io, threading, datetime
-import updater,quotes
+import updater,quotes,financial_refresh
 ROOT=Path(__file__).resolve().parent
 DB=ROOT/'data'/'intelligence.sqlite3'
 SEED=json.loads((ROOT/'data'/'seed.json').read_text(encoding='utf-8'))
@@ -50,6 +50,9 @@ class Handler(SimpleHTTPRequestHandler):
                 if not path.exists():self.send_error(404);return
                 payload=path.read_bytes();self.send_response(200);self.send_header('Content-Type','text/csv; charset=utf-8');self.end_headers();self.wfile.write(payload);return
             if u.path=='/api/stock-quotes':self.json(quotes.read(ROOT/'data'/'stock-quotes.json'));return
+            if u.path=='/api/indicators':self.json(financial_refresh.combined(ROOT/'data'));return
+            if u.path=='/api/financial-indicators.csv':
+                financial_refresh.export(ROOT/'data');payload=(ROOT/'data'/'financial-indicators.csv').read_bytes();self.send_response(200);self.send_header('Content-Type','text/csv; charset=utf-8');self.end_headers();self.wfile.write(payload);return
             if u.path=='/api/seed':self.json(SEED);return
             if u.path=='/api/status':
                 health=health_rows()
