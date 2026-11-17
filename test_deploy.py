@@ -6,22 +6,26 @@ class DeployTests(unittest.TestCase):
  def test_static_build_no_secrets(self):
   with tempfile.TemporaryDirectory() as d:
    base=Path(d);(base/'data').mkdir()
-   (base/'index.html').write_text((build_static.R/'index.html').read_text())
+   for name in ('index.html','styles.css','app.js','icon.svg'):
+    shutil.copy2(build_static.R/name,base/name)
    (base/'data'/'seed.json').write_text((build_static.R/'data'/'seed.json').read_text())
    with patch.object(build_static,'R',base),patch.object(build_static,'SITE',base/'_site'),patch.object(build_static,'DATA',base/'data'),patch.object(build_static.updater,'DB',base/'data'/'cache.sqlite3'):
     build_static.build(refresh=False)
    site=base/'_site'
    html=(site/'index.html').read_text()
    self.assertIn('const IS_STATIC=true',html)
-   self.assertIn('data/live-news.json',html)
-   self.assertIn('data/facts.csv',html)
+   self.assertIn('data/live-news.json',(site/'app.js').read_text())
+   self.assertIn('data/facts.csv',(site/'app.js').read_text())
+   for name in ('styles.css','app.js','icon.svg'):
+    self.assertTrue((site/name).is_file())
    self.assertFalse((site/'server.py').exists())
    self.assertFalse((site/'data'/'cache.sqlite3').exists())
    self.assertEqual(json.loads((site/'data'/'live-news.json').read_text()),[])
  def test_feed_history_survives_failed_refresh_and_disabled_feed_is_excluded(self):
   with tempfile.TemporaryDirectory() as d:
    base=Path(d);(base/'data').mkdir()
-   (base/'index.html').write_text((build_static.R/'index.html').read_text())
+   for name in ('index.html','styles.css','app.js','icon.svg'):
+    shutil.copy2(build_static.R/name,base/name)
    (base/'data'/'seed.json').write_text((build_static.R/'data'/'seed.json').read_text())
    prior=[{'id':'retained-story','title':'Previous headline','published':'2026-11-17T08:00:00+00:00'}]
    (base/'data'/'live-news.json').write_text(json.dumps(prior))

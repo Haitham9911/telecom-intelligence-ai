@@ -41,15 +41,11 @@ def build(refresh=True):
     for name in ('seed.json','live-news.json','feed-health.json','live-status.json','facts.csv'):
         shutil.copy2(DATA/name,SITE/'data'/name)
     html=(R/'index.html').read_text(encoding='utf-8')
-    html=html.replace('const seedSource=', 'const IS_STATIC=true;const seedSource=',1)
-    html=html.replace("async function load(){try{const keys=", "async function load(){if(IS_STATIC){try{db=await fetch('data/seed.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()});render();}catch(e){document.querySelector('#dashboard').prepend(el('div','notice','تعذر تحميل البيانات العامة.'));}return;}try{const keys=",1)
-    html=html.replace("async function updateLive(){\n  try{", "async function updateLive(){\n  try{",1)
-    html=html.replace("const endpoints=['/api/live-news','/api/feed-health','/api/status'];", "const endpoints=IS_STATIC?['data/live-news.json','data/feed-health.json','data/live-status.json']:['/api/live-news','/api/feed-health','/api/status'];",1)
-    html=html.replace('href="/api/export.csv"','href="data/facts.csv"')
-    html=html.replace('تحديث الأخبار معطل','التحديث المجدول غير متاح')
-    html=html.replace('هذا التطبيق يفحص خلاصات RSS العامة عند تشغيل الخادم مع اتصال إنترنت.', 'يتم فحص خلاصات RSS العامة بواسطة مهام مجدولة عندما تعمل GitHub Actions بنجاح.')
-    html=html.replace('<div class="row"><span>Local API</span><span class="token">/api/companies · /api/facts · /api/events</span></div>', '<div class="row"><span>Data mode</span><span class="token">Static + scheduled RSS snapshots</span></div>')
-    html=html.replace('Telecom Intelligence AI · MVP 0.3','Telecom Intelligence AI · Deployable MVP 0.4')
+    if 'const IS_STATIC=false;' not in html:
+        raise ValueError('Static build marker is missing')
+    html=html.replace('const IS_STATIC=false;', 'const IS_STATIC=true;', 1)
+    for name in ('styles.css', 'app.js', 'icon.svg'):
+        shutil.copy2(R/name, SITE/name)
     (SITE/'index.html').write_text(html,encoding='utf-8')
     (SITE/'.nojekyll').write_text('',encoding='utf-8')
     print('Site built:',SITE,'news:',len(news),'successful feeds:',status['feeds_ok'])

@@ -1,6 +1,18 @@
 # Telecom Intelligence AI
 
-Arabic telecom research dashboard deployed through GitHub Pages.
+Arabic and English telecom research workspace deployed through GitHub Pages.
+
+## Research workspace
+
+- Responsive layout, mobile navigation, and a light/dark theme.
+- Searchable company directory and news feed with company, topic, and date-order filters.
+- Sourced financial results with period selection, actual reported growth charts, and CSV export.
+- Company and article bookmarks saved locally in the current browser.
+- Source health, last successful refresh, and clear separation of news from financial data.
+
+Articles retain their original publisher language. Interface language and theme
+preferences persist in the current browser. No sign-in or cross-device bookmark
+synchronization is provided.
 
 ## Deployment
 
@@ -28,7 +40,7 @@ Financial figures and share prices do not refresh from RSS.
 
 No API keys, private company data, or connection to other business systems
 are required. The GitHub Pages build publishes only static HTML and public
-JSON/CSV. Alert switches are browser-local preferences, not push notifications.
+JSON/CSV. Watchlists are browser-local bookmarks, not push notifications.
 
 ## Validation and local use
 
