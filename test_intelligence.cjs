@@ -22,3 +22,11 @@ assert.equal(calc("marketValue(profile('OTEL').operations.markets.find(m=>m.id==
 assert.equal(calc("marketValue(profile('OTEL').operations.markets.find(m=>m.id==='Oman mobile'),2023,'arpu_growth')"),null);
 assert.equal(calc("marketValue(profile('OTEL').operations.markets.find(m=>m.id==='Oman mobile'),2025,'customers')"),null);
 console.log('Omantel full-year source and scope: 3 checks passed');
+assert.equal(calc('profiles().length'),9);
+assert.equal(calc("profile('DTE').ebitda_label"),'Adjusted EBITDA AL');
+assert.equal(calc("profile('TMUS').annual[0].ebitda"),23576);
+assert.equal(calc("derived(profile('TEF'),'2025','profit_margin')"),null);
+assert.equal(calc("derived(profile('TEF'),'2025','profit_growth')"),null);
+assert.ok(Math.abs(calc("derived(profile('TEF'),'2025','revenue_growth')")-(35120/35671-1)*100)<1e-9);
+assert.equal(calc("comparisonPeriod({annual:[],latest:{period:'Q3 2026'}},'2026')"),null);
+console.log('Global definitions, restated comparators and interim scope: 7 checks passed');

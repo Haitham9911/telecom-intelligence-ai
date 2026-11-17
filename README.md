@@ -56,9 +56,10 @@ for GitHub Pages.
 
 ## Financial data
 
-The supplied seed contains Zain Group 9M/Q3 2026 figures and source links.
-Other covered companies have no invented peer figures. Reported EBITDA margin
-is used because rounded revenue is unsuitable for deriving an exact margin.
+The reviewed seed contains FY2021–FY2025 and separate 9M2026 disclosures for
+nine groups: Omantel, Zain, Ooredoo, stc, e&, Deutsche Telekom, Verizon,
+T-Mobile US and Telefónica. Each row preserves its source and reporting basis.
+Reported margins are used where available; derived ratios are labelled.
 Omantel excluding Zain cannot be calculated by simply subtracting the two
 published consolidated groups; eliminations and adjustments are required.
 
@@ -111,11 +112,11 @@ https://www.tradingview.com/widget-docs/faq/data/ .
 
 ## Five-year research and company monitoring
 
-The research workspace covers Omantel, Zain Group, Ooredoo Group, stc and e&/etisalat for FY2021–FY2025, alongside separate9M2026 disclosures. Every annual row has primary-source links and reporting-basis notes. IAS29, discontinued operations, acquisitions and exceptional gains must not be treated as organic growth. Cross-company charts use margins/growth; native-currency amounts are never added or ranked as a common currency.
+The research workspace covers nine groups for FY2021–FY2025, alongside separate 9M2026 disclosures. Every annual row has primary-source links and reporting-basis notes. IAS29, discontinued operations, acquisitions and exceptional gains must not be treated as organic growth. Cross-company charts use margins/growth; native-currency amounts are never added or ranked as a common currency.
 
 `data/seed.json:intelligence` stores reviewed financial and strategy snapshots. `intelligence.js` calculates labelled comparisons locally. Missing comparisons remain null; scope breaks suppress misleading YoY calculations. The UI offers company/year/metric selection, five-year CSV, strategic priorities and analytical monitoring questions.
 
-`feeds.json` configures English/Arabic Google News RSS searches for five groups, the official e& newsroom and TeleGeography. Aggregators are explicitly labelled; title matching rejects unrelated search hits. Official e& HTML ingestion reads only dated headline links and fails visibly if markup changes. Company tags can include multiple groups. URL deduplication strips tracking parameters and preserves cross-feed history. A maximum2000 archived headlines is published; this is bounded, best-effort monitoring, not exhaustive coverage. GitHub cache eviction and publisher indexing can cause gaps.
+`feeds.json` configures English/Arabic Google News RSS searches for five Gulf groups, English searches for four global companies, the official e& newsroom and TeleGeography. Aggregators are explicitly labelled; title matching rejects unrelated search hits. Official e& HTML ingestion reads only dated headline links and fails visibly if markup changes. Company tags can include multiple groups. URL deduplication strips tracking parameters and preserves cross-feed history. A maximum 2000 archived headlines is published; this is bounded, best-effort monitoring, not exhaustive coverage. GitHub cache eviction and publisher indexing can cause gaps.
 
 The existing30-minute GitHub Pages schedule refreshes news and delayed quotes. Financials and strategy are reviewed separately; the visible review date must only advance after source review. A daily ChatGPT automation checks new official disclosures and strategies and can update this repository after validation. It is separate from GitHub Actions and has not necessarily run merely because it is configured.
 
@@ -124,3 +125,9 @@ Validation: `python -m unittest -v test_live.py test_app.py test_deploy.py test_
 Operating intelligence adds Ooredoo's eight markets for 2021–2025 (ARPU, revenue, EBITDA and year-end customers), plus prepaid/postpaid ARPU for Qatar, Kuwait and Oman. Ooredoo ARPU is Q4 monthly in QAR for every market, not annual or local currency. Qatar's 2022 comparative is restated. e& UAE mobile/fixed ARPU is also Q4; Omantel/Zain report bases differ. The operating page separates domestic/market scope from consolidated financials and links metric-level sources. CapEx, company-defined FCF, CFO, subscriptions and debt are shown where verified; unavailable values remain null. CSV exports preserve scope and units.
 
 Market analysis now provides a selectable-year Ooredoo eight-market matrix, revenue/ARPU/customer growth and EBITDA margin movements. Share links retain market, year and metric. Qatar 2022 ARPU growth and Omantel 2023 ARPU growth are suppressed for definition changes. Omantel FY2025 mobile/fixed ARPU and prepaid/postpaid detail are sourced from the 9 March 2026 full-year conference call (pages18–19); domestic total subscriptions stay separate from historical mobile including resellers. Metric definitions remain expandable in the UI. Growth is descriptive, not a causal attribution.
+
+### Global comparison definitions
+
+Comparison presets select all nine groups, the five Gulf groups, or the four global companies. Revenue growth is the default chart. The operating measure retains each company's exact definition: Deutsche Telekom Adjusted EBITDA AL, Verizon Consolidated Adjusted EBITDA, T-Mobile Core Adjusted EBITDA, and Telefónica reported OIBDA/EBITDA. These measures are not a normalized efficiency ranking. Deutsche Telekom consolidates T-Mobile, just as Omantel consolidates Zain; group totals must not be summed.
+
+Telefónica FY2025 revenue growth uses its restated FY2024 continuing-operations comparator. Its FY2025 and 9M2026 profit margins are suppressed because total profit includes discontinued operations while revenue excludes them. Negative reported profits remain negative in the charts. Deutsche Telekom annual revenue follows the management approach, not a continuous audited continuing-operations series. Source notes identify one-off gains, acquisitions and changes of scope. Cash metrics retain company definitions, including FCF AL and adjusted FCF; no unavailable ARPU series is inferred.

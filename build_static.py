@@ -47,7 +47,7 @@ def build(refresh=True):
       'financial_kpis_live':False,'msx_connected':False,'msx_quotes_mode':'scheduled-delayed-snapshot',
       'message':'Scheduled public news and delayed MSX share-price snapshots; verified earnings do not update automatically.'}
     configured=json.loads(updater.FEEDS_FILE.read_text())['feeds']
-    status['company_coverage']={cid:[dict(row,kind=next((f.get('kind') for f in configured if f['id']==row['feed_id']),'')) for row in health if any(f['id']==row['feed_id'] and f.get('company_id')==cid for f in configured)] for cid in ('OTEL','ZAIN','ORDS','STC','EAND')}
+    status['company_coverage']={cid:[dict(row,kind=next((f.get('kind') for f in configured if f['id']==row['feed_id']),'')) for row in health if any(f['id']==row['feed_id'] and f.get('company_id')==cid for f in configured)] for cid in ('OTEL','ZAIN','ORDS','STC','EAND','DTE','VZ','TMUS','TEF')}
     status['built_at']=updater.utcnow()
     for name,obj in [('live-news.json',news),('feed-health.json',health),('live-status.json',status)]:
         (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
@@ -55,16 +55,16 @@ def build(refresh=True):
     with (DATA/'facts.csv').open('w',encoding='utf-8-sig',newline='') as fh:
         writer=csv.DictWriter(fh,fieldnames=['company_id','scope','period','metric','value','previous_value','previous_period','comparison_basis','unit','precision','growth_yoy','growth_basis','source_id']);writer.writeheader();writer.writerows(seed['facts'])
     with (DATA/'five-year-financials.csv').open('w',encoding='utf-8-sig',newline='') as fh:
-        w=csv.writer(fh);w.writerow(['company','year','currency_millions','revenue','ebitda','attributable_profit','basis','source','ebitda_source'])
+        w=csv.writer(fh);w.writerow(['company','year','currency_millions','revenue','ebitda','attributable_profit','basis','source','ebitda_source','operating_earnings_metric','profit_metric','comparable_prior_revenue','comparable_prior_source'])
         for p in seed.get('intelligence',{}).get('profiles',[]):
-            for a in p['annual']:w.writerow([p['id'],a['year'],p['currency'],a.get('revenue'),a.get('ebitda'),a.get('attributable_profit'),a.get('basis_en'),a.get('source_url'),a.get('ebitda_source_url')])
+            for a in p['annual']:w.writerow([p['id'],a['year'],p['currency'],a.get('revenue'),a.get('ebitda'),a.get('attributable_profit'),a.get('basis_en'),a.get('source_url'),a.get('ebitda_source_url'),a.get('ebitda_label',p.get('ebitda_label','EBITDA')),p.get('profit_label','Attributable profit'),a.get('comparative_revenue'),a.get('comparative_source_url')])
     with (DATA/'operating-metrics.csv').open('w',encoding='utf-8-sig',newline='') as fh:
         w=csv.writer(fh);w.writerow(['company','scope_or_market','year','metric','value','unit','basis','source'])
         for p in seed.get('intelligence',{}).get('profiles',[]):
             op=p.get('operations',{})
             for row in op.get('group',[]):
                 for k in ('capex','free_cash_flow','operating_cash_flow','customers','net_debt','net_debt_ebitda'):
-                    if row.get(k) is not None:w.writerow([p['id'],op.get('scope_en','Group'),row['year'],k,row[k],'million customers' if k=='customers' else 'times' if k=='net_debt_ebitda' else op.get('currency',p['currency'])+' million',op.get('note_en',''),row.get('sources',{}).get(k) or row.get('source_url','')])
+                    if row.get(k) is not None:w.writerow([p['id'],op.get('scope_en','Group'),row['year'],k,row[k],'million customers' if k=='customers' else 'times' if k=='net_debt_ebitda' else op.get('currency',p['currency'])+' million',' | '.join(filter(None,[op.get('note_en',''),row.get('basis',{}).get(k),str(op.get('metric_labels',{}).get(k,''))])),row.get('sources',{}).get(k) or row.get('source_url','')])
             for market in op.get('markets',[]):
                 for row in market['rows']:
                     for k in ('arpu','prepaid','postpaid','revenue','ebitda','customers'):

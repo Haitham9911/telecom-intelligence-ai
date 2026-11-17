@@ -86,7 +86,7 @@ def parse_feed(data):
         out.append({'title':title[:320],'url':link[:1500],'summary':'','published':published,'publisher':text_of(node,{'source'})[:120]})
     return out[:80]
 
-COMPANY_TERMS=[('ZAIN',r'\bzain\b|زين'),('OTEL',r'\bomantel\b|\bzoi\b|عمانتل'),('ORED',r'ooredoo oman|أوريدو ع[ُ]?مان|اوريدو عمان'),('ORDS',r'\booredoo\b|أوريدو|اوريدو'),('STC',r'\bstc\b|saudi telecom|السعودية للاتصالات|الاتصالات السعودية|إس تي سي'),('EAND',r'(?<!\w)e\s*&(?=\s|$|[^a-z])|\betisalat\b|اتصالات الإمارات|مجموعة إي|إي آند'),('VOD',r'\bvodafone\b|فودافون'),('DTE',r'deutsche telekom'),('SINGTEL',r'\bsingtel\b')]
+COMPANY_TERMS=[('ZAIN',r'\bzain\b|زين'),('OTEL',r'\bomantel\b|\bzoi\b|عمانتل'),('ORED',r'ooredoo oman|أوريدو ع[ُ]?مان|اوريدو عمان'),('ORDS',r'\booredoo\b|أوريدو|اوريدو'),('STC',r'\bstc\b|saudi telecom|السعودية للاتصالات|الاتصالات السعودية|إس تي سي'),('EAND',r'(?<!\w)e\s*&(?=\s|$|[^a-z])|\betisalat\b|اتصالات الإمارات|مجموعة إي|إي آند'),('VOD',r'\bvodafone\b|فودافون'),('DTE',r'deutsche telekom'),('SINGTEL',r'\bsingtel\b'),('VZ',r'\bverizon\b'),('TMUS',r'\bt[ -]mobile\b'),('TEF',r'telef[oó]nica')]
 
 def companies_in(title):
     ids=[company for company,pattern in COMPANY_TERMS if re.search(pattern,title,re.I)]

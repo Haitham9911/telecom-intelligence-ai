@@ -9,6 +9,10 @@ class IntelligenceTests(unittest.TestCase):
  def test_oman_operator_not_group_and_eand_ampersand(self):
   self.assertEqual(updater.companies_in('Ooredoo Oman results'),['ORED'])
   self.assertIn('EAND',updater.companies_in('e& reports financial results'))
+ def test_global_news_tagging(self):
+  self.assertEqual(updater.companies_in('Verizon and T-Mobile announce agreement'),['VZ','TMUS'])
+  self.assertIn('TEF',updater.companies_in('Telefónica results'))
+  self.assertIn('DTE',updater.companies_in('Deutsche Telekom raises guidance'))
  def test_canonical_url_removes_tracking_not_article_identity(self):
   self.assertEqual(updater.canonical_url('https://EXAMPLE.com/story/?id=4&utm_source=rss#x'),'https://example.com/story?id=4')
  def test_same_article_two_feeds_stored_once(self):

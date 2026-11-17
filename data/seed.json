@@ -742,6 +742,126 @@
       "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
       "checked": "2026-11-17",
       "mode": "verified-seed"
+    },
+    {
+      "id": "global-dte-2021",
+      "label": "DTE FY2021 official results",
+      "url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-dte-2022",
+      "label": "DTE FY2022 official results",
+      "url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-dte-2023",
+      "label": "DTE FY2023 official results",
+      "url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-dte-2024",
+      "label": "DTE FY2024 official results",
+      "url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-dte-2025",
+      "label": "DTE FY2025 official results",
+      "url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-vz-2021",
+      "label": "VZ FY2021 official results",
+      "url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-vz-2022",
+      "label": "VZ FY2022 official results",
+      "url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-vz-2023",
+      "label": "VZ FY2023 official results",
+      "url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-vz-2024",
+      "label": "VZ FY2024 official results",
+      "url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-vz-2025",
+      "label": "VZ FY2025 official results",
+      "url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tmus-2021",
+      "label": "TMUS FY2021 official results",
+      "url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tmus-2022",
+      "label": "TMUS FY2022 official results",
+      "url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tmus-2023",
+      "label": "TMUS FY2023 official results",
+      "url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tmus-2024",
+      "label": "TMUS FY2024 official results",
+      "url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tmus-2025",
+      "label": "TMUS FY2025 official results",
+      "url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tef-2021",
+      "label": "TEF FY2021 official results",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tef-2022",
+      "label": "TEF FY2022 official results",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tef-2023",
+      "label": "TEF FY2023 official results",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tef-2024",
+      "label": "TEF FY2024 official results",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2025/01/rdos24t4-eng.pdf",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "global-tef-2025",
+      "label": "TEF FY2025 official results",
+      "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf",
+      "mode": "verified-seed"
     }
   ],
   "schema": 2,
@@ -1125,6 +1245,286 @@
       "format": "OFFICIAL",
       "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
       "source_id": "eand-fy-2025"
+    },
+    {
+      "id": "global-dte-2021",
+      "company_id": "DTE",
+      "period": "FY 2021",
+      "date": null,
+      "format": "HTML",
+      "title_ar": "DTE — مصدر نتائج 2021",
+      "title_en": "DTE — 2021 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "url_ar": null,
+      "source_id": "global-dte-2021"
+    },
+    {
+      "id": "global-dte-2022",
+      "company_id": "DTE",
+      "period": "FY 2022",
+      "date": null,
+      "format": "HTML",
+      "title_ar": "DTE — مصدر نتائج 2022",
+      "title_en": "DTE — 2022 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "url_ar": null,
+      "source_id": "global-dte-2022"
+    },
+    {
+      "id": "global-dte-2023",
+      "company_id": "DTE",
+      "period": "FY 2023",
+      "date": null,
+      "format": "HTML",
+      "title_ar": "DTE — مصدر نتائج 2023",
+      "title_en": "DTE — 2023 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "url_ar": null,
+      "source_id": "global-dte-2023"
+    },
+    {
+      "id": "global-dte-2024",
+      "company_id": "DTE",
+      "period": "FY 2024",
+      "date": null,
+      "format": "HTML",
+      "title_ar": "DTE — مصدر نتائج 2024",
+      "title_en": "DTE — 2024 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "url_ar": null,
+      "source_id": "global-dte-2024"
+    },
+    {
+      "id": "global-dte-2025",
+      "company_id": "DTE",
+      "period": "FY 2025",
+      "date": null,
+      "format": "HTML",
+      "title_ar": "DTE — مصدر نتائج 2025",
+      "title_en": "DTE — 2025 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+      "url_ar": null,
+      "source_id": "global-dte-2025"
+    },
+    {
+      "id": "global-vz-2021",
+      "company_id": "VZ",
+      "period": "FY 2021",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "VZ — مصدر نتائج 2021",
+      "title_en": "VZ — 2021 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+      "url_ar": null,
+      "source_id": "global-vz-2021"
+    },
+    {
+      "id": "global-vz-2022",
+      "company_id": "VZ",
+      "period": "FY 2022",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "VZ — مصدر نتائج 2022",
+      "title_en": "VZ — 2022 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+      "url_ar": null,
+      "source_id": "global-vz-2022"
+    },
+    {
+      "id": "global-vz-2023",
+      "company_id": "VZ",
+      "period": "FY 2023",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "VZ — مصدر نتائج 2023",
+      "title_en": "VZ — 2023 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "url_ar": null,
+      "source_id": "global-vz-2023"
+    },
+    {
+      "id": "global-vz-2024",
+      "company_id": "VZ",
+      "period": "FY 2024",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "VZ — مصدر نتائج 2024",
+      "title_en": "VZ — 2024 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "url_ar": null,
+      "source_id": "global-vz-2024"
+    },
+    {
+      "id": "global-vz-2025",
+      "company_id": "VZ",
+      "period": "FY 2025",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "VZ — مصدر نتائج 2025",
+      "title_en": "VZ — 2025 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+      "url_ar": null,
+      "source_id": "global-vz-2025"
+    },
+    {
+      "id": "global-tmus-2021",
+      "company_id": "TMUS",
+      "period": "FY 2021",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TMUS — مصدر نتائج 2021",
+      "title_en": "TMUS — 2021 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+      "url_ar": null,
+      "source_id": "global-tmus-2021"
+    },
+    {
+      "id": "global-tmus-2022",
+      "company_id": "TMUS",
+      "period": "FY 2022",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TMUS — مصدر نتائج 2022",
+      "title_en": "TMUS — 2022 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+      "url_ar": null,
+      "source_id": "global-tmus-2022"
+    },
+    {
+      "id": "global-tmus-2023",
+      "company_id": "TMUS",
+      "period": "FY 2023",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TMUS — مصدر نتائج 2023",
+      "title_en": "TMUS — 2023 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "url_ar": null,
+      "source_id": "global-tmus-2023"
+    },
+    {
+      "id": "global-tmus-2024",
+      "company_id": "TMUS",
+      "period": "FY 2024",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TMUS — مصدر نتائج 2024",
+      "title_en": "TMUS — 2024 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "url_ar": null,
+      "source_id": "global-tmus-2024"
+    },
+    {
+      "id": "global-tmus-2025",
+      "company_id": "TMUS",
+      "period": "FY 2025",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TMUS — مصدر نتائج 2025",
+      "title_en": "TMUS — 2025 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+      "url_ar": null,
+      "source_id": "global-tmus-2025"
+    },
+    {
+      "id": "global-tef-2021",
+      "company_id": "TEF",
+      "period": "FY 2021",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TEF — مصدر نتائج 2021",
+      "title_en": "TEF — 2021 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "url_ar": null,
+      "source_id": "global-tef-2021"
+    },
+    {
+      "id": "global-tef-2022",
+      "company_id": "TEF",
+      "period": "FY 2022",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TEF — مصدر نتائج 2022",
+      "title_en": "TEF — 2022 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "url_ar": null,
+      "source_id": "global-tef-2022"
+    },
+    {
+      "id": "global-tef-2023",
+      "company_id": "TEF",
+      "period": "FY 2023",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TEF — مصدر نتائج 2023",
+      "title_en": "TEF — 2023 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+      "url_ar": null,
+      "source_id": "global-tef-2023"
+    },
+    {
+      "id": "global-tef-2024",
+      "company_id": "TEF",
+      "period": "FY 2024",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TEF — مصدر نتائج 2024",
+      "title_en": "TEF — 2024 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2025/01/rdos24t4-eng.pdf",
+      "url_ar": null,
+      "source_id": "global-tef-2024"
+    },
+    {
+      "id": "global-tef-2025",
+      "company_id": "TEF",
+      "period": "FY 2025",
+      "date": null,
+      "format": "PDF",
+      "title_ar": "TEF — مصدر نتائج 2025",
+      "title_en": "TEF — 2025 results source",
+      "description_ar": "مصدر رسمي للبيانات التاريخية؛ قد تكون السنة ضمن مقارنة تقرير لاحق. راجع تعريف المقياس ونطاق التوحيد.",
+      "description_en": "Primary source for historical figures; the year may appear as a later report comparative. Review measure definitions and consolidation scope.",
+      "url_en": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf",
+      "url_ar": null,
+      "source_id": "global-tef-2025"
     }
   ],
   "intelligence": {
@@ -3131,6 +3531,866 @@
               ]
             }
           ]
+        }
+      },
+      {
+        "id": "DTE",
+        "currency": "EUR",
+        "ebitda_label": "Adjusted EBITDA AL",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 107811,
+            "ebitda": 37330,
+            "attributable_profit": 4176,
+            "ebitda_label": "Adjusted EBITDA AL",
+            "source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "ebitda_source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "comparable_previous": true,
+            "basis_ar": "منهج الإدارة؛ نمو معلن يتأثر بتغير النطاق والعملة.",
+            "basis_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. Comparatives as presented in FY2023 management report.",
+            "ebitda_margin_available": true
+          },
+          {
+            "year": 2022,
+            "revenue": 114413,
+            "ebitda": 40208,
+            "attributable_profit": 8001,
+            "ebitda_label": "Adjusted EBITDA AL",
+            "source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "ebitda_source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "comparable_previous": true,
+            "basis_ar": "منهج الإدارة؛ نمو معلن يتأثر بتغير النطاق والعملة.",
+            "basis_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. Comparatives as presented in FY2023 management report.",
+            "ebitda_margin_available": true
+          },
+          {
+            "year": 2023,
+            "revenue": 111985,
+            "ebitda": 40497,
+            "attributable_profit": 17788,
+            "ebitda_label": "Adjusted EBITDA AL",
+            "source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "ebitda_source_url": "https://report.telekom.com/annual-report-2023/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "comparable_previous": true,
+            "basis_ar": "منهج الإدارة؛ نمو معلن يتأثر بتغير النطاق والعملة.",
+            "basis_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. Reported profit contains a large GD Towers disposal effect; adjusted net profit is provided separately.",
+            "ebitda_margin_available": true
+          },
+          {
+            "year": 2024,
+            "revenue": 115769,
+            "ebitda": 43021,
+            "attributable_profit": 11209,
+            "ebitda_label": "Adjusted EBITDA AL",
+            "source_url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "ebitda_source_url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "comparable_previous": true,
+            "basis_ar": "منهج الإدارة؛ نمو معلن يتأثر بتغير النطاق والعملة.",
+            "basis_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. 2024 impairment reversals materially affect reported 2024 profit and the 2025 year-on-year comparison.",
+            "ebitda_margin_available": true
+          },
+          {
+            "year": 2025,
+            "revenue": 119081,
+            "ebitda": 44244,
+            "attributable_profit": 9609,
+            "ebitda_label": "Adjusted EBITDA AL",
+            "source_url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "ebitda_source_url": "https://report.telekom.com/annual-report-2025/management-report/development-of-business-in-the-group/results-of-operations-of-the-group.html",
+            "comparable_previous": true,
+            "basis_ar": "منهج الإدارة؛ نمو معلن يتأثر بتغير النطاق والعملة.",
+            "basis_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. 2024 impairment reversals materially affect reported 2024 profit and the 2025 year-on-year comparison.",
+            "ebitda_margin_available": true
+          }
+        ],
+        "note_ar": "الإيرادات وفق منهج الإدارة الذي يحتفظ بمساهمة GD Towers حتى يناير 2023، وليست سلسلة إيرادات العمليات المستمرة بالقوائم المدققة. المقياس Adjusted EBITDA AL بعد الإيجارات ومعدّل للبنود الخاصة. دويتشه تضم T-Mobile US فلا تُجمع نتائجهما. ربح 2023 يتضمن أثر بيع الأبراج، و2024 يتضمن عكس انخفاضات قيمة. النمو معلن وليس عضويًا.",
+        "note_en": "Group management-report series; includes GD Towers through January 2023. Not the continuing-operations revenue series in the audited income statement. Calendar fiscal years ending December 31. T-Mobile US is consolidated within Deutsche Telekom. Do not sum both companies as independent groups for market totals. GD Towers was classified as discontinued in financial statements, but management figures retain its contribution through January 2023. This file consistently uses management revenue. 2023 reported net profit includes the tower-sale effect; it is unsuitable as a recurring earnings baseline without the separate adjusted series. 2024 benefited from FCC-license impairment reversals and reversals on GD Towers/GlasfaserPlus investments. These explain part of the decline in reported 2025 profit. Group perimeter and foreign exchange change over time: Netherlands disposal in 2022, towers and US wireline disposals in 2023, US acquisitions and Romania mobile disposal in 2025. These are reported, not constant-scope organic, annual values. FY2021–2023 optional cash metrics are converted from one-decimal EUR-billion disclosures and are rounded to EUR100m, not exact million figures. No CFO or ARPU was verified in this bounded task.",
+        "operations": {
+          "currency": "EUR",
+          "scope_ar": "مؤشرات المجموعة — تعريفات الشركة",
+          "scope_en": "Group metrics — company definitions",
+          "note_ar": "التدفق الحر Free cash flow AL قبل التوزيعات والطيف ووفق تعريف الشركة. CapEx قبل الطيف. صافي الدين يشمل الإيجارات؛ العملاء شرائح الهاتف المتنقل ويشملون جملة T-Mobile US. قيم النقد 2021–2023 مقربة إلى 100 مليون يورو.",
+          "note_en": "Adjusted EBITDA AL (EBITDA AL adjusted for special factors), a company-defined after-leases measure. Keep this exact label; do not insert into generic EBITDA comparisons. Reported net profit attributable to owners of the parent, after non-controlling interests; includes discontinued operations and exceptional items. Cash outflow magnitude for PPE and intangible assets excluding goodwill, before spectrum investment. Free cash flow AL before dividend payments and spectrum investment; deducts lease principal repayments except finance leases at T-Mobile US. 2025 additionally excludes acquisition of customer bases and proceeds from spectrum disposals.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "free_cash_flow": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "net_debt": null,
+                "customers": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html"
+              },
+              "basis": {
+                "capex": "Cash capex before spectrum Rounded to EUR100m.",
+                "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment Rounded to EUR100m.",
+                "net_debt": "",
+                "customers": "Group mobile customers, including T-Mobile US wholesale"
+              },
+              "capex": 18000,
+              "free_cash_flow": 8800,
+              "net_debt": null,
+              "customers": 248.2
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "free_cash_flow": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "net_debt": null,
+                "customers": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html"
+              },
+              "basis": {
+                "capex": "Cash capex before spectrum Rounded to EUR100m.",
+                "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment Rounded to EUR100m.",
+                "net_debt": "",
+                "customers": "Group mobile customers, including T-Mobile US wholesale"
+              },
+              "capex": 21000,
+              "free_cash_flow": 11500,
+              "net_debt": null,
+              "customers": 245.4
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "free_cash_flow": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html",
+                "net_debt": null,
+                "customers": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html"
+              },
+              "basis": {
+                "capex": "Cash capex before spectrum Rounded to EUR100m.",
+                "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment Rounded to EUR100m.",
+                "net_debt": "",
+                "customers": "Group mobile customers, including T-Mobile US wholesale"
+              },
+              "capex": 16600,
+              "free_cash_flow": 16100,
+              "net_debt": null,
+              "customers": 252.2
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "free_cash_flow": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "net_debt": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "customers": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html"
+              },
+              "basis": {
+                "capex": "Cash capex before spectrum",
+                "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment",
+                "net_debt": "Net debt including leases",
+                "customers": "Group mobile customers, including T-Mobile US wholesale"
+              },
+              "capex": 15962,
+              "free_cash_flow": 19156,
+              "net_debt": 137327,
+              "customers": 261.4
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "free_cash_flow": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "net_debt": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/2/deutsche-telekom-outperforms-targets-for-2025",
+                "customers": "https://report.telekom.com/annual-report-2025/management-report/management-of-the-group/performance-management-system.html"
+              },
+              "basis": {
+                "capex": "Cash capex before spectrum",
+                "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment",
+                "net_debt": "Net debt including leases",
+                "customers": "Group mobile customers, including T-Mobile US wholesale"
+              },
+              "capex": 16864,
+              "free_cash_flow": 19546,
+              "net_debt": 132518,
+              "customers": 273.2
+            }
+          ],
+          "markets": [],
+          "metric_labels": {
+            "capex": "Cash capex before spectrum",
+            "free_cash_flow": "Free cash flow AL before dividend payments and spectrum investment",
+            "net_debt": "Net debt including leases",
+            "customers": "Group mobile customers, including T-Mobile US wholesale"
+          }
+        },
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-11-05",
+          "revenue": 90906,
+          "ebitda": 35552,
+          "attributable_profit": 7255,
+          "ebitda_label": "Adjusted EBITDA AL",
+          "source_url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/more-growth-raised-guidance-record-dividend",
+          "note_ar": "فترة تسعة أشهر وليست سنة كاملة. نمو محسوب من مقارنة الفترة السابقة في الإفصاح، ويتأثر بالاستحواذات وتحويل الدولار.",
+          "note_en": "Nine-month flows, not annualized. Net debt is a period-end balance. Reported growth differs from organic growth; USD translation and changes in consolidation matter.",
+          "growth_calculated": true,
+          "revenue_growth": 4.057874795389238,
+          "ebitda_growth": 6.408069198766864,
+          "profit_growth": -8.001521683996959
+        },
+        "strategy": {
+          "name": "Leading Digital Telco by 2030",
+          "summary_ar": "التحول إلى مشغل رقمي رائد عبر الألياف و5G والذكاء الاصطناعي وتوسيع المنصات المشتركة.",
+          "summary_en": "Leading digital telco through networks, data/AI and shared platforms.",
+          "pillars_ar": [
+            "توسيع الألياف و5G والإنترنت المنزلي في الولايات المتحدة.",
+            "تطبيق الذكاء الاصطناعي وتحسين تجربة العملاء وخدمات الأعمال.",
+            "توسيع المنصات المشتركة مع تمويل النمو وعوائد المساهمين."
+          ],
+          "pillars_en": [
+            "Invest in fiber and 5G, expand US broadband through fixed wireless and fiber partnerships.",
+            "Use AI and data to improve customer experience, automate operations and offer sovereign cloud/AI services to businesses.",
+            "Scale common platforms and services across markets while preserving local operating strengths; reinvest cash generation in growth and shareholder returns."
+          ],
+          "watch_ar": [
+            "هل يتحول نمو الإيرادات إلى تدفق نقدي مستدام؟",
+            "ما أثر الاستحواذات والبنود غير المتكررة على المقارنة؟"
+          ],
+          "watch_en": [
+            "Does revenue growth translate into sustainable cash generation?",
+            "How do acquisitions and exceptional items affect comparability?"
+          ],
+          "source_url": "https://report.telekom.com/annual-report-2025/management-report/group-strategy/leading-digital-telco.html",
+          "as_of": "FY2025 annual report / 2026"
+        }
+      },
+      {
+        "id": "VZ",
+        "currency": "USD",
+        "ebitda_label": "Consolidated Adjusted EBITDA",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 133613,
+            "ebitda": 48380,
+            "attributable_profit": 22065,
+            "ebitda_label": "Consolidated Adjusted EBITDA",
+            "source_url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+            "ebitda_source_url": "https://www.sec.gov/Archives/edgar/data/732712/000073271222000008/vz-20211231.htm",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "Verizon Communications Inc. and subsidiaries consolidated Parent attributable earnings, not consolidated Net Income including noncontrolling interests."
+          },
+          {
+            "year": 2022,
+            "revenue": 136835,
+            "ebitda": 47870,
+            "attributable_profit": 21256,
+            "ebitda_label": "Consolidated Adjusted EBITDA",
+            "source_url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+            "ebitda_source_url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "Verizon Communications Inc. and subsidiaries consolidated Parent attributable earnings, not consolidated Net Income including noncontrolling interests."
+          },
+          {
+            "year": 2023,
+            "revenue": 133974,
+            "ebitda": 47789,
+            "attributable_profit": 11614,
+            "ebitda_label": "Consolidated Adjusted EBITDA",
+            "source_url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+            "ebitda_source_url": "https://www.verizon.com/about/sites/default/files/2023-Annual-Report-on-Form-10k.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "Verizon Communications Inc. and subsidiaries consolidated Parent attributable earnings, not consolidated Net Income including noncontrolling interests."
+          },
+          {
+            "year": 2024,
+            "revenue": 134788,
+            "ebitda": 48791,
+            "attributable_profit": 17506,
+            "ebitda_label": "Consolidated Adjusted EBITDA",
+            "source_url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+            "ebitda_source_url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "Verizon Communications Inc. and subsidiaries consolidated Parent attributable earnings, not consolidated Net Income including noncontrolling interests."
+          },
+          {
+            "year": 2025,
+            "revenue": 138191,
+            "ebitda": 49997,
+            "attributable_profit": 17174,
+            "ebitda_label": "Consolidated Adjusted EBITDA",
+            "source_url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+            "ebitda_source_url": "https://www.verizon.com/about/sites/default/files/2025-Annual-Report-on-Form-10k.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "Verizon Communications Inc. and subsidiaries consolidated Parent attributable earnings, not consolidated Net Income including noncontrolling interests."
+          }
+        ],
+        "note_ar": "المقياس Consolidated Adjusted EBITDA معدل وغير GAAP. الربح منسوب لمساهمي Verizon. أرباح 2023 تأثرت بانخفاض شهرة بقيمة 5,841 مليون دولار. صفقة Frontier في يناير 2026 تغير النطاق؛ النمو ليس عضويًا.",
+        "note_en": "2023 GAAP profit includes USD5841m Verizon Business Group goodwill impairment; adjusted EBITDA excludes this charge. 2021 includes Verizon Media disposition and TracFone acquisition; history is reported perimeter, not constant-perimeter organic growth. Frontier acquisition completed January2026; latest9M2026 perimeter differs from FY2025. 2025 adjusted EBITDA excludes severance and acquisition/rationalization special items.",
+        "operations": {
+          "currency": "USD",
+          "scope_ar": "مؤشرات المجموعة — تعريفات الشركة",
+          "scope_en": "Group metrics — company definitions",
+          "note_ar": "التدفق الحر = النقد من التشغيل ناقص الإنفاق الرأسمالي بما فيه البرمجيات المرسملة.",
+          "note_en": "Net cash provided by operating activities less capital expenditures including capitalized software.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "operating_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "capex": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "free_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS"
+              },
+              "basis": {
+                "operating_cash_flow": "Net Cash Provided by Operating Activities ",
+                "capex": "Capital expenditures (including capitalized software) ",
+                "free_cash_flow": "Free Cash Flow Net cash provided by operating activities less capital expenditures including capitalized software."
+              },
+              "operating_cash_flow": 39539,
+              "capex": 20286,
+              "free_cash_flow": 19253
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "operating_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "capex": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "free_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS"
+              },
+              "basis": {
+                "operating_cash_flow": "Net Cash Provided by Operating Activities ",
+                "capex": "Capital expenditures (including capitalized software) ",
+                "free_cash_flow": "Free Cash Flow Net cash provided by operating activities less capital expenditures including capitalized software."
+              },
+              "operating_cash_flow": 37141,
+              "capex": 23087,
+              "free_cash_flow": 14054
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "operating_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "capex": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "free_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS"
+              },
+              "basis": {
+                "operating_cash_flow": "Net Cash Provided by Operating Activities ",
+                "capex": "Capital expenditures (including capitalized software) ",
+                "free_cash_flow": "Free Cash Flow Net cash provided by operating activities less capital expenditures including capitalized software."
+              },
+              "operating_cash_flow": 37475,
+              "capex": 18767,
+              "free_cash_flow": 18708
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "operating_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "capex": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "free_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS"
+              },
+              "basis": {
+                "operating_cash_flow": "Net Cash Provided by Operating Activities ",
+                "capex": "Capital expenditures (including capitalized software) ",
+                "free_cash_flow": "Free Cash Flow Net cash provided by operating activities less capital expenditures including capitalized software."
+              },
+              "operating_cash_flow": 36912,
+              "capex": 17090,
+              "free_cash_flow": 19822
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "operating_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "capex": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+                "free_cash_flow": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS"
+              },
+              "basis": {
+                "operating_cash_flow": "Net Cash Provided by Operating Activities ",
+                "capex": "Capital expenditures (including capitalized software) ",
+                "free_cash_flow": "Free Cash Flow Net cash provided by operating activities less capital expenditures including capitalized software."
+              },
+              "operating_cash_flow": 37137,
+              "capex": 17011,
+              "free_cash_flow": 20126
+            }
+          ],
+          "markets": [],
+          "metric_labels": {
+            "operating_cash_flow": "Net Cash Provided by Operating Activities",
+            "capex": "Capital expenditures (including capitalized software)",
+            "free_cash_flow": "Free Cash Flow"
+          }
+        },
+        "latest": {
+          "period": "9M 2026",
+          "published": null,
+          "revenue": 103006,
+          "ebitda": 40920,
+          "attributable_profit": 14078,
+          "ebitda_label": "Consolidated Adjusted EBITDA",
+          "source_url": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+          "ebitda_source_url": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+          "ebitda_calculated": true,
+          "note_ar": "المقياس Consolidated Adjusted EBITDA معدل وغير GAAP. الربح منسوب لمساهمي Verizon. أرباح 2023 تأثرت بانخفاض شهرة بقيمة 5,841 مليون دولار. صفقة Frontier في يناير 2026 تغير النطاق؛ النمو ليس عضويًا. EBITDA للفترة مجموع قيم الأرباع الثلاثة المعلنة: 13,395 + 13,723 + 13,802 مليون دولار.",
+          "note_en": "2023 GAAP profit includes USD5841m Verizon Business Group goodwill impairment; adjusted EBITDA excludes this charge. 2021 includes Verizon Media disposition and TracFone acquisition; history is reported perimeter, not constant-perimeter organic growth. Frontier acquisition completed January2026; latest9M2026 perimeter differs from FY2025. 2025 adjusted EBITDA excludes severance and acquisition/rationalization special items. Sum of reported Q1 13395 + Q2 13723 + Q3 13802; not an annualized value"
+        },
+        "strategy": {
+          "name": "Mobility & broadband",
+          "summary_ar": "تنمية الهاتف المتنقل والإنترنت المنزلي وتقليل فقد العملاء وتحسين الكفاءة مع دمج Frontier.",
+          "summary_en": "Grow mobility and broadband customer relationships while reducing churn and improving operational efficiency. Expand the fibre footprint through Frontier and integrate the business into the wider transformation.",
+          "pillars_ar": [
+            "توسيع الألياف والإنترنت المنزلي.",
+            "تقليل فقد العملاء وتحسين الكفاءة.",
+            "دمج Frontier ضمن التحول التشغيلي."
+          ],
+          "pillars_en": [
+            "Grow mobility and broadband customer relationships while reducing churn and improving operational efficiency. Expand the fibre footprint through Frontier and integrate the business into the wider transformation."
+          ],
+          "watch_ar": [
+            "هل يتحول نمو الإيرادات إلى تدفق نقدي مستدام؟",
+            "ما أثر الاستحواذات والبنود غير المتكررة على المقارنة؟"
+          ],
+          "watch_en": [
+            "Does revenue growth translate into sustainable cash generation?",
+            "How do acquisitions and exceptional items affect comparability?"
+          ],
+          "source_url": "https://www.verizon.com/about/news/verizon-delivers-another-record-breaking-quarter",
+          "as_of": "9M 2026"
+        }
+      },
+      {
+        "id": "TMUS",
+        "currency": "USD",
+        "ebitda_label": "Core Adjusted EBITDA",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 80118,
+            "ebitda": 23576,
+            "attributable_profit": 3024,
+            "ebitda_label": "Core Adjusted EBITDA",
+            "source_url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+            "ebitda_source_url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "T-Mobile US Inc. consolidated Reported Net income; annual2025 accounting policy says basic EPS uses net income attributable to common stockholders, and note16 uses the same reported Net income values as numerator."
+          },
+          {
+            "year": 2022,
+            "revenue": 79571,
+            "ebitda": 26391,
+            "attributable_profit": 2590,
+            "ebitda_label": "Core Adjusted EBITDA",
+            "source_url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+            "ebitda_source_url": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "T-Mobile US Inc. consolidated Reported Net income; annual2025 accounting policy says basic EPS uses net income attributable to common stockholders, and note16 uses the same reported Net income values as numerator."
+          },
+          {
+            "year": 2023,
+            "revenue": 78558,
+            "ebitda": 29116,
+            "attributable_profit": 8317,
+            "ebitda_label": "Core Adjusted EBITDA",
+            "source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "ebitda_source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "T-Mobile US Inc. consolidated Reported Net income; annual2025 accounting policy says basic EPS uses net income attributable to common stockholders, and note16 uses the same reported Net income values as numerator."
+          },
+          {
+            "year": 2024,
+            "revenue": 81400,
+            "ebitda": 31771,
+            "attributable_profit": 11339,
+            "ebitda_label": "Core Adjusted EBITDA",
+            "source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "ebitda_source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "T-Mobile US Inc. consolidated Reported Net income; annual2025 accounting policy says basic EPS uses net income attributable to common stockholders, and note16 uses the same reported Net income values as numerator."
+          },
+          {
+            "year": 2025,
+            "revenue": 88309,
+            "ebitda": 33924,
+            "attributable_profit": 10992,
+            "ebitda_label": "Core Adjusted EBITDA",
+            "source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "ebitda_source_url": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "basis_ar": "القيم كما أعلنتها الشركة؛ النمو يتضمن تغير النطاق والبنود الخاصة.",
+            "basis_en": "T-Mobile US Inc. consolidated Reported Net income; annual2025 accounting policy says basic EPS uses net income attributable to common stockholders, and note16 uses the same reported Net income values as numerator."
+          }
+        ],
+        "note_ar": "المقياس Core Adjusted EBITDA يخصم إيرادات تأجير الأجهزة من Adjusted EBITDA ولا يساويه. الربح Net income المعلن هو أساس ربحية السهم. الشركة ضمن توحيد دويتشه تليكوم. تكاليف الاندماج والاستحواذ على UScellular في أغسطس 2025 تؤثر على المقارنة؛ النمو ليس عضويًا.",
+        "note_en": "Historical2021/22 adjusted EBITDA and FCF use FY2023 comparative presentation. FY2021 coreEBITDA23576 is materially different from Adjusted EBITDA26924 due to3348 device lease revenue deduction. 2022 GAAP profit includes merger-related charges, impairment and loss on disposal group; 2023 wireline disposal and merger integration affect comparability. UScellular wireless acquisition closed1August2025; FY2025 includes only post-acquisition results. Do not present growth as organic. 2025 GAAP Net income includes severance and impairment; EBITDA adjustments include impairment278m and other special items. AdjustedFCF2024 includes3579m securitization beneficial-interest proceeds versus zero in2025. Cashflow classification and transaction mix affect comparisons.",
+        "operations": {
+          "currency": "USD",
+          "scope_ar": "مؤشرات المجموعة — تعريفات الشركة",
+          "scope_en": "Group metrics — company definitions",
+          "note_ar": "Adjusted Free Cash Flow يتضمن تسويات إضافية؛ ليس دائمًا CFO ناقص CapEx. قيمة 2024 تشمل متحصلات توريق 3,579 مليون دولار مقابل صفر في 2025.",
+          "note_en": "Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "operating_cash_flow": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+                "capex": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+                "free_cash_flow": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf"
+              },
+              "basis": {
+                "operating_cash_flow": "Net cash provided by operating activities ",
+                "capex": "Cash purchases of property and equipment, including capitalized interest ",
+                "free_cash_flow": "Adjusted Free Cash Flow Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year."
+              },
+              "operating_cash_flow": 13917,
+              "capex": 12326,
+              "free_cash_flow": 5646
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "operating_cash_flow": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+                "capex": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf",
+                "free_cash_flow": "https://www.t-mobile.com/content/dam/digx/tmobile/us/en/non-dynamic-media/pdf/TMUS-2023-Annual-Report.pdf"
+              },
+              "basis": {
+                "operating_cash_flow": "Net cash provided by operating activities ",
+                "capex": "Cash purchases of property and equipment, including capitalized interest ",
+                "free_cash_flow": "Adjusted Free Cash Flow Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year."
+              },
+              "operating_cash_flow": 16781,
+              "capex": 13970,
+              "free_cash_flow": 7656
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "operating_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "capex": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "free_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace"
+              },
+              "basis": {
+                "operating_cash_flow": "Net cash provided by operating activities ",
+                "capex": "Cash purchases of property and equipment, including capitalized interest ",
+                "free_cash_flow": "Adjusted Free Cash Flow Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year."
+              },
+              "operating_cash_flow": 18559,
+              "capex": 9801,
+              "free_cash_flow": 13586
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "operating_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "capex": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "free_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace"
+              },
+              "basis": {
+                "operating_cash_flow": "Net cash provided by operating activities ",
+                "capex": "Cash purchases of property and equipment, including capitalized interest ",
+                "free_cash_flow": "Adjusted Free Cash Flow Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year."
+              },
+              "operating_cash_flow": 22293,
+              "capex": 8840,
+              "free_cash_flow": 17032
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "operating_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "capex": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace",
+                "free_cash_flow": "https://investor.t-mobile.com/static-files/2aea9b10-c0a2-40ac-b24a-0f9162e8aace"
+              },
+              "basis": {
+                "operating_cash_flow": "Net cash provided by operating activities ",
+                "capex": "Cash purchases of property and equipment, including capitalized interest ",
+                "free_cash_flow": "Adjusted Free Cash Flow Company Adjusted Free Cash Flow incorporates operating cash flow, cash capex, proceeds from tower sales and beneficial interests in securitization transactions, and historical debt-prepayment adjustments. Not simply CFO minus capex in every year."
+              },
+              "operating_cash_flow": 27950,
+              "capex": 9955,
+              "free_cash_flow": 17995
+            }
+          ],
+          "markets": [],
+          "metric_labels": {
+            "operating_cash_flow": "Net cash provided by operating activities",
+            "capex": "Cash purchases of property and equipment, including capitalized interest",
+            "free_cash_flow": "Adjusted Free Cash Flow"
+          }
+        },
+        "profit_label": "Net income (reported)",
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-10-28",
+          "revenue": 69482,
+          "ebitda": 28397,
+          "attributable_profit": 9198,
+          "ebitda_label": "Core Adjusted EBITDA",
+          "source_url": "https://investor.t-mobile.com/static-files/e28e8d57-aa4b-46bb-9b85-403f9bbcb17a",
+          "ebitda_source_url": "https://investor.t-mobile.com/static-files/e28e8d57-aa4b-46bb-9b85-403f9bbcb17a",
+          "ebitda_calculated": false,
+          "note_ar": "المقياس Core Adjusted EBITDA يخصم إيرادات تأجير الأجهزة من Adjusted EBITDA ولا يساويه. الربح Net income المعلن هو أساس ربحية السهم. الشركة ضمن توحيد دويتشه تليكوم. تكاليف الاندماج والاستحواذ على UScellular في أغسطس 2025 تؤثر على المقارنة؛ النمو ليس عضويًا.",
+          "note_en": "Historical2021/22 adjusted EBITDA and FCF use FY2023 comparative presentation. FY2021 coreEBITDA23576 is materially different from Adjusted EBITDA26924 due to3348 device lease revenue deduction. 2022 GAAP profit includes merger-related charges, impairment and loss on disposal group; 2023 wireline disposal and merger integration affect comparability. UScellular wireless acquisition closed1August2025; FY2025 includes only post-acquisition results. Do not present growth as organic. 2025 GAAP Net income includes severance and impairment; EBITDA adjustments include impairment278m and other special items. AdjustedFCF2024 includes3579m securitization beneficial-interest proceeds versus zero in2025. Cashflow classification and transaction mix affect comparisons. "
+        },
+        "strategy": {
+          "name": "Network, value & customer growth",
+          "summary_ar": "توسيع العلاقات مع العملاء بالاعتماد على الشبكة والقيمة وتجربة الاستخدام، وتنمية الإنترنت المنزلي والخدمات المجاورة.",
+          "summary_en": "Use network quality, value and customer experience to deepen account relationships and raise ARPA, while expanding core wireless, broadband and adjacent services.",
+          "pillars_ar": [
+            "رفع جودة الشبكة وتجربة العملاء.",
+            "تعميق علاقة الحساب وزيادة ARPA.",
+            "تنمية الاتصالات والإنترنت المنزلي والخدمات المجاورة."
+          ],
+          "pillars_en": [
+            "Use network quality, value and customer experience to deepen account relationships and raise ARPA, while expanding core wireless, broadband and adjacent services."
+          ],
+          "watch_ar": [
+            "هل يتحول نمو الإيرادات إلى تدفق نقدي مستدام؟",
+            "ما أثر الاستحواذات والبنود غير المتكررة على المقارنة؟"
+          ],
+          "watch_en": [
+            "Does revenue growth translate into sustainable cash generation?",
+            "How do acquisitions and exceptional items affect comparability?"
+          ],
+          "source_url": "https://www.t-mobile.com/news/business/t-mobile-q3-2026-earnings",
+          "as_of": "9M 2026"
+        }
+      },
+      {
+        "id": "TEF",
+        "currency": "EUR",
+        "ebitda_label": "Reported OIBDA / EBITDA",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 39277,
+            "ebitda": 21983,
+            "attributable_profit": 8137,
+            "ebitda_label": "Reported OIBDA",
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "ebitda_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "profit_margin_available": true,
+            "basis_ar": "نتائج تاريخية معلنة؛ مكاسب وصفقات وبنود غير متكررة.",
+            "basis_en": "Historical reported group perimeter, as shown in 2023 annual accounts."
+          },
+          {
+            "year": 2022,
+            "revenue": 39993,
+            "ebitda": 12852,
+            "attributable_profit": 2011,
+            "ebitda_label": "Reported OIBDA",
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "ebitda_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "profit_margin_available": true,
+            "basis_ar": "نتائج تاريخية معلنة؛ مكاسب وصفقات وبنود غير متكررة.",
+            "basis_en": "Historical reported group perimeter, as shown in 2023 annual accounts."
+          },
+          {
+            "year": 2023,
+            "revenue": 40652,
+            "ebitda": 11390,
+            "attributable_profit": -892,
+            "ebitda_label": "Reported OIBDA",
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "ebitda_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "profit_margin_available": true,
+            "basis_ar": "نتائج تاريخية معلنة؛ مكاسب وصفقات وبنود غير متكررة.",
+            "basis_en": "Historical reported group perimeter, as shown in 2023 annual accounts."
+          },
+          {
+            "year": 2024,
+            "revenue": 41315,
+            "ebitda": 11194,
+            "attributable_profit": -49,
+            "ebitda_label": "Reported EBITDA",
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2025/01/rdos24t4-eng.pdf",
+            "ebitda_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2025/01/rdos24t4-eng.pdf",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "profit_margin_available": true,
+            "basis_ar": "تغير تعريف المقياس التشغيلي من OIBDA إلى EBITDA.",
+            "basis_en": "Original FY2024 publication; before FY2025 discontinued-operation reclassification."
+          },
+          {
+            "year": 2025,
+            "revenue": 35120,
+            "ebitda": 8683,
+            "attributable_profit": -4318,
+            "ebitda_label": "Reported EBITDA",
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf",
+            "ebitda_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "profit_margin_available": false,
+            "basis_ar": "تغير نطاق العمليات المستمرة وإعادة عرض المقارنة.",
+            "basis_en": "Revenue and EBITDA continuing operations; attributable net profit includes continuing and discontinued operations.",
+            "comparative_revenue": 35671,
+            "comparative_source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf"
+          }
+        ],
+        "note_ar": "OIBDA معلن في 2021–2023 وEBITDA معلن في 2024–2025؛ لا نخلطهما مع Adjusted EBITDA. مكاسب صفقات 2021 وخفض القيمة وإعادة الهيكلة لاحقًا تؤثر على الأرباح. إيرادات 2025 للعمليات المستمرة بعد تصنيف عمليات Hispam كمتوقفة؛ مقارنة 2024 المعاد عرضها 35,671 مليون يورو تستخدم لحساب نمو 2025. صافي الربح يتضمن العمليات المتوقفة، لذلك لا نعرض له هامشًا على إيرادات مستمرة.",
+        "note_en": "Do not merge reported OIBDA, reported EBITDA and adjusted EBITDA into a single unlabelled series. Missing adjusted OIBDA values are null, not zero. 2021 includes exceptional corporate transaction gains associated with the O2/Virgin Media combination and Telxius tower sale. The high OIBDA and profit are not recurring run-rate earnings. 2023 affected by restructuring and VMO2 goodwill impairment; 2024 losses affected by asset impairments. Adjusted figures exclude specified exceptional effects. FY2025 treats Argentina, Peru, Uruguay, Ecuador, Colombia and other disposed Hispam entities as discontinued and revises 2024. Reported EBITDA includes restructuring and impairments; adjusted EBITDA removes specified non-recurring effects. Use restated 2024 comparator for FY2025 growth. Argentina and Venezuela financial statements involve hyperinflation and currency translation adjustments. Euro-reported growth is not organic growth.",
+        "restated_comparators": [
+          {
+            "year": 2024,
+            "restated_in": "FY2025 results",
+            "currency": "EUR",
+            "unit": "million",
+            "revenue": 35671,
+            "operating_metric_value": 11770,
+            "operating_metric_label": "Reported EBITDA",
+            "adjusted_operating_metric_value": 12109,
+            "adjusted_operating_metric_label": "Adjusted EBITDA",
+            "net_profit_attributable_to_parent": -49,
+            "source_url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2026/01/rdos25t4-eng.pdf",
+            "scope": "Continuing operations revenue/EBITDA after Hispam discontinued-operation reclassification; total attributable net profit unchanged."
+          }
+        ],
+        "operations": {
+          "currency": "EUR",
+          "scope_ar": "مؤشرات المجموعة — تعريفات الشركة",
+          "scope_en": "Group metrics — company definitions",
+          "note_ar": "CapEx والتدفق الحر وصافي الدين وفق تعريف الشركة لعامي 2024–2025؛ السنوات السابقة غير متاحة. نطاق العمليات المستمرة في 2025 يختلف عن 2024 الأصلي؛ لا نحسب نمو CapEx أو التدفق الحر عبر هذا التغير.",
+          "note_en": "Company definitions. Verified CapEx, FCF and net debt for 2024–2025; earlier values remain unavailable. The 2025 continuing-operations perimeter differs from original 2024; no CapEx or FCF growth is calculated across this break.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "free_cash_flow": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "net_debt": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf"
+              },
+              "basis": {
+                "capex": "Company reported; not normalized across groups",
+                "free_cash_flow": "Company reported; not normalized across groups",
+                "net_debt": "Company reported; not normalized across groups"
+              },
+              "capex": null,
+              "free_cash_flow": null,
+              "net_debt": null
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "free_cash_flow": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "net_debt": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf"
+              },
+              "basis": {
+                "capex": "Company reported; not normalized across groups",
+                "free_cash_flow": "Company reported; not normalized across groups",
+                "net_debt": "Company reported; not normalized across groups"
+              },
+              "capex": null,
+              "free_cash_flow": null,
+              "net_debt": null
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "free_cash_flow": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf",
+                "net_debt": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2024/02/Consolidated-Annual-Accounts-2023.pdf"
+              },
+              "basis": {
+                "capex": "Company reported; not normalized across groups",
+                "free_cash_flow": "Company reported; not normalized across groups",
+                "net_debt": "Company reported; not normalized across groups"
+              },
+              "capex": null,
+              "free_cash_flow": null,
+              "net_debt": null
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://www.telefonica.com/en/communication-room/press-room/telefonica-increases-revenue-e41315-million-2024-meets-financial-targets/",
+                "free_cash_flow": "https://www.telefonica.com/en/communication-room/press-room/telefonica-increases-revenue-e41315-million-2024-meets-financial-targets/",
+                "net_debt": "https://www.telefonica.com/en/communication-room/press-room/telefonica-increases-revenue-e41315-million-2024-meets-financial-targets/"
+              },
+              "basis": {
+                "capex": "Company CapEx excluding spectrum",
+                "free_cash_flow": "Company-defined free cash flow",
+                "net_debt": "Company reported; not normalized across groups"
+              },
+              "capex": 5318,
+              "free_cash_flow": 2634,
+              "net_debt": 27161
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://www.telefonica.com/en/communication-room/press-room/telefonica-accelerates-growth-quarter-2025-increases-revenues-adjusted-ebitda-free-cash-flow/",
+                "free_cash_flow": "https://www.telefonica.com/en/communication-room/press-room/telefonica-accelerates-growth-quarter-2025-increases-revenues-adjusted-ebitda-free-cash-flow/",
+                "net_debt": "https://www.telefonica.com/en/communication-room/press-room/telefonica-accelerates-growth-quarter-2025-increases-revenues-adjusted-ebitda-free-cash-flow/"
+              },
+              "basis": {
+                "capex": "Company CapEx",
+                "free_cash_flow": "Free cash flow from continuing operations",
+                "net_debt": "Company reported; not normalized across groups"
+              },
+              "capex": 4340,
+              "free_cash_flow": 2069,
+              "net_debt": 26824,
+              "comparable_previous": false
+            }
+          ],
+          "markets": [],
+          "metric_labels": {}
+        },
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-11-12",
+          "revenue": 24825,
+          "ebitda": 8846,
+          "ebitda_label": "Adjusted EBITDA",
+          "attributable_profit": 464,
+          "profit_margin_available": false,
+          "source_url": "https://www.telefonica.com/en/communication-room/press-room/telefonica-posted-net-profit-e1333-million-continuing-operations-september-21-6-cent-upgraded-targets-adjusted-ebitda-adjusted-opcfal-fcf/",
+          "note_ar": "فترة تسعة أشهر: المقياس Adjusted EBITDA في هذا الإفصاح يختلف عن EBITDA المعلن بالسلسلة السنوية. الربح الإجمالي 464 مليون يورو مقابل 1,333 مليون من العمليات المستمرة. لا نقسم الربح الإجمالي على الإيرادات المستمرة لإنتاج هامش.",
+          "note_en": "Current continuing perimeter. Not directly comparable with annual totals. Press release reports group net profit; reported EBITDA not extracted. Adjusted EBITDA differs from annual reported EBITDA. Total net profit EUR464m vs continuing EUR1333m; profit margin withheld due to scope mismatch."
+        },
+        "strategy": {
+          "name": "Transform & Grow",
+          "summary_ar": "التركيز على الأسواق الأساسية وتبسيط التشغيل وتحسين توليد النقد وخفض الرافعة المالية.",
+          "summary_en": "Execute transformation in core markets, simplify operations, improve cash generation and reduce leverage toward 2.5x EBITDAaL by 2028.",
+          "pillars_ar": [
+            "تنفيذ التحول في الأسواق الأساسية.",
+            "تبسيط التشغيل وتحسين التدفق النقدي.",
+            "استهداف رافعة 2.5 مرة EBITDAaL بحلول 2028."
+          ],
+          "pillars_en": [
+            "Execute transformation in core markets, simplify operations, improve cash generation and reduce leverage toward 2.5x EBITDAaL by 2028."
+          ],
+          "watch_ar": [
+            "هل يتحول نمو الإيرادات إلى تدفق نقدي مستدام؟",
+            "ما أثر الاستحواذات والبنود غير المتكررة على المقارنة؟"
+          ],
+          "watch_en": [
+            "Does revenue growth translate into sustainable cash generation?",
+            "How do acquisitions and exceptional items affect comparability?"
+          ],
+          "source_url": "https://www.telefonica.com/en/communication-room/press-room/telefonica-posted-net-profit-e1333-million-continuing-operations-september-21-6-cent-upgraded-targets-adjusted-ebitda-adjusted-opcfal-fcf/",
+          "as_of": "2026-11-12"
         }
       }
     ]

@@ -108,6 +108,38 @@
         "www.eand.com"
       ],
       "article_pattern": "/en/news/.*\\.html$"
+    },
+    {
+      "id": "dte-news-en",
+      "label": "DTE · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22Deutsche+Telekom%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "DTE",
+      "enabled": true
+    },
+    {
+      "id": "vz-news-en",
+      "label": "VZ · Google News EN",
+      "url": "https://news.google.com/rss/search?q=Verizon+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "VZ",
+      "enabled": true
+    },
+    {
+      "id": "tmus-news-en",
+      "label": "TMUS · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22T-Mobile%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "TMUS",
+      "enabled": true
+    },
+    {
+      "id": "tef-news-en",
+      "label": "TEF · Google News EN",
+      "url": "https://news.google.com/rss/search?q=Telef%C3%B3nica+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "TEF",
+      "enabled": true
     }
   ],
   "notes": "Public headlines and official newsroom links. Coverage is best effort, not exhaustive. Financial facts require reviewed primary disclosures."

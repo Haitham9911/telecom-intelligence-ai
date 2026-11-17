@@ -62,5 +62,69 @@
     "summary": "",
     "kind": "official",
     "publisher": "EAND · Official results"
+  },
+  {
+    "id": "4e97fae056cc4b37ab416d0bf07d5a43",
+    "feed_id": "reviewed-official",
+    "title": "DTE — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/more-growth-raised-guidance-record-dividend",
+    "published": "2026-11-05T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "DTE",
+    "company_ids": [
+      "DTE"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "DTE · Official results"
+  },
+  {
+    "id": "3e94924d98a6c92a9d886a5cc7de7764",
+    "feed_id": "reviewed-official",
+    "title": "VZ — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://ws04.static-verizon.com/about/file/78533/download?token=Bq3XobkS",
+    "published": null,
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "VZ",
+    "company_ids": [
+      "VZ"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "VZ · Official results"
+  },
+  {
+    "id": "72020383e60a10b87a32588e3b8cc9bc",
+    "feed_id": "reviewed-official",
+    "title": "TMUS — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://investor.t-mobile.com/static-files/e28e8d57-aa4b-46bb-9b85-403f9bbcb17a",
+    "published": "2026-10-28T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "TMUS",
+    "company_ids": [
+      "TMUS"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "TMUS · Official results"
+  },
+  {
+    "id": "9127e1122e55653a127e2fb8f25a6a77",
+    "feed_id": "reviewed-official",
+    "title": "TEF — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.telefonica.com/en/communication-room/press-room/telefonica-posted-net-profit-e1333-million-continuing-operations-september-21-6-cent-upgraded-targets-adjusted-ebitda-adjusted-opcfal-fcf/",
+    "published": "2026-11-12T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "TEF",
+    "company_ids": [
+      "TEF"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "TEF · Official results"
   }
 ]
