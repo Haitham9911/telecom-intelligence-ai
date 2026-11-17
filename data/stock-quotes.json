@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "checked_at": "2026-11-17T16:13:05.048924+00:00",
+  "poll_interval_seconds": 1800,
+  "quotes": [
+    {
+      "symbol": "OTEL",
+      "exchange": "MSX",
+      "currency": "OMR",
+      "price": 1.355,
+      "previous_close": 1.36,
+      "change": -0.005,
+      "change_percent": -0.37,
+      "source_delay_minutes": 15,
+      "quote_time": null,
+      "source": "Muscat Stock Exchange",
+      "source_url": "https://www.msx.om/snapshot.aspx?s=OTEL",
+      "high": 1.361,
+      "low": 1.354,
+      "volume": 7277488,
+      "company_id": "OTEL",
+      "fetched_at": "2026-11-17T16:13:05.048924+00:00",
+      "last_attempt": "2026-11-17T16:13:05.048924+00:00",
+      "fetch_status": "ok"
+    },
+    {
+      "symbol": "ORDS",
+      "exchange": "MSX",
+      "currency": "OMR",
+      "price": 0.336,
+      "previous_close": 0.336,
+      "change": 0.0,
+      "change_percent": 0.0,
+      "source_delay_minutes": 15,
+      "quote_time": null,
+      "source": "Muscat Stock Exchange",
+      "source_url": "https://www.msx.om/snapshot.aspx?s=ORDS",
+      "high": 0.338,
+      "low": 0.331,
+      "volume": 793130,
+      "company_id": "ORED",
+      "fetched_at": "2026-11-17T16:13:05.048924+00:00",
+      "last_attempt": "2026-11-17T16:13:05.048924+00:00",
+      "fetch_status": "ok"
+    }
+  ]
+}

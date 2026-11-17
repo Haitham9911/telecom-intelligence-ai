@@ -4,7 +4,7 @@ from http.server import ThreadingHTTPServer, SimpleHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import urlparse, parse_qs
 import json, sqlite3, os, sys, csv, io, threading, datetime
-import updater
+import updater,quotes
 ROOT=Path(__file__).resolve().parent
 DB=ROOT/'data'/'intelligence.sqlite3'
 SEED=json.loads((ROOT/'data'/'seed.json').read_text(encoding='utf-8'))
@@ -43,6 +43,7 @@ class Handler(SimpleHTTPRequestHandler):
         u=urlparse(self.path)
         if u.path.startswith('/api/'):
             mapping={'/api/companies':'companies','/api/facts':'facts','/api/events':'events','/api/sources':'sources'}
+            if u.path=='/api/stock-quotes':self.json(quotes.read(ROOT/'data'/'stock-quotes.json'));return
             if u.path=='/api/seed':self.json(SEED);return
             if u.path=='/api/status':
                 health=health_rows()

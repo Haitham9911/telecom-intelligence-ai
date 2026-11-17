@@ -85,3 +85,26 @@ scopes overlap and their absolute amounts cannot be combined.
 
 Financial snapshots are reviewed manually. The existing GitHub Actions schedule
 continues to refresh public news approximately twice an hour.
+
+### Share prices
+
+`#stocks` shows delayed MSX snapshots for Omantel (OTEL) and Ooredoo Oman
+(ORDS, internal company ID ORED). `quotes.py` reads only their public MSX
+snapshot pages and validates the symbol, price, previous close and percentage
+change. Retrieval timestamps are distinct from the unavailable trade timestamp.
+MSX quotes have a 15-minute source delay plus the existing approximately
+30-minute GitHub Actions publication interval. Failed retrievals retain the last
+successful price and timestamp and display a warning; missing prices are never
+zero. The workflow caches quote history alongside public news history.
+
+Attributed TradingView widgets display Zain (KSE:ZAIN, Kuwaiti fils), Deutsche
+Telekom (XETR:DTE, EUR, end-of-day), Telefónica (BME:TEF, EUR), Verizon (NYSE:VZ,
+USD) and T-Mobile US (NASDAQ:TMUS, USD). These connect from the visitor's browser
+and preserve the provider's currency, timing and delay labels. They are separate
+from reviewed financial-statement snapshots. e& was verified as unavailable for
+external widget display and is not embedded; Saudi stc, Ooredoo Qatar, Vodafone
+and Singtel are also outside current embedded quote coverage. No API keys or
+paid data subscriptions are configured.
+
+Source documentation: https://www.msx.om/snapshot.aspx?s=OTEL and
+https://www.tradingview.com/widget-docs/faq/data/ .
