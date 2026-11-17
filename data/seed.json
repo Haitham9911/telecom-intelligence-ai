@@ -1254,8 +1254,8 @@
           "currency": "OMR",
           "scope_ar": "عمانتل — العمليات المحلية باستبعاد زين",
           "scope_en": "Omantel domestic operations excluding Zain",
-          "note_en": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure. Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth. 2021–22 annual report chart explicitly includes cost of content. Investor deck reports differing blended values2021 7.6/2022 7.5; definitions are not reconciled. FY2024 chart says blended ARPU. Do not imply fully comparable trend or substitute interim2025 data into FY2025. Rounded charts.2023/24 mobile base includes M2M/postpaid and resellers; FY2024 breakdown prepaid1.43m,resellers0.53m,postpaid1.59m; components may not add due rounding.",
-          "note_ar": "التدفق الحر كما أعلنته الشركة؛ لا نفترض أنه EBITDA ناقص CapEx ولا نقارنه مباشرة بتعريف الشركات الأخرى. بعض القيم مقربة. الفراغ يعني غير متاح. أرقام عمانتل هنا محلية وليست المجموعة الموحدة.",
+          "note_en": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure. Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth. 2021–22 annual report chart explicitly includes cost of content. Investor deck reports differing blended values2021 7.6/2022 7.5; definitions are not reconciled. FY2024 chart says blended ARPU. Do not imply fully comparable trend or substitute interim2025 data into FY2025. Rounded charts.2023/24 mobile base includes M2M/postpaid and resellers; FY2024 breakdown prepaid1.43m,resellers0.53m,postpaid1.59m; components may not add due rounding. 2024/2025 customers are total domestic subscriptions per results deck, not mobile including resellers.",
+          "note_ar": "التدفق الحر كما أعلنته الشركة؛ لا نفترض أنه EBITDA ناقص CapEx ولا نقارنه مباشرة بتعريف الشركات الأخرى. بعض القيم مقربة. الفراغ يعني غير متاح. أرقام عمانتل هنا محلية وليست المجموعة الموحدة. العملاء لعامي 2024 و2025 هم إجمالي الاشتراكات المحلية وفق عرض النتائج، وليس إجمالي الهاتف المتنقل شامل معيدي البيع.",
           "group": [
             {
               "year": 2021,
@@ -1300,27 +1300,33 @@
               "year": 2024,
               "sources": {
                 "capex": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf",
-                "free_cash_flow": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                "free_cash_flow": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf",
+                "customers": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=14"
               },
               "basis": {
                 "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
-                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth.",
+                "customers": "Company labels total domestic subscribers, not specifically mobile or mobile including resellers. Do not stitch to historical mobile including reseller counts without reconciliation. Page18 rounded mobile total3.4/3.6 conflicts with thousand-unit axis; avoid using that rounded chart."
               },
               "capex": 96.9,
-              "free_cash_flow": 85
+              "free_cash_flow": 85,
+              "customers": 3.438
             },
             {
               "year": 2025,
               "sources": {
                 "capex": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
-                "free_cash_flow": null
+                "free_cash_flow": null,
+                "customers": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=14"
               },
               "basis": {
                 "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
-                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth.",
+                "customers": "Company labels total domestic subscribers, not specifically mobile or mobile including resellers. Do not stitch to historical mobile including reseller counts without reconciliation. Page18 rounded mobile total3.4/3.6 conflicts with thousand-unit axis; avoid using that rounded chart."
               },
               "capex": 129.3,
-              "free_cash_flow": null
+              "free_cash_flow": null,
+              "customers": 3.655
             }
           ],
           "markets": [
@@ -1329,9 +1335,9 @@
               "name_en": "Oman mobile",
               "name_ar": "عُمان — الهاتف المتنقل",
               "currency": "OMR",
-              "arpu_unit": "OMR per subscriber (reported ARPU)",
-              "note_en": "2021–22 annual report chart explicitly includes cost of content. Investor deck reports differing blended values2021 7.6/2022 7.5; definitions are not reconciled. FY2024 chart says blended ARPU. Do not imply fully comparable trend or substitute interim2025 data into FY2025.",
-              "note_ar": "ARPU كما ورد في التقرير السنوي. قيم 2025 غير المتاحة لا تستبدل بفترات مرحلية. تعريف ARPU لعامي 2021 و2022 يشمل تكلفة المحتوى وقد يختلف عن الفترات اللاحقة.",
+              "arpu_unit": "OMR / month · FY reported",
+              "note_en": "Company-reported monthly ARPU for the full year, not Q4. 2024/2025 from FY2025 results deck; precise ARPU denominator is not specified. Historical mobile customers include resellers; no consistent 2025 total is available. 2021/2022 ARPU includes cost of content.",
+              "note_ar": "ARPU شهري كما أعلنته الشركة للسنة الكاملة. بيانات 2024 و2025 من عرض نتائج السنة؛ تعريف مقام ARPU غير مفصل في الشريحة. بيانات 2021 و2022 تشمل تكلفة المحتوى؛ تعريف العملاء المتنقلين التاريخي يشمل معيدي البيع، ولا تتوفر له قيمة متجانسة لعام 2025.",
               "rows": [
                 {
                   "year": 2021,
@@ -1349,19 +1355,26 @@
                   "year": 2023,
                   "arpu": 7.01,
                   "customers": 3.19,
-                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf",
+                  "arpu_comparable_previous": false
                 },
                 {
                   "year": 2024,
                   "arpu": 7.94,
                   "customers": 3.54,
-                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18",
+                  "sources": {
+                    "arpu": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                  }
                 },
                 {
                   "year": 2025,
-                  "arpu": null,
+                  "arpu": 7.98,
                   "customers": null,
-                  "source_url": null
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18",
+                  "sources": {
+                    "arpu": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                  }
                 }
               ]
             },
@@ -1370,9 +1383,9 @@
               "name_en": "Oman fixed broadband",
               "name_ar": "عُمان — النطاق العريض الثابت",
               "currency": "OMR",
-              "arpu_unit": "OMR per subscriber (reported ARPU)",
-              "note_en": "",
-              "note_ar": "ARPU كما ورد في التقرير السنوي. قيم 2025 غير المتاحة لا تستبدل بفترات مرحلية. تعريف ARPU لعامي 2021 و2022 يشمل تكلفة المحتوى وقد يختلف عن الفترات اللاحقة.",
+              "arpu_unit": "OMR / month · FY reported",
+              "note_en": "Company-reported monthly ARPU for the full year, not Q4. 2024/2025 from FY2025 results deck; precise ARPU denominator is not specified.Subscribers at year end; 2025 count corroborated by annual-report CEO statement.",
+              "note_ar": "ARPU شهري كما أعلنته الشركة للسنة الكاملة. بيانات 2024 و2025 من عرض نتائج السنة؛ تعريف مقام ARPU غير مفصل في الشريحة.المشتركون بنهاية السنة، والرقم لعام 2025 مؤكد في التقرير السنوي.",
               "rows": [
                 {
                   "year": 2021,
@@ -1396,13 +1409,104 @@
                   "year": 2024,
                   "arpu": 27.1,
                   "customers": 0.312,
-                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=19",
+                  "sources": {
+                    "arpu": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=19"
+                  }
                 },
                 {
                   "year": 2025,
+                  "arpu": 28.78,
+                  "customers": 0.3293,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=19",
+                  "sources": {
+                    "arpu": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=19",
+                    "customers": "https://annualreport.omantel.om/2025/our-purpose/ceos-message"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "Oman postpaid",
+              "name_en": "Oman postpaid",
+              "name_ar": "عُمان — آجل الدفع",
+              "currency": "OMR",
+              "arpu_unit": "OMR / month · FY reported",
+              "note_ar": "ARPU شهري معلن للسنة. عدد مشتركي آجل الدفع يستبعد M2M؛ هذا الاستبعاد لا يثبت تعريف مقام ARPU.",
+              "note_en": "Company-reported full-year monthly ARPU. Postpaid subscribers exclude M2M; do not infer the ARPU denominator from this label.",
+              "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18",
+              "rows": [
+                {
+                  "year": 2021,
                   "arpu": null,
                   "customers": null,
-                  "source_url": null
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2022,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2023,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 17.18,
+                  "customers": 0.7544,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2025,
+                  "arpu": 17.21,
+                  "customers": 0.7692,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                }
+              ]
+            },
+            {
+              "id": "Oman prepaid",
+              "name_en": "Oman prepaid",
+              "name_ar": "عُمان — مسبق الدفع",
+              "currency": "OMR",
+              "arpu_unit": "OMR / month · FY reported",
+              "note_ar": "ARPU شهري معلن للسنة. لا يوضح المصدر إدراج معيدي البيع في عدد مشتركي مسبق الدفع.",
+              "note_en": "Company-reported full-year monthly ARPU. Reseller inclusion not specified for prepaid subscribers.",
+              "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2022,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2023,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 3.29,
+                  "customers": 1.4299000000000002,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
+                },
+                {
+                  "year": 2025,
+                  "arpu": 2.93,
+                  "customers": 1.3705,
+                  "source_url": "https://ir.omantel.om/media/urhpfbpd/full-year-results-conference-call-vf-analyst.pdf#page=18"
                 }
               ]
             }
