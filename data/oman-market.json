@@ -1761,6 +1761,42 @@
       "source_page": "18",
       "method": "reported",
       "basis_en": "Explicitly excludesM2M; roundedto100."
+    },
+    {
+      "operator": "OTEL",
+      "metric": "fixed_broadband",
+      "year": 2026,
+      "period_end": "2026-06-30",
+      "value": 326700,
+      "unit": "subscriptions",
+      "source_url": "https://ir.omantel.om/media/tk0hy1kf/h1-results-conference-call-final-20th-august-2026-fv-1.pdf",
+      "source_page": "15",
+      "method": "reported",
+      "basis_en": "Domestic H1 2026 operating statistics. Resellers excluded from mobile; M2M shown separately in the postpaid chart."
+    },
+    {
+      "operator": "OTEL",
+      "metric": "mobile_prepaid_direct",
+      "year": 2026,
+      "period_end": "2026-06-30",
+      "value": 1384000,
+      "unit": "subscriptions",
+      "source_url": "https://ir.omantel.om/media/tk0hy1kf/h1-results-conference-call-final-20th-august-2026-fv-1.pdf",
+      "source_page": "14",
+      "method": "reported",
+      "basis_en": "Domestic H1 2026 operating statistics. Resellers excluded from mobile; M2M shown separately in the postpaid chart."
+    },
+    {
+      "operator": "OTEL",
+      "metric": "mobile_postpaid_ex_m2m",
+      "year": 2026,
+      "period_end": "2026-06-30",
+      "value": 784000,
+      "unit": "subscriptions",
+      "source_url": "https://ir.omantel.om/media/tk0hy1kf/h1-results-conference-call-final-20th-august-2026-fv-1.pdf",
+      "source_page": "14",
+      "method": "reported",
+      "basis_en": "Domestic H1 2026 operating statistics. Resellers excluded from mobile; M2M shown separately in the postpaid chart."
     }
   ],
   "ooredoo": {

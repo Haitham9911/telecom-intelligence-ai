@@ -98,8 +98,13 @@ function omOperatorEstimates() {
 function omListedOperators() {
   const base=omanData.ooredoo;
   const annual=base.ooredoo_oman_annual.map(x=>({...x, date:x.year+'-12-31'}));
-  const quarter=base.ooredoo_oman_quarters.at(-1);
-  if(quarter && quarter.period_end>annual.at(-1).date) annual.push({...quarter,date:quarter.period_end});
+  const lastYearEnd=annual.at(-1).date;
+  const quarters=base.ooredoo_oman_quarters.filter(r=>r.period_end>lastYearEnd);
+  const latest=quarters.at(-1)?.period_end;
+  const omantelDates=new Set(omanData.operator_records.map(r=>r.period_end));
+  for(const quarter of quarters){
+    if(quarter.period_end===latest || omantelDates.has(quarter.period_end)) annual.push({...quarter,date:quarter.period_end});
+  }
   const omantel=omanData.operator_records;
   const rows=annual.map(r=>{
     const fixed=omantel.find(x=>x.metric==='fixed_broadband' && x.period_end===r.date);
