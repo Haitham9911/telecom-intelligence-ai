@@ -25,3 +25,21 @@ assert.equal(calc("oaMonthPair('fiber')"),null); // No July-to-September compari
 calc("omanData={...fixture,national:fixture.national.map(r=>r.metric==='fiber'&&r.period_end==='2026-08-31'?{...r,source_id:'another_vintage'}:r)}");
 assert.equal(calc("oaMonthPair('fiber')"),null); // Do not create growth from a mismatched publication.
 console.log('Oman analysis: 20 checks passed, including source-vintage, period and rounding safeguards');
+
+vm.runInContext(fs.readFileSync('oman-research.js','utf8'),ctx);
+calc('omanData=fixture');
+assert.equal(calc("omRecord('fixed_broadband','2025-03-31').value"),585843);
+assert.equal(calc("omRows().filter(r=>r.source_id==='TRA'&&r.metric==='fixed_broadband'&&r.period_end==='2025-03-31').length"),2);
+assert.equal(calc("omMatchedRate(6891335,5454352).toFixed(2)"),'126.35');
+assert.equal(calc("omMatchedRate(6891335,0)"),null);
+Object.assign(ctx,{fmt:(x,d)=>x.toLocaleString('en-US',{maximumFractionDigits:d}),
+  external:(url,label)=>'<a href="'+url+'">'+label+'</a>',section:(title,sub)=>title+sub,pageHeading:s=>s});
+for(const i of [0,1]){
+  ctx.t=(...args)=>args[i];
+  for(const [view,value] of [['penetration','1,065,697'],['regulation','20.784'],['spectrum','2 × 12.4']]){
+    const html=calc('omResearchView('+JSON.stringify(view)+')');
+    assert.ok(html.includes(value));
+    assert.ok(!html.includes('undefined')&&!html.includes('NaN'));
+  }
+}
+console.log('Oman source precedence, matched penetration and bilingual research views passed');

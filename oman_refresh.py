@@ -77,21 +77,23 @@ def refresh(data_dir,fetcher=None,force=False):
 def combined(data_dir):
  data_dir=Path(data_dir);data=read(data_dir/'oman-market.json',{'schema':1,'national':[],'shares':[]});auto=read(data_dir/'oman-auto.json',{'records':[],'sources':{}})
  rows={}
- for r in data.get('national',[])+auto['records']:rows[(r['metric'],r['period_end'],r['source_id'])]=r
+ for r in data.get('national',[])+auto['records']:
+  rows[(r['metric'],r['period_end'],r['source_id'],r.get('dataset'))]=r
  # NCSI reports prepaid/postpaid and total including M2M. Derive telephone
  # subscriptions only within the exact same source vintage and reporting date.
  for key,r in list(rows.items()):
   if r['metric']!='prepaid':continue
-  post=rows.get(('postpaid',r['period_end'],r['source_id']))
-  mobile_key=('mobile',r['period_end'],r['source_id'])
+  post=rows.get(('postpaid',r['period_end'],r['source_id'],r.get('dataset')))
+  mobile_key=('mobile',r['period_end'],r['source_id'],r.get('dataset'))
   if post and mobile_key not in rows:
    rows[mobile_key]=dict(r,metric='mobile',value=r['value']+post['value'],method='calculated',formula='prepaid + postpaid; same source and date')
+ data['research']=read(data_dir/'oman-research.json',{})
  data['national']=sorted(rows.values(),key=lambda r:(r['period_end'],r['metric'],r['source_id']));data['refresh']=auto['sources'];data['built_at']=now();return data
 def export(data_dir):
  data_dir=Path(data_dir);data=combined(data_dir)
  (data_dir/'oman-data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
  with (data_dir/'oman-market.csv').open('w',encoding='utf-8-sig',newline='') as f:
-  w=csv.DictWriter(f,['metric','value','unit','period_end','period_kind','source_id','source_url','method'],extrasaction='ignore');w.writeheader();w.writerows(data['national'])
+  w=csv.DictWriter(f,['metric','value','unit','period_end','period_kind','source_id','dataset','source_url','method'],extrasaction='ignore');w.writeheader();w.writerows(data['national'])
  return data
 if __name__=='__main__':
  d=Path(__file__).resolve().parent/'data';c=refresh(d);export(d);print(json.dumps(c['sources'],indent=2))

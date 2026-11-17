@@ -1647,12 +1647,12 @@
       "metric": "fixed_broadband",
       "year": 2023,
       "period_end": "2023-12-31",
-      "value": 314000,
+      "value": 314300,
       "unit": "subscriptions",
-      "source_url": "https://www.omantel.om/wcm/connect/32935860-4060-4143-927e-2c44c46f7f80/Omantel%2BAR%2B2024%2B-%2BEnglish%2B%283%29.pdf?CACHEID=ROOTWORKSPACE-32935860-4060-4143-927e-2c44c46f7f80-psrvpgv&CONVERT_TO=URL&MOD=AJPERES",
-      "source_page": "Financial Position / Revenue and Subscribers",
+      "source_url": "https://ir.omantel.om/media/xlsgigbl/omantel-q1-2024-ir-presentation_en.pdf",
+      "source_page": "11",
       "method": "reported",
-      "basis_en": "Rounded to nearest1000. Includes wireline and fixed wireless."
+      "basis_en": "December 2023 comparative in the Q1 2024 domestic presentation, rounded to the nearest hundred."
     },
     {
       "operator": "OTEL",
@@ -1707,12 +1707,12 @@
       "metric": "mobile_prepaid_direct",
       "year": 2023,
       "period_end": "2023-12-31",
-      "value": 1550000,
+      "value": 1551500,
       "unit": "subscriptions",
-      "source_url": "https://www.omantel.om/wcm/connect/32935860-4060-4143-927e-2c44c46f7f80/Omantel%2BAR%2B2024%2B-%2BEnglish%2B%283%29.pdf?CACHEID=ROOTWORKSPACE-32935860-4060-4143-927e-2c44c46f7f80-psrvpgv&CONVERT_TO=URL&MOD=AJPERES",
-      "source_page": "Financial Position / Mobile Subscribers",
+      "source_url": "https://ir.omantel.om/media/xlsgigbl/omantel-q1-2024-ir-presentation_en.pdf",
+      "source_page": "11",
       "method": "reported",
-      "basis_en": "Chart rounded to0.01million. Separate reseller and postpaid bars."
+      "basis_en": "December 2023 comparative in the Q1 2024 domestic presentation, rounded to the nearest hundred."
     },
     {
       "operator": "OTEL",

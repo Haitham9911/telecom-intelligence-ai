@@ -19,7 +19,13 @@ function oaShareChange(current,previous,id){
  const now=omEstimate(current.total,a.share,a.decimals),old=omEstimate(previous.total,b.share,b.decimals);if(!now||!old)return null;
  return {operator:a,now,old,delta:now.value-old.value,pp:a.share-b.share,marketEffect:(current.total-previous.total)*b.share/100,shareEffect:current.total*(a.share-b.share)/100,low:now.low-old.high,high:now.high-old.low};
 }
-function oaTabs(){return `<nav class="oa-tabs" aria-label="${t('عرض سوق عُمان','Oman market view')}"><a class="chip ${omanMode==='overview'?'active':''}" href="#oman-market">${t('الأرقام والمصادر','Figures & sources')}</a><a class="chip ${omanMode==='analysis'?'active':''}" href="#oman-market?view=analysis">${t('النمو وتحليل الحصص','Growth & share analysis')}</a></nav>`;}
+function oaTabs(){
+ const tabs=[['overview',t('الأرقام والمصادر','Figures & sources')],['analysis',t('النمو والحصص','Growth & shares')],['penetration',t('الاشتراكات والانتشار','Subscriptions & penetration')],['regulation',t('التراخيص والإتاوة','Licences & royalties')],['spectrum',t('الطيف ورسومه','Spectrum & fees')]];
+ return '<nav class="oa-tabs" aria-label="'+t('سوق عُمان','Oman market')+'">'+tabs.map(([id,label])=>{
+  const active=omanMode===id,href=id==='overview'?'#oman-market':'#oman-market?view='+id;
+  return '<a class="chip '+(active?'active':'')+'" href="'+href+'" '+(active?'aria-current="page"':'')+'>'+label+'</a>';
+ }).join('')+'</nav>';
+}
 function oaMonthly(){
  const keys=['mobile','prepaid','postpaid','m2m','mobile_broadband','fixed_broadband','fiber','fixed_5g','fixed_4g','adsl','satellite'],pairs=keys.map(k=>[k,oaMonthPair(k)]).filter(([,p])=>p);
  if(!pairs.length)return '';

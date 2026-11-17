@@ -1,0 +1,574 @@
+{
+  "as_of": "2026-11-18",
+  "sources": {
+    "awasr": "https://qanoon.om/p/2012/rd2012060/",
+    "awasr2016": "https://data.qanoon.om/ar/md/tra/2016-0017.pdf",
+    "fees2026": "https://tra.gov.om/legal-framework/nydgpi4q5sd7n7k0ptfy60yh",
+    "friendiHistorical": "https://www.tra.gov.om/pdf/consumerguideEn.pdf",
+    "imtFees": "https://qanoon.om/p/2022/tra20229904/",
+    "ncsi2026_06": "https://api.ncsi.gov.om/uploads/pdfs/monthly_statistical_bulletin___july_2026_1784544520.pdf",
+    "ncsi2026_09": "https://api.ncsi.gov.om/uploads/pdfs/monthly_statistical_bulletin__october_2026_ar_1792489912.pdf",
+    "ncsiHouseholdReference": "https://www.ncsi.gov.om/Elibrary/LibraryContentDoc/bar_Population%2C%20housing%20and%20household%20statistics%202023_d13817bf-ba03-4aa9-8541-8cb36c865134.pdf",
+    "ncsiPopulation": "https://data.gov.om/OMPOP2016/population?lang=en&tsId=1231410",
+    "ncsiYearbook2026": "https://api.ncsi.gov.om/uploads/pdfs/statistical_year_book_2026___issue_54_ar_1778134524.pdf",
+    "nfat2024": "https://www.tra.gov.om/files/uploads/alkhtt_alwtnyt_2056f01b23.pdf",
+    "obb": "https://data.qanoon.om/ar/rd/2019/2019-010.pdf",
+    "omantel2025": "https://annualreport.omantel.om/2025/financial-statements/consolidated-statement-of-profit-or-loss/",
+    "omantelFixed": "https://qanoon.om/p/2004/l2004020/",
+    "omantelMobile": "https://qanoon.om/p/2019/rd2019015/",
+    "omantelNotice2025": "https://argaamplus.s3.amazonaws.com/7ef7afd9-8431-4472-9fc7-a58ab225312b.pdf",
+    "ooredoo2022": "https://www.ooredoo.om/wp-content/uploads/annualreport/Financial_Report_2022_E.pdf",
+    "ooredoo2023": "https://www.ooredoo.om/wp-content/uploads/2024/02/Ooredoo_FS_with_Signed_AuditReport_En.pdf",
+    "ooredoo2025": "https://www.ooredoo.om/wp-content/uploads/annualreport/Ooredoo_FS_English_2025.pdf",
+    "ooredoo5G": "https://www.ooredoo.om/en/personal/mobile/5g",
+    "ooredooFixed": "https://qanoon.om/p/2009/rd2009034/",
+    "ooredooMobile": "https://qanoon.om/p/2020/rd2020003/",
+    "royalty2021": "https://mjla.gov.om/decisions/ar/247/show/1407",
+    "starlink": "https://data.qanoon.om/ar/rd/2023/2023-042.pdf",
+    "tra2023": "https://gov.om/documents/20117/787687/التقرير%20السنوي%20لعام%202023/e3726d73-0b8e-57c0-33e1-b0afdedc4564",
+    "traFixed": "https://tra.gov.om/open-data/fixed-subscriptions",
+    "traH1_26": "https://www.tra.gov.om/files/uploads/mwshrat_alswq_lqtae_alatsalat_khlal_alnsf_alawl_2026_340fee9479.pdf",
+    "traMobile": "https://tra.gov.om/open-data/mobile-subscriptions",
+    "traTech": "https://tra.gov.om/open-data/bbs-technology",
+    "vodafone": "https://qanoon.om/p/2021/rd2021004/",
+    "vodafone5g": "https://www.vodafone.om/5g",
+    "vodafoneIntl": "https://qanoon.om/p/2021/rd2021065/",
+    "vodafoneLaunch": "https://www.omanobserver.om/article/1115717/business/economy/vodafone-oman-celebrates-official-launch",
+    "vodafone2022": "https://www.muscatdaily.com/2023/03/15/vodafone-oman-gains-7-market-share-in-first-year/",
+    "peer2023": "https://www.ooredoo.om/wp-content/uploads/2024/12/OoredooOmanQ32024ConferenceCallPresentation.pdf",
+    "peer2023prior": "https://www.ooredoo.om/wp-content/uploads/calendar/presentation/Ooredoo_Oman_Q4_2023_conference_call_final.pdf",
+    "traRegistry": "https://tra.gov.om/open-data/statistics/telecom",
+    "ooredoo9m26": "https://www.ooredoo.com/wp-content/uploads/2026/10/2609-Ooredoo-Consol-FS-English-Signed.pdf",
+    "awasr2021": "https://qanoon.om/p/2021/tra20210023/",
+    "coverageFee": "https://tra.gov.om/pdf/decision_62-2016.pdf",
+    "ooredoo5g2019": "https://www.ooredoo.com/wp-content/uploads/2015/10/Ooredoo-Group-CMD-2019-Final.pdf",
+    "ooredoo5g2021": "https://www.ooredoo.com/wp-content/uploads/2021/05/Ooredoo-Group-Q1-2021-Investor-Call-Transcript-v1-1.pdf",
+    "tra2024licences": "https://www.tra.gov.om/files/uploads/altqryr_alsnwy_2024_compressed_12280a477f.pdf"
+  },
+  "licences": [
+    {
+      "operator": "omantel",
+      "service": "fixed",
+      "licence_class": "I",
+      "year": 2004,
+      "term": 25,
+      "end_year": 2029,
+      "sources": [
+        "omantelFixed"
+      ]
+    },
+    {
+      "operator": "omantel",
+      "service": "mobile",
+      "licence_class": "I",
+      "year": 2019,
+      "term": 15,
+      "end_year": 2034,
+      "sources": [
+        "omantelMobile"
+      ]
+    },
+    {
+      "operator": "ooredoo",
+      "service": "fixed",
+      "licence_class": "I",
+      "year": 2009,
+      "term": 25,
+      "end_year": 2034,
+      "sources": [
+        "ooredooFixed"
+      ]
+    },
+    {
+      "operator": "ooredoo",
+      "service": "mobile",
+      "licence_class": "I",
+      "year": 2020,
+      "term": 15,
+      "end_year": 2035,
+      "sources": [
+        "ooredooMobile"
+      ]
+    },
+    {
+      "operator": "vodafone",
+      "service": "mobile",
+      "licence_class": "I",
+      "year": 2021,
+      "term": 15,
+      "end_year": 2036,
+      "sources": [
+        "vodafone"
+      ]
+    },
+    {
+      "operator": "vodafone",
+      "service": "international",
+      "licence_class": "I",
+      "year": 2021,
+      "term": 15,
+      "end_year": 2036,
+      "sources": [
+        "vodafoneIntl"
+      ]
+    },
+    {
+      "operator": "awasr",
+      "service": "fixed",
+      "licence_class": "I",
+      "year": 2012,
+      "term": 25,
+      "end_year": 2037,
+      "sources": [
+        "awasr",
+        "awasr2016"
+      ]
+    },
+    {
+      "operator": "awasr",
+      "service": "resale",
+      "licence_class": "II",
+      "year": 2019,
+      "term": null,
+      "end_year": null,
+      "sources": [
+        "tra2023",
+        "tra2024licences"
+      ]
+    },
+    {
+      "operator": "friendi",
+      "service": "resale",
+      "licence_class": "II",
+      "year": null,
+      "term": null,
+      "end_year": null,
+      "sources": [
+        "tra2023",
+        "friendiHistorical",
+        "tra2024licences"
+      ]
+    },
+    {
+      "operator": "renna",
+      "service": "resale",
+      "licence_class": "II",
+      "year": 2023,
+      "term": null,
+      "end_year": null,
+      "sources": [
+        "tra2023",
+        "tra2024licences"
+      ]
+    },
+    {
+      "operator": "broadband",
+      "service": "infrastructure",
+      "licence_class": "I",
+      "year": 2019,
+      "term": 25,
+      "end_year": 2044,
+      "sources": [
+        "obb"
+      ]
+    },
+    {
+      "operator": "starlink",
+      "service": "satellite",
+      "licence_class": "I",
+      "year": 2023,
+      "term": 25,
+      "end_year": 2048,
+      "sources": [
+        "starlink"
+      ]
+    }
+  ],
+  "royalties": {
+    "rates": [
+      {
+        "period": "2021",
+        "mobile": 12,
+        "fixed": 7,
+        "sources": [
+          "royalty2021"
+        ]
+      },
+      {
+        "period": "2022–2024",
+        "mobile": 12,
+        "fixed": 10,
+        "sources": [
+          "royalty2021",
+          "ooredoo2025"
+        ]
+      },
+      {
+        "period": "2025–",
+        "mobile": 10,
+        "fixed": 10,
+        "sources": [
+          "omantelNotice2025",
+          "ooredoo2025"
+        ]
+      }
+    ],
+    "ooredoo_expense": [
+      {
+        "year": 2021,
+        "value": 23.062,
+        "source": "ooredoo2022"
+      },
+      {
+        "year": 2022,
+        "value": 26.333,
+        "source": "ooredoo2023"
+      },
+      {
+        "year": 2023,
+        "value": 25.175,
+        "source": "ooredoo2023"
+      },
+      {
+        "year": 2024,
+        "value": 24.275,
+        "source": "ooredoo2025"
+      },
+      {
+        "year": 2025,
+        "value": 20.784,
+        "source": "ooredoo2025"
+      }
+    ],
+    "omantel_payable": {
+      "2024": 31.8,
+      "2025": 34.8
+    }
+  },
+  "spectrum": {
+    "awards": [
+      {
+        "operator": "omantel",
+        "year": 2019,
+        "fee_mn": 75,
+        "source": "omantelMobile",
+        "paired_mhz": {
+          "800": 10,
+          "900": 12.4,
+          "1800": 20,
+          "2100": 15,
+          "2600": 20
+        }
+      },
+      {
+        "operator": "ooredoo",
+        "year": 2020,
+        "fee_mn": 75,
+        "source": "ooredooMobile",
+        "paired_mhz": {
+          "800": 10,
+          "900": 12.2,
+          "1800": 20,
+          "2100": 15,
+          "2600": 20
+        }
+      },
+      {
+        "operator": "vodafone",
+        "year": 2021,
+        "fee_mn": 29.5,
+        "source": "vodafone",
+        "paired_mhz": {
+          "700": 10,
+          "900": 9.8,
+          "1800": 20,
+          "2100": 15,
+          "2600": 20
+        }
+      }
+    ],
+    "bands": [
+      {
+        "band": "700 MHz",
+        "ranges": [
+          [
+            694,
+            790
+          ]
+        ],
+        "pages": [
+          66
+        ]
+      },
+      {
+        "band": "800 MHz",
+        "ranges": [
+          [
+            790,
+            862
+          ]
+        ],
+        "pages": [
+          66
+        ]
+      },
+      {
+        "band": "900 MHz",
+        "ranges": [
+          [
+            880,
+            915
+          ],
+          [
+            925,
+            960
+          ]
+        ],
+        "pages": [
+          67
+        ]
+      },
+      {
+        "band": "1800 MHz",
+        "ranges": [
+          [
+            1710,
+            1785
+          ],
+          [
+            1805,
+            1880
+          ]
+        ],
+        "pages": [
+          72,
+          73
+        ]
+      },
+      {
+        "band": "2100 MHz",
+        "ranges": [
+          [
+            1920,
+            1980
+          ],
+          [
+            2110,
+            2170
+          ]
+        ],
+        "pages": [
+          73,
+          74
+        ]
+      },
+      {
+        "band": "2300 MHz",
+        "ranges": [
+          [
+            2300,
+            2400
+          ]
+        ],
+        "pages": [
+          75
+        ]
+      },
+      {
+        "band": "2600 MHz",
+        "ranges": [
+          [
+            2500,
+            2690
+          ]
+        ],
+        "pages": [
+          76,
+          77
+        ]
+      },
+      {
+        "band": "3500 MHz",
+        "ranges": [
+          [
+            3400,
+            3600
+          ],
+          [
+            3600,
+            3800
+          ]
+        ],
+        "pages": [
+          78
+        ]
+      },
+      {
+        "band": "26 GHz",
+        "ranges": [
+          [
+            24250,
+            26500
+          ],
+          [
+            26500,
+            27500
+          ]
+        ],
+        "pages": [
+          98,
+          99
+        ]
+      }
+    ]
+  },
+  "population": [
+    {
+      "period_end": "2021-12-31",
+      "value": 4527446,
+      "source": "ncsiPopulation"
+    },
+    {
+      "period_end": "2022-12-31",
+      "value": 4933850,
+      "source": "ncsiPopulation"
+    },
+    {
+      "period_end": "2023-12-31",
+      "value": 5165602,
+      "source": "ncsiPopulation"
+    },
+    {
+      "period_end": "2024-12-31",
+      "value": 5268072,
+      "source": "ncsiPopulation"
+    },
+    {
+      "period_end": "2025-12-31",
+      "value": 5359557,
+      "source": "ncsiPopulation"
+    },
+    {
+      "period_end": "2026-06-30",
+      "value": 5398645,
+      "source": "ncsi2026_06"
+    },
+    {
+      "period_end": "2026-09-30",
+      "value": 5454352,
+      "source": "ncsi2026_09"
+    }
+  ],
+  "estimates": [
+    {
+      "period": "2021-12-31",
+      "operator": "awasr",
+      "metric": "fiber",
+      "market": 184593,
+      "share": 38,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alswq_qtaey_alatsalat_walbryd_ywlyw_ala_dysmbr_2021_8d29c24f60.pdf",
+      "page": 22,
+      "pdf_page": 22
+    },
+    {
+      "period": "2022-12-31",
+      "operator": "awasr",
+      "metric": "fiber",
+      "market": 231618,
+      "share": 33,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alatsalat_walbryd_mn_ywlyw_ala_dysmbr_62204ec767.pdf",
+      "page": 20,
+      "pdf_page": 20
+    },
+    {
+      "period": "2023-12-31",
+      "operator": "awasr",
+      "metric": "fiber",
+      "market": 279852,
+      "share": 33,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alatsalat_walbryd_mn_ywlyw_ala_dysmbr_2023_817d58d4dd.pdf",
+      "page": 13,
+      "pdf_page": 15
+    },
+    {
+      "period": "2024-12-31",
+      "operator": "awasr",
+      "metric": "fixed_broadband",
+      "market": 582900,
+      "share": 18,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alatsalat_walbryd_mn_ywlyw_ala_dysmbr_2024_0d7e01d94b.pdf",
+      "page": 11,
+      "pdf_page": 13
+    },
+    {
+      "period": "2025-12-31",
+      "operator": "awasr",
+      "metric": "fixed_broadband",
+      "market": 598907,
+      "share": 18,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/Market_Indicators_July_Dec_2025_Arabic_0af132048b.pdf",
+      "page": 10,
+      "pdf_page": 12
+    },
+    {
+      "period": "2026-06-30",
+      "operator": "awasr",
+      "metric": "fixed_broadband",
+      "market": 591630,
+      "share": 19,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/mwshrat_alswq_lqtae_alatsalat_khlal_alnsf_alawl_2026_340fee9479.pdf",
+      "page": 12,
+      "pdf_page": 15
+    },
+    {
+      "period": "2022-12-31",
+      "operator": "vodafone",
+      "metric": "mobile_vintage",
+      "market": 6749535,
+      "share": 6,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alatsalat_walbryd_mn_ywlyw_ala_dysmbr_62204ec767.pdf",
+      "page": 7,
+      "pdf_page": 7
+    },
+    {
+      "period": "2024-12-31",
+      "operator": "vodafone",
+      "metric": "mobile_broadband",
+      "market": 5344731,
+      "share": 14,
+      "precision": 0,
+      "source_url": "https://tra.gov.om/files/uploads/altqryr_alnsf_snwy_lmwshrat_alatsalat_walbryd_mn_ywlyw_ala_dysmbr_2024_0d7e01d94b.pdf",
+      "page": 5,
+      "pdf_page": 7
+    },
+    {
+      "period": "2025-12-31",
+      "operator": "vodafone",
+      "metric": "mobile_broadband",
+      "market": 5421911,
+      "share": 19.5,
+      "precision": 1,
+      "source_url": "https://tra.gov.om/files/uploads/Market_Indicators_July_Dec_2025_Arabic_0af132048b.pdf",
+      "page": 5,
+      "pdf_page": 7
+    },
+    {
+      "period": "2026-06-30",
+      "operator": "vodafone",
+      "metric": "mobile",
+      "market": 6619238,
+      "share": 16.1,
+      "precision": 1,
+      "source_url": "https://tra.gov.om/files/uploads/mwshrat_alswq_lqtae_alatsalat_khlal_alnsf_alawl_2026_340fee9479.pdf",
+      "page": 5,
+      "pdf_page": 7
+    }
+  ]
+}

@@ -81,7 +81,7 @@ def build(refresh=True):
     if 'const IS_STATIC=false;' not in html:
         raise ValueError('Static build marker is missing')
     html=html.replace('const IS_STATIC=false;', 'const IS_STATIC=true;', 1)
-    for name in ('styles.css', 'app.js', 'research.js', 'stocks.js', 'intelligence.js', 'indicators.js', 'oman.js','oman-analysis.js', 'icon.svg'):
+    for name in ('styles.css', 'app.js', 'research.js', 'stocks.js', 'intelligence.js', 'indicators.js', 'oman.js','oman-analysis.js','oman-research.js', 'icon.svg'):
         shutil.copy2(R/name, SITE/name)
     (SITE/'index.html').write_text(html,encoding='utf-8')
     (SITE/'.nojekyll').write_text('',encoding='utf-8')
