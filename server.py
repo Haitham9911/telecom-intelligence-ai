@@ -26,7 +26,9 @@ def initialize():
 
 def feed_rows():
     with updater.connect() as db:
-        return [dict(r) for r in db.execute('SELECT * FROM feed_items ORDER BY COALESCE(published,discovered) DESC LIMIT 150')]
+        items=[dict(r) for r in db.execute('SELECT * FROM feed_items ORDER BY COALESCE(published,discovered) DESC LIMIT 2000')]
+        for item in items:item['company_ids']=json.loads(item.get('company_ids') or '[]')
+        return [x for x in items if x.get('kind')!='aggregator' or updater.companies_in(x['title'])]
 
 def health_rows():
     with updater.connect() as db:
@@ -43,6 +45,10 @@ class Handler(SimpleHTTPRequestHandler):
         u=urlparse(self.path)
         if u.path.startswith('/api/'):
             mapping={'/api/companies':'companies','/api/facts':'facts','/api/events':'events','/api/sources':'sources'}
+            if u.path in ('/api/five-years.csv','/api/operating-metrics.csv'):
+                path=ROOT/'data'/('operating-metrics.csv' if u.path.endswith('operating-metrics.csv') else 'five-year-financials.csv')
+                if not path.exists():self.send_error(404);return
+                payload=path.read_bytes();self.send_response(200);self.send_header('Content-Type','text/csv; charset=utf-8');self.end_headers();self.wfile.write(payload);return
             if u.path=='/api/stock-quotes':self.json(quotes.read(ROOT/'data'/'stock-quotes.json'));return
             if u.path=='/api/seed':self.json(SEED);return
             if u.path=='/api/status':

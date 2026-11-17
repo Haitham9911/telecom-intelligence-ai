@@ -1,0 +1,66 @@
+[
+  {
+    "id": "42709c79eeec764209da93a3cf64646f",
+    "feed_id": "reviewed-official",
+    "title": "OTEL — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf",
+    "published": "2026-11-15T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "OTEL",
+    "company_ids": [
+      "OTEL"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "OTEL · Official results"
+  },
+  {
+    "id": "4a4cf5150a7f15240cc677304773a7cb",
+    "feed_id": "reviewed-official",
+    "title": "ZAIN — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.zain.com/en/press-release/zaingroup2026-q3",
+    "published": "2026-11-10T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "ZAIN",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "ZAIN · Official results"
+  },
+  {
+    "id": "0c6cbef19f7cd2b59153b471489f464b",
+    "feed_id": "reviewed-official",
+    "title": "ORDS — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.ooredoo.com/wp-content/uploads/2026/10/ORDS_Earnings-Release_9M-2026_EN_FINAL.pdf",
+    "published": "2026-10-28T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "ORDS",
+    "company_ids": [
+      "ORDS"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "ORDS · Official results"
+  },
+  {
+    "id": "d2306319b14471cdf080c8edcb49b65a",
+    "feed_id": "reviewed-official",
+    "title": "EAND — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.eand.com/en/news/27-10-26-etisalat-record-9m-2026-performance.html",
+    "published": "2026-10-27T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "EAND",
+    "company_ids": [
+      "EAND"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "EAND · Official results"
+  }
+]

@@ -1,0 +1,12 @@
+const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
+const context={document:{addEventListener(){}},localStorage:{getItem(){return null}},db:JSON.parse(fs.readFileSync('data/seed.json','utf8'))};
+vm.createContext(context);vm.runInContext(fs.readFileSync('intelligence.js','utf8'),context);
+const calc=expression=>vm.runInContext(expression,context);
+assert.equal(calc("derived(profile('ZAIN'),'2026','ebitda_margin')"),34);
+assert.equal(calc("derived(profile('ORDS'),'2022','revenue_growth')"),null);
+assert.equal(calc("derived(profile('STC'),'2021','ebitda_margin')"),null);
+assert.equal(calc("derived(profile('OTEL'),'2021','revenue_growth')"),null);
+assert.equal(calc('change(null,100)'),null);
+assert.equal(calc('change(10,0)'),null);
+assert.ok(Math.abs(calc("derived(profile('ORDS'),'2025','revenue_growth')")-4.27633)<.001);
+console.log('Financial calculations: 7 checks passed');

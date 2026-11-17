@@ -33,7 +33,7 @@ class DataTests(unittest.TestCase):
   self.assertEqual(len(keys),len(set(keys)))
  def test_reports_match_sources(self):
   sources={s['id']:s for s in SEED['sources']}
-  self.assertEqual(len(SEED['reports']),4)
+  self.assertGreaterEqual(len(SEED['reports']),29)
   for r in SEED['reports']:self.assertEqual(r['url_en'],sources[r['source_id']]['url'])
 
 if __name__=='__main__':unittest.main()

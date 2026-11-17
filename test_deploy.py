@@ -6,7 +6,7 @@ class DeployTests(unittest.TestCase):
  def test_static_build_no_secrets(self):
   with tempfile.TemporaryDirectory() as d:
    base=Path(d);(base/'data').mkdir()
-   for name in ('index.html','styles.css','app.js','research.js','stocks.js','icon.svg'):
+   for name in ('index.html','styles.css','app.js','research.js','stocks.js','intelligence.js','icon.svg'):
     shutil.copy2(build_static.R/name,base/name)
    (base/'data'/'seed.json').write_text((build_static.R/'data'/'seed.json').read_text())
    with patch.object(build_static,'R',base),patch.object(build_static,'SITE',base/'_site'),patch.object(build_static,'DATA',base/'data'),patch.object(build_static.updater,'DB',base/'data'/'cache.sqlite3'):
@@ -16,7 +16,7 @@ class DeployTests(unittest.TestCase):
    self.assertIn('const IS_STATIC=true',html)
    self.assertIn('data/live-news.json',(site/'app.js').read_text())
    self.assertIn('data/facts.csv',(site/'app.js').read_text())
-   for name in ('styles.css','app.js','research.js','stocks.js','icon.svg'):
+   for name in ('styles.css','app.js','research.js','stocks.js','intelligence.js','icon.svg'):
     self.assertTrue((site/name).is_file())
    self.assertTrue((site/'data'/'stock-quotes.json').is_file())
    self.assertFalse((site/'quotes.py').exists())
@@ -26,10 +26,10 @@ class DeployTests(unittest.TestCase):
  def test_feed_history_survives_failed_refresh_and_disabled_feed_is_excluded(self):
   with tempfile.TemporaryDirectory() as d:
    base=Path(d);(base/'data').mkdir()
-   for name in ('index.html','styles.css','app.js','research.js','stocks.js','icon.svg'):
+   for name in ('index.html','styles.css','app.js','research.js','stocks.js','intelligence.js','icon.svg'):
     shutil.copy2(build_static.R/name,base/name)
    (base/'data'/'seed.json').write_text((build_static.R/'data'/'seed.json').read_text())
-   prior=[{'id':'retained-story','title':'Previous headline','published':'2026-11-17T08:00:00+00:00'}]
+   prior=[{'id':'retained-story','title':'Previous headline','url':'https://example.com/retained','company_ids':[],'published':'2026-11-17T08:00:00+00:00'}]
    (base/'data'/'live-news.json').write_text(json.dumps(prior))
    with patch.object(build_static,'R',base),patch.object(build_static,'SITE',base/'_site'),patch.object(build_static,'DATA',base/'data'),patch.object(build_static.updater,'DB',base/'data'/'cache.sqlite3'):
     with build_static.updater.connect() as db:

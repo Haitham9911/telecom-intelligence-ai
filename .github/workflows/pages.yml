@@ -26,7 +26,9 @@ jobs:
         with:
           python-version: '3.12'
       - name: Validate offline tests
-        run: python -m unittest -v test_live.py test_app.py test_deploy.py test_quotes.py
+        run: python -m unittest -v test_live.py test_app.py test_deploy.py test_quotes.py test_intelligence.py
+      - name: Check financial calculations
+        run: node test_intelligence.cjs
       - name: Restore public feed and quote history
         uses: actions/cache/restore@v4
         with:

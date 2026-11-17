@@ -567,6 +567,181 @@
       "label": "NCSI Oman data portal",
       "url": "https://data.gov.om/",
       "mode": "reference-only"
+    },
+    {
+      "id": "otel-fy-2021",
+      "label": "OTEL — 2021 results source",
+      "url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "otel-fy-2022",
+      "label": "OTEL — 2022 results source",
+      "url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "otel-fy-2023",
+      "label": "OTEL — 2023 results source",
+      "url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "otel-fy-2024",
+      "label": "OTEL — 2024 results source",
+      "url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "otel-fy-2025",
+      "label": "OTEL — 2025 results source",
+      "url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "zain-fy-2021",
+      "label": "ZAIN — 2021 results source",
+      "url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "zain-fy-2022",
+      "label": "ZAIN — 2022 results source",
+      "url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "zain-fy-2023",
+      "label": "ZAIN — 2023 results source",
+      "url": "https://d30ezutk4plts9.cloudfront.net/media/documents/Zain-IR-deck-2023Q4.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "zain-fy-2024",
+      "label": "ZAIN — 2024 results source",
+      "url": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "zain-fy-2025",
+      "label": "ZAIN — 2025 results source",
+      "url": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "ords-fy-2021",
+      "label": "ORDS — 2021 results source",
+      "url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "ords-fy-2022",
+      "label": "ORDS — 2022 results source",
+      "url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "ords-fy-2023",
+      "label": "ORDS — 2023 results source",
+      "url": "https://www.ooredoo.com/2025-annual-report/pdfs/2025%20Ooredoo%20Annual%20Report_English_compressed.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "ords-fy-2024",
+      "label": "ORDS — 2024 results source",
+      "url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "ords-fy-2025",
+      "label": "ORDS — 2025 results source",
+      "url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "stc-fy-2021",
+      "label": "STC — 2021 results source",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "stc-fy-2022",
+      "label": "STC — 2022 results source",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "stc-fy-2023",
+      "label": "STC — 2023 results source",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "stc-fy-2024",
+      "label": "STC — 2024 results source",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "stc-fy-2025",
+      "label": "STC — 2025 results source",
+      "url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "eand-fy-2021",
+      "label": "EAND — 2021 results source",
+      "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "eand-fy-2022",
+      "label": "EAND — 2022 results source",
+      "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "eand-fy-2023",
+      "label": "EAND — 2023 results source",
+      "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "eand-fy-2024",
+      "label": "EAND — 2024 results source",
+      "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "eand-fy-2025",
+      "label": "EAND — 2025 results source",
+      "url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
     }
   ],
   "schema": 2,
@@ -625,6 +800,2235 @@
       "format": "WEB",
       "url_en": "https://www.zain.com/en/press-release/zaingroup2026-q3",
       "source_id": "zain-2026"
+    },
+    {
+      "id": "otel-fy-2021",
+      "company_id": "OTEL",
+      "period": "FY 2021",
+      "title_ar": "OTEL — مصدر نتائج 2021",
+      "title_en": "OTEL — 2021 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "source_id": "otel-fy-2021"
+    },
+    {
+      "id": "otel-fy-2022",
+      "company_id": "OTEL",
+      "period": "FY 2022",
+      "title_ar": "OTEL — مصدر نتائج 2022",
+      "title_en": "OTEL — 2022 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "source_id": "otel-fy-2022"
+    },
+    {
+      "id": "otel-fy-2023",
+      "company_id": "OTEL",
+      "period": "FY 2023",
+      "title_ar": "OTEL — مصدر نتائج 2023",
+      "title_en": "OTEL — 2023 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+      "source_id": "otel-fy-2023"
+    },
+    {
+      "id": "otel-fy-2024",
+      "company_id": "OTEL",
+      "period": "FY 2024",
+      "title_ar": "OTEL — مصدر نتائج 2024",
+      "title_en": "OTEL — 2024 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+      "source_id": "otel-fy-2024"
+    },
+    {
+      "id": "otel-fy-2025",
+      "company_id": "OTEL",
+      "period": "FY 2025",
+      "title_ar": "OTEL — مصدر نتائج 2025",
+      "title_en": "OTEL — 2025 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+      "source_id": "otel-fy-2025"
+    },
+    {
+      "id": "zain-fy-2021",
+      "company_id": "ZAIN",
+      "period": "FY 2021",
+      "title_ar": "ZAIN — مصدر نتائج 2021",
+      "title_en": "ZAIN — 2021 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+      "source_id": "zain-fy-2021"
+    },
+    {
+      "id": "zain-fy-2022",
+      "company_id": "ZAIN",
+      "period": "FY 2022",
+      "title_ar": "ZAIN — مصدر نتائج 2022",
+      "title_en": "ZAIN — 2022 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+      "source_id": "zain-fy-2022"
+    },
+    {
+      "id": "zain-fy-2023",
+      "company_id": "ZAIN",
+      "period": "FY 2023",
+      "title_ar": "ZAIN — مصدر نتائج 2023",
+      "title_en": "ZAIN — 2023 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://d30ezutk4plts9.cloudfront.net/media/documents/Zain-IR-deck-2023Q4.pdf",
+      "source_id": "zain-fy-2023"
+    },
+    {
+      "id": "zain-fy-2024",
+      "company_id": "ZAIN",
+      "period": "FY 2024",
+      "title_ar": "ZAIN — مصدر نتائج 2024",
+      "title_en": "ZAIN — 2024 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+      "source_id": "zain-fy-2024"
+    },
+    {
+      "id": "zain-fy-2025",
+      "company_id": "ZAIN",
+      "period": "FY 2025",
+      "title_ar": "ZAIN — مصدر نتائج 2025",
+      "title_en": "ZAIN — 2025 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+      "source_id": "zain-fy-2025"
+    },
+    {
+      "id": "ords-fy-2021",
+      "company_id": "ORDS",
+      "period": "FY 2021",
+      "title_ar": "ORDS — مصدر نتائج 2021",
+      "title_en": "ORDS — 2021 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+      "source_id": "ords-fy-2021"
+    },
+    {
+      "id": "ords-fy-2022",
+      "company_id": "ORDS",
+      "period": "FY 2022",
+      "title_ar": "ORDS — مصدر نتائج 2022",
+      "title_en": "ORDS — 2022 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+      "source_id": "ords-fy-2022"
+    },
+    {
+      "id": "ords-fy-2023",
+      "company_id": "ORDS",
+      "period": "FY 2023",
+      "title_ar": "ORDS — مصدر نتائج 2023",
+      "title_en": "ORDS — 2023 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.ooredoo.com/2025-annual-report/pdfs/2025%20Ooredoo%20Annual%20Report_English_compressed.pdf",
+      "source_id": "ords-fy-2023"
+    },
+    {
+      "id": "ords-fy-2024",
+      "company_id": "ORDS",
+      "period": "FY 2024",
+      "title_ar": "ORDS — مصدر نتائج 2024",
+      "title_en": "ORDS — 2024 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+      "source_id": "ords-fy-2024"
+    },
+    {
+      "id": "ords-fy-2025",
+      "company_id": "ORDS",
+      "period": "FY 2025",
+      "title_ar": "ORDS — مصدر نتائج 2025",
+      "title_en": "ORDS — 2025 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+      "source_id": "ords-fy-2025"
+    },
+    {
+      "id": "stc-fy-2021",
+      "company_id": "STC",
+      "period": "FY 2021",
+      "title_ar": "STC — مصدر نتائج 2021",
+      "title_en": "STC — 2021 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "source_id": "stc-fy-2021"
+    },
+    {
+      "id": "stc-fy-2022",
+      "company_id": "STC",
+      "period": "FY 2022",
+      "title_ar": "STC — مصدر نتائج 2022",
+      "title_en": "STC — 2022 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "source_id": "stc-fy-2022"
+    },
+    {
+      "id": "stc-fy-2023",
+      "company_id": "STC",
+      "period": "FY 2023",
+      "title_ar": "STC — مصدر نتائج 2023",
+      "title_en": "STC — 2023 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "source_id": "stc-fy-2023"
+    },
+    {
+      "id": "stc-fy-2024",
+      "company_id": "STC",
+      "period": "FY 2024",
+      "title_ar": "STC — مصدر نتائج 2024",
+      "title_en": "STC — 2024 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "source_id": "stc-fy-2024"
+    },
+    {
+      "id": "stc-fy-2025",
+      "company_id": "STC",
+      "period": "FY 2025",
+      "title_ar": "STC — مصدر نتائج 2025",
+      "title_en": "STC — 2025 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. 2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+      "source_id": "stc-fy-2025"
+    },
+    {
+      "id": "eand-fy-2021",
+      "company_id": "EAND",
+      "period": "FY 2021",
+      "title_ar": "EAND — مصدر نتائج 2021",
+      "title_en": "EAND — 2021 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "source_id": "eand-fy-2021"
+    },
+    {
+      "id": "eand-fy-2022",
+      "company_id": "EAND",
+      "period": "FY 2022",
+      "title_ar": "EAND — مصدر نتائج 2022",
+      "title_en": "EAND — 2022 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "source_id": "eand-fy-2022"
+    },
+    {
+      "id": "eand-fy-2023",
+      "company_id": "EAND",
+      "period": "FY 2023",
+      "title_ar": "EAND — مصدر نتائج 2023",
+      "title_en": "EAND — 2023 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "source_id": "eand-fy-2023"
+    },
+    {
+      "id": "eand-fy-2024",
+      "company_id": "EAND",
+      "period": "FY 2024",
+      "title_ar": "EAND — مصدر نتائج 2024",
+      "title_en": "EAND — 2024 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "source_id": "eand-fy-2024"
+    },
+    {
+      "id": "eand-fy-2025",
+      "company_id": "EAND",
+      "period": "FY 2025",
+      "title_ar": "EAND — مصدر نتائج 2025",
+      "title_en": "EAND — 2025 results source",
+      "description_ar": "مصدر الأرقام التاريخية؛ قد يكون تقرير سنة لاحقة يعرض المقارنة. الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+      "description_en": "Historical source; may be a subsequent report presenting comparatives. Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+      "date": null,
+      "format": "OFFICIAL",
+      "url_en": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+      "source_id": "eand-fy-2025"
     }
-  ]
+  ],
+  "intelligence": {
+    "reviewed_at": "2026-11-17",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "profiles": [
+      {
+        "id": "OTEL",
+        "currency": "OMR",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 2408.3,
+            "ebitda": 970.3,
+            "attributable_profit": 67.1,
+            "source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "ebitda_source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "basis_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+            "basis_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2022,
+            "revenue": 2682.8,
+            "ebitda": 998.9,
+            "attributable_profit": 91.3,
+            "source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "ebitda_source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "basis_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+            "basis_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2023,
+            "revenue": 2942.7,
+            "ebitda": 1039.8,
+            "attributable_profit": 74.8,
+            "source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "ebitda_source_url": "https://portal.omantel.om/wcm/connect/b24599a5-3699-49f6-805e-365a441a1bd2/Omantel%2BSustainability%2BReport%2B%28Final%2Bversion-GRI%29%2B%281%29.pdf?CVID=o-gLFTl&MOD=AJPERES",
+            "basis_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+            "basis_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2024,
+            "revenue": 3062.7,
+            "ebitda": 1044.7,
+            "attributable_profit": 54.2,
+            "source_url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+            "ebitda_source_url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+            "basis_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+            "basis_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2025,
+            "revenue": 3413.1,
+            "ebitda": 1155.4,
+            "attributable_profit": 88.4,
+            "source_url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+            "ebitda_source_url": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+            "basis_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+            "basis_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          }
+        ],
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-11-15",
+          "revenue": 2579.806,
+          "ebitda": 854.1,
+          "attributable_profit": 84.749,
+          "source_url": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q3%20(Un-Audited)_e.zip",
+          "note_ar": "أرباح المجموعة تتضمن مكاسب استثمارية. الربح المنسوب للمساهمين مختلف عن إجمالي ربح المجموعة؛ التفاصيل في صفحة عمانتل.",
+          "note_en": "Group profit includes investment gains. Attributable profit differs from total group profit; see the Omantel page.",
+          "revenue_growth": 2.35,
+          "ebitda_growth": 2.2,
+          "profit_growth": 52.16,
+          "ebitda_source_url": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf"
+        },
+        "note_ar": "تشمل المجموعة زين؛ لا تُجمع أرقامهما. 2024 أعيد عرضها وفق IAS 29، بينما 2021–2023 أرقام تاريخية منشورة. EBITDA مقياس بديل وفق تعريف الشركة.",
+        "note_en": "Group includes Zain; do not add the two. FY2024 is IAS29-restated; 2021–23 are historical reported figures. EBITDA follows the company definition.",
+        "strategy": {
+          "name": "Portal to the Future",
+          "summary_ar": "حماية ريادة الاتصالات وتوسيع خدمات التقنية والذكاء الاصطناعي والربط الدولي.",
+          "summary_en": "Defend connectivity leadership while expanding ICT, AI and international connectivity.",
+          "pillars_ar": [
+            "توحيد خدمات ICT عبر Otech",
+            "السحابة والذكاء الاصطناعي والبنية الرقمية",
+            "الربط الدولي عبر ZOI والانضباط المالي"
+          ],
+          "pillars_en": [
+            "Unify ICT through Otech",
+            "Cloud, AI and digital infrastructure",
+            "International connectivity via ZOI and financial discipline"
+          ],
+          "watch_ar": [
+            "نمو ICT مقابل هامشه وتحصيلاته",
+            "تكلفة التوسع وتأثيرها على EBITDA",
+            "خفض المديونية وعوائد الاستثمار"
+          ],
+          "watch_en": [
+            "ICT growth versus margins and collections",
+            "Expansion costs and EBITDA impact",
+            "Deleveraging and returns on investment"
+          ],
+          "source_url": "https://annualreport.omantel.om/2025/strategic-reviews/our-strategy",
+          "as_of": "FY2025"
+        },
+        "operations": {
+          "currency": "OMR",
+          "scope_ar": "عمانتل — العمليات المحلية باستبعاد زين",
+          "scope_en": "Omantel domestic operations excluding Zain",
+          "note_en": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure. Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth. 2021–22 annual report chart explicitly includes cost of content. Investor deck reports differing blended values2021 7.6/2022 7.5; definitions are not reconciled. FY2024 chart says blended ARPU. Do not imply fully comparable trend or substitute interim2025 data into FY2025. Rounded charts.2023/24 mobile base includes M2M/postpaid and resellers; FY2024 breakdown prepaid1.43m,resellers0.53m,postpaid1.59m; components may not add due rounding.",
+          "note_ar": "التدفق الحر كما أعلنته الشركة؛ لا نفترض أنه EBITDA ناقص CapEx ولا نقارنه مباشرة بتعريف الشركات الأخرى. بعض القيم مقربة. الفراغ يعني غير متاح. أرقام عمانتل هنا محلية وليست المجموعة الموحدة.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://ir.omantel.om/media/ku4l2bbt/annual-report-2022-en.pdf",
+                "free_cash_flow": null
+              },
+              "basis": {
+                "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+              },
+              "capex": 61.4,
+              "free_cash_flow": null
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://ir.omantel.om/media/ku4l2bbt/annual-report-2022-en.pdf",
+                "free_cash_flow": null
+              },
+              "basis": {
+                "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+              },
+              "capex": 87.2,
+              "free_cash_flow": null
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf",
+                "free_cash_flow": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+              },
+              "basis": {
+                "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+              },
+              "capex": 95,
+              "free_cash_flow": 106
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf",
+                "free_cash_flow": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+              },
+              "basis": {
+                "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+              },
+              "capex": 96.9,
+              "free_cash_flow": 85
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://annualreport.omantel.om/2025/value-drivers/financial-review",
+                "free_cash_flow": null
+              },
+              "basis": {
+                "capex": "2023 latest annual2024 comparative95; original2023 management report97.3. Scope/reconciliation change not explained in inspected excerpt. Flag break rather than silently claim like-for-like. Domestic only; excludes Zain Group capital expenditure.",
+                "free_cash_flow": "Reported domestic FCF chart, rounded whole OMRm. Exact formula not established. FY2025 report states growth37% and normalized growth2.2% excluding extra Zain interim dividend29.8m; do not back-solve absolute FCF from rounded growth."
+              },
+              "capex": 129.3,
+              "free_cash_flow": null
+            }
+          ],
+          "markets": [
+            {
+              "id": "Oman mobile",
+              "name_en": "Oman mobile",
+              "name_ar": "عُمان — الهاتف المتنقل",
+              "currency": "OMR",
+              "arpu_unit": "OMR per subscriber (reported ARPU)",
+              "note_en": "2021–22 annual report chart explicitly includes cost of content. Investor deck reports differing blended values2021 7.6/2022 7.5; definitions are not reconciled. FY2024 chart says blended ARPU. Do not imply fully comparable trend or substitute interim2025 data into FY2025.",
+              "note_ar": "ARPU كما ورد في التقرير السنوي. قيم 2025 غير المتاحة لا تستبدل بفترات مرحلية. تعريف ARPU لعامي 2021 و2022 يشمل تكلفة المحتوى وقد يختلف عن الفترات اللاحقة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 7.5,
+                  "customers": 3.14,
+                  "source_url": "https://ir.omantel.om/media/ku4l2bbt/annual-report-2022-en.pdf"
+                },
+                {
+                  "year": 2022,
+                  "arpu": 7.32,
+                  "customers": 3.2,
+                  "source_url": "https://ir.omantel.om/media/ku4l2bbt/annual-report-2022-en.pdf"
+                },
+                {
+                  "year": 2023,
+                  "arpu": 7.01,
+                  "customers": 3.19,
+                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 7.94,
+                  "customers": 3.54,
+                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                },
+                {
+                  "year": 2025,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": null
+                }
+              ]
+            },
+            {
+              "id": "Oman fixed broadband",
+              "name_en": "Oman fixed broadband",
+              "name_ar": "عُمان — النطاق العريض الثابت",
+              "currency": "OMR",
+              "arpu_unit": "OMR per subscriber (reported ARPU)",
+              "note_en": "",
+              "note_ar": "ARPU كما ورد في التقرير السنوي. قيم 2025 غير المتاحة لا تستبدل بفترات مرحلية. تعريف ARPU لعامي 2021 و2022 يشمل تكلفة المحتوى وقد يختلف عن الفترات اللاحقة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": null
+                },
+                {
+                  "year": 2022,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": null
+                },
+                {
+                  "year": 2023,
+                  "arpu": 25.8,
+                  "customers": 0.314,
+                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 27.1,
+                  "customers": 0.312,
+                  "source_url": "https://ir.omantel.om/media/s04nmpld/annual-report-2024-en.pdf"
+                },
+                {
+                  "year": 2025,
+                  "arpu": null,
+                  "customers": null,
+                  "source_url": null
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ZAIN",
+        "currency": "KWD",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 1517,
+            "ebitda": 628,
+            "attributable_profit": 186,
+            "source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+            "ebitda_source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+            "basis_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+            "basis_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2022,
+            "revenue": 1728,
+            "ebitda": 673,
+            "attributable_profit": 196,
+            "source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+            "ebitda_source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainGroupFinancialResultsQ4_2022.pdf",
+            "basis_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+            "basis_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2023,
+            "revenue": 1909,
+            "ebitda": 705,
+            "attributable_profit": 215,
+            "source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/Zain-IR-deck-2023Q4.pdf",
+            "ebitda_source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/Zain-IR-deck-2023Q4.pdf",
+            "basis_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+            "basis_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2024,
+            "revenue": 1997.953,
+            "ebitda": 702.474,
+            "attributable_profit": 117.27,
+            "source_url": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+            "ebitda_source_url": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+            "basis_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+            "basis_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": true
+          },
+          {
+            "year": 2025,
+            "revenue": 2282.991,
+            "ebitda": 780,
+            "attributable_profit": 238.526,
+            "source_url": "https://zain.com/AR2025/consolidated-statement-of-profit-or-loss/",
+            "ebitda_source_url": "https://www.zain.com/en/press-release/zaingroup2025-fy",
+            "basis_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+            "basis_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          }
+        ],
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-11-10",
+          "revenue": 1800,
+          "ebitda": 587,
+          "attributable_profit": 304,
+          "source_url": "https://www.zain.com/en/press-release/zaingroup2026-q3",
+          "note_ar": "تتضمن النتائج مكاسب استثمارات بقيمة 501 مليون دولار. الإيرادات مقربة إلى 1.8 مليار د.ك؛ الهامش المعلن 34%، لا نحسبه من الإيرادات المقربة.",
+          "note_en": "Includes USD501m investment gains. Revenue is rounded to KWD1.8bn; use the reported 34% margin rather than deriving it from rounded revenue.",
+          "revenue_growth": 4,
+          "ebitda_growth": 4,
+          "profit_growth": 59,
+          "ebitda_margin": 34
+        },
+        "note_ar": "2024 أعيد عرضها وفق IAS 29؛ السنوات السابقة لم نُعد عرضها. EBITDA لعام 2024 محسوب من الإيرادات ناقص تكلفة المبيعات والمصاريف التشغيلية والإدارية وخسائر الائتمان. الأرباح قد تشمل مكاسب استثمارية.",
+        "note_en": "FY2024 is IAS29-restated; earlier years are not restated here. FY2024 EBITDA is calculated as revenue less cost of sales, operating/admin costs and ECL. Earnings may include investment gains.",
+        "strategy": {
+          "name": "4WARD · 2025–2030",
+          "summary_ar": "نمو يتجاوز الاتصالات إلى التقنية والخدمات المالية والبنية الرقمية، مع تعزيز تجربة العميل.",
+          "summary_en": "Expand beyond connectivity into technology, financial services and digital infrastructure, while improving customer experience.",
+          "pillars_ar": [
+            "اتصالات متكاملة وتجربة عميل أفضل",
+            "ZainTECH والخدمات المالية والذكاء الاصطناعي",
+            "الأبراج والربط الدولي والشراكات"
+          ],
+          "pillars_en": [
+            "Converged connectivity and customer experience",
+            "ZainTECH, fintech and AI",
+            "Towers, international connectivity and partnerships"
+          ],
+          "watch_ar": [
+            "نمو الإيرادات المتكررة بعيدًا عن مكاسب الاستثمار",
+            "تنفيذ شراكة الأبراج مع أوريدو",
+            "العملات والتضخم في السودان والعراق"
+          ],
+          "watch_en": [
+            "Recurring revenue apart from investment gains",
+            "Execution of the Ooredoo tower partnership",
+            "Currency and inflation exposure in Sudan and Iraq"
+          ],
+          "source_url": "https://zain.com/AR2025/strategy/",
+          "as_of": "FY2025"
+        },
+        "operations": {
+          "currency": "USD",
+          "scope_ar": "زين جروب — مؤشرات بالدولار الأمريكي",
+          "scope_en": "Zain Group metrics in USD",
+          "note_en": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative. Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability. 2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures. 2021 not verified; null is not zero.",
+          "note_ar": "التدفق الحر كما أعلنته الشركة؛ لا نفترض أنه EBITDA ناقص CapEx ولا نقارنه مباشرة بتعريف الشركات الأخرى. بعض القيم مقربة. الفراغ يعني غير متاح.القيم النقدية هنا بالدولار الأمريكي وليست الدينار الكويتي.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://zain.com/AR2023/",
+                "free_cash_flow": "https://zain.com/AR2023/",
+                "customers": "https://zain.com/AR2023/",
+                "net_debt_ebitda": null
+              },
+              "basis": {
+                "capex": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative.",
+                "free_cash_flow": "Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability.",
+                "customers": "2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures.",
+                "net_debt_ebitda": "2021 not verified; null is not zero."
+              },
+              "capex": 1053,
+              "free_cash_flow": 233,
+              "customers": 48.924,
+              "net_debt_ebitda": null
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://zain.com/AR2023/",
+                "free_cash_flow": "https://zain.com/AR2023/",
+                "customers": "https://zain.com/AR2023/",
+                "net_debt_ebitda": "https://zainweb-data.s3.amazonaws.com/media/documents/Annual_Report_2022-_EN-_pages.pdf"
+              },
+              "basis": {
+                "capex": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative.",
+                "free_cash_flow": "Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability.",
+                "customers": "2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures.",
+                "net_debt_ebitda": "2021 not verified; null is not zero."
+              },
+              "capex": 937,
+              "free_cash_flow": 763,
+              "customers": 52.418,
+              "net_debt_ebitda": 2.2
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://zain.com/AR2023/",
+                "free_cash_flow": "https://zain.com/AR2023/",
+                "customers": "https://zain.com/AR2023/",
+                "net_debt_ebitda": "https://zain.com/AR2023/"
+              },
+              "basis": {
+                "capex": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative.",
+                "free_cash_flow": "Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability.",
+                "customers": "2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures.",
+                "net_debt_ebitda": "2021 not verified; null is not zero."
+              },
+              "capex": 994,
+              "free_cash_flow": 1637,
+              "customers": 50.566,
+              "net_debt_ebitda": 1.9
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://d27ne1peune2h7.cloudfront.net/media/documents/2024_ZAIN-AnnualReport-Eng.pdf",
+                "free_cash_flow": "https://d27ne1peune2h7.cloudfront.net/media/documents/2024_ZAIN-AnnualReport-Eng.pdf",
+                "customers": "https://d27ne1peune2h7.cloudfront.net/media/documents/2024_ZAIN-AnnualReport-Eng.pdf",
+                "net_debt_ebitda": "https://d27ne1peune2h7.cloudfront.net/media/documents/2024_ZAIN-AnnualReport-Eng.pdf"
+              },
+              "basis": {
+                "capex": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative.",
+                "free_cash_flow": "Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability.",
+                "customers": "2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures.",
+                "net_debt_ebitda": "2021 not verified; null is not zero."
+              },
+              "capex": 1100,
+              "free_cash_flow": 513,
+              "customers": 49,
+              "net_debt_ebitda": 2.2
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainAR2025En.pdf",
+                "free_cash_flow": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainAR2025En.pdf",
+                "customers": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainAR2025En.pdf",
+                "net_debt_ebitda": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainAR2025En.pdf"
+              },
+              "basis": {
+                "capex": "2024 and 2025 are rounded headline USD1.1bn/1.5bn, not exact million figures. Includes tangible and intangible investments. FY2022 original annual report936 vs FY2023 comparative937; use latest comparative.",
+                "free_cash_flow": "Company-reported FCF. Exact reconciliation/definition not established; do not equate with EBITDA less CapEx or compare directly across issuers. 2025 rounded USD1.1bn. Tower monetization can affect cash flow comparability.",
+                "customers": "2021–23 converted from reported thousands by dividing1000. 2024/25 rounded headline figures.",
+                "net_debt_ebitda": "2021 not verified; null is not zero."
+              },
+              "capex": 1500,
+              "free_cash_flow": 1100,
+              "customers": 50.9,
+              "net_debt_ebitda": 2.2
+            }
+          ],
+          "markets": [
+            {
+              "id": "Kuwait mobile",
+              "name_en": "Kuwait mobile",
+              "name_ar": "الكويت — الهاتف المتنقل",
+              "currency": "USD",
+              "arpu_unit": "USD per subscriber (reported ARPU)",
+              "note_en": "Annual-period reported blended ARPU, conventionally monthly; source tables label ARPU USD without explicit monthly denominator. Country metric, not group ARPU.",
+              "note_ar": "ARPU كما ورد في التقرير السنوي. قيم 2025 غير المتاحة لا تستبدل بفترات مرحلية.القيم بالدولار الأمريكي؛ العملاء مقربون في 2025.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 25,
+                  "customers": 2.466,
+                  "source_url": "https://zainweb-data.s3.amazonaws.com/media/documents/Annual_Report_2022-_EN-_pages.pdf"
+                },
+                {
+                  "year": 2022,
+                  "arpu": 25,
+                  "customers": 2.603,
+                  "source_url": "https://zainweb-data.s3.amazonaws.com/media/documents/Annual_Report_2022-_EN-_pages.pdf"
+                },
+                {
+                  "year": 2023,
+                  "arpu": 24,
+                  "customers": 2.706,
+                  "source_url": "https://zain.com/AR2023/"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 23,
+                  "customers": 2.626,
+                  "source_url": "https://d27ne1peune2h7.cloudfront.net/media/documents/2024_ZAIN-AnnualReport-Eng.pdf"
+                },
+                {
+                  "year": 2025,
+                  "arpu": 24,
+                  "customers": 2.6,
+                  "source_url": "https://d30ezutk4plts9.cloudfront.net/media/documents/ZainAR2025En.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "ORDS",
+        "currency": "QAR",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 29900,
+            "ebitda": 13050,
+            "attributable_profit": 47,
+            "source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+            "ebitda_source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+            "basis_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+            "basis_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2022,
+            "revenue": 22698,
+            "ebitda": 9375,
+            "attributable_profit": 2360,
+            "source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+            "ebitda_source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-proforma-revenue-fy-2022-increased-4-to-qar-23-billion-board-proposed-a-cash-dividend-of-qar-0-43-per-share/",
+            "basis_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+            "basis_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2023,
+            "revenue": 23164,
+            "ebitda": 9717,
+            "attributable_profit": 3016,
+            "source_url": "https://www.ooredoo.com/2025-annual-report/pdfs/2025%20Ooredoo%20Annual%20Report_English_compressed.pdf",
+            "ebitda_source_url": "https://www.ooredoo.com/2025-annual-report/pdfs/2025%20Ooredoo%20Annual%20Report_English_compressed.pdf",
+            "basis_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+            "basis_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2024,
+            "revenue": 23595,
+            "ebitda": 10027,
+            "attributable_profit": 3436,
+            "source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+            "ebitda_source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+            "basis_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+            "basis_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2025,
+            "revenue": 24604,
+            "ebitda": 10489,
+            "attributable_profit": 3865,
+            "source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+            "ebitda_source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-fy-2025/",
+            "basis_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+            "basis_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          }
+        ],
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-10-28",
+          "revenue": 18960,
+          "ebitda": 8476,
+          "attributable_profit": 2935,
+          "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/ORDS_Earnings-Release_9M-2026_EN_FINAL.pdf",
+          "note_ar": "تأثر الربح بمخصص قانوني في الجزائر بقيمة 208 ملايين ر.ق. وارتفاع الإهلاك. EBITDA المعدّل 8,307 ملايين والربح المعدّل 2,992 مليون ر.ق.",
+          "note_en": "Profit reflects a QAR208m Algeria legal provision and higher D&A. Normalised EBITDA is QAR8,307m; normalised attributable profit QAR2,992m.",
+          "revenue_growth": 4.3,
+          "ebitda_growth": 6.3,
+          "profit_growth": -5,
+          "ebitda_margin": 44.7
+        },
+        "note_ar": "مجموعة أوريدو مستقلة عن أوريدو عُمان. خروج إندوسات من التوحيد في 2022 وخروج ميانمار لاحقًا يغيران نطاق المقارنة. الأرقام معلنة وليست معدّلة.",
+        "note_en": "Ooredoo Group is distinct from Ooredoo Oman. Indosat deconsolidation in 2022 and the subsequent Myanmar exit change the perimeter. Figures are reported, not normalised.",
+        "strategy": {
+          "name": "RISE",
+          "summary_ar": "تحديث الأعمال الأساسية ورفع قيمة العميل وتوسيع منصات البنية التحتية والخدمات الرقمية.",
+          "summary_en": "Refresh core operations, deepen customer value and scale infrastructure and digital platforms.",
+          "pillars_ar": [
+            "ريادة الشبكات وكفاءة التكلفة",
+            "مراكز البيانات والأبراج والسحابة والذكاء الاصطناعي",
+            "الخدمات المالية ومنصات الأعمال"
+          ],
+          "pillars_en": [
+            "Network leadership and cost efficiency",
+            "Data centres, towers, cloud and AI",
+            "Fintech and business platforms"
+          ],
+          "watch_ar": [
+            "الطاقة المتعاقد عليها لمراكز البيانات",
+            "تحويل الاستثمارات إلى تدفقات نقدية",
+            "نمو الربح المعدّل مقابل الربح المعلن"
+          ],
+          "watch_en": [
+            "Contracted data-centre capacity",
+            "Cash conversion of new investments",
+            "Normalised versus reported profit growth"
+          ],
+          "source_url": "https://www.ooredoo.com/en/media/news_view/ooredoo-group-capital-markets-day-and-strategy-update/",
+          "as_of": "2025-11-03"
+        },
+        "operations": {
+          "currency": "QAR",
+          "scope_ar": "أوريدو جروب — نطاق التوحيد المعلن",
+          "scope_en": "Ooredoo Group — reported consolidation scope",
+          "note_en": "QAR millions for revenue, EBITDA, capex, FCF and net debt; ARPU QAR per month in every market, not local currency. Mobile blended ARPU for Q4, not full-year average; no group ARPU inferred. Postpaid/prepaid are company published, not averaged to derive blended. Reported subscriptions/customers at year end, not unique people; includes mobile, fixed and wireless categories where reported. Group excludes IOH from 2022, Myanmar from 2024. Country series rounded to thousands. Company-defined EBITDA minus CapEx (2021 presentation says tangible CapEx); not an IFRS cash-flow-statement measure. Reported FCF series, not normalised FCF. Company-defined financing-document metric including loans/borrowings and specified contingent and lease/vendor obligations, less adjusted cash. Published leverage denominator differs from headline EBITDA. 2021 reported includes Indosat; merger in 2022 moved IOH to equity accounting. Myanmar disposal completed 31 May 2024. Do not present raw group growth across these changes as organic growth. 2023 supplementary schedules footnote: Qatar mobile ARPU restated from Q1 2022 after prepaid active customer definition changed from 365 to 90 days and postpaid ARPU calculation changed in Q2 2023. Thus Q4 2022 is 109.7, replacing original 102.8. 2021 remains old basis. Non-Qatar ARPU is converted to QAR; FX changes can affect comparison.",
+          "note_ar": "التدفق الحر حسب تعريف أوريدو = EBITDA ناقص CapEx، وليس التدفق التشغيلي وفق IAS 7. تغير نطاق التوحيد بخروج إندوسات في 2022 وميانمار في 2024. العملاء اشتراكات وليست أشخاصًا فريدين. نسب الدين معلنة وفق تعريف التمويل.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                "free_cash_flow": "https://www.ooredoo.com/wp-content/uploads/2022/02/IR-PPT-FY-2021-Final.pdf",
+                "customers": "https://www.ooredoo.com/wp-content/uploads/2022/02/Supplementary-Schedules-Q4-2021.pdf",
+                "net_debt": "https://www.ooredoo.com/wp-content/uploads/2022/02/IR-PPT-FY-2021-Final.pdf",
+                "net_debt_ebitda": "https://www.ooredoo.com/wp-content/uploads/2022/02/IR-PPT-FY-2021-Final.pdf"
+              },
+              "basis": {},
+              "capex": 4845.1,
+              "free_cash_flow": 8205,
+              "customers": 121.352195,
+              "net_debt": 22771,
+              "net_debt_ebitda": 1.5
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                "free_cash_flow": "https://www.ooredoo.com/wp-content/uploads/2024/02/1.0-presentation-FY-2023-FINAL.pdf",
+                "customers": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                "net_debt": "https://www.ooredoo.com/2023-annual-report/",
+                "net_debt_ebitda": "https://www.ooredoo.com/2023-annual-report/"
+              },
+              "basis": {},
+              "capex": 2728.8,
+              "free_cash_flow": 6646,
+              "customers": 55.966837,
+              "net_debt": 10196,
+              "net_debt_ebitda": 1.1
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                "free_cash_flow": "https://www.ooredoo.com/wp-content/uploads/2024/02/1.0-presentation-FY-2023-FINAL.pdf",
+                "customers": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                "net_debt": "https://www.ooredoo.com/2023-annual-report/",
+                "net_debt_ebitda": "https://www.ooredoo.com/2023-annual-report/"
+              },
+              "basis": {},
+              "capex": 2821.1,
+              "free_cash_flow": 6896,
+              "customers": 57.589532,
+              "net_debt": 6831,
+              "net_debt_ebitda": 0.7
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                "free_cash_flow": "https://www.ooredoo.com/2025-annual-report/",
+                "customers": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                "net_debt": "https://www.ooredoo.com/2025-annual-report/",
+                "net_debt_ebitda": "https://www.ooredoo.com/2025-annual-report/"
+              },
+              "basis": {},
+              "capex": 3178.1,
+              "free_cash_flow": 6849,
+              "customers": 51.518597,
+              "net_debt": 4216,
+              "net_debt_ebitda": 0.4
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                "free_cash_flow": "https://www.ooredoo.com/2025-annual-report/",
+                "customers": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                "net_debt": "https://www.ooredoo.com/2025-annual-report/",
+                "net_debt_ebitda": "https://www.ooredoo.com/2025-annual-report/"
+              },
+              "basis": {},
+              "capex": 4564.3,
+              "free_cash_flow": 5925,
+              "customers": 53.310958,
+              "net_debt": 4108,
+              "net_debt_ebitda": 0.4
+            }
+          ],
+          "markets": [
+            {
+              "id": "Qatar",
+              "name_en": "Qatar",
+              "name_ar": "قطر",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets. Qatar 2022 ARPU restated; prepaid active-customer definition changed from 365 to 90 days from Q2 2023 and historical ARPU restated from Q1 2022. 2021 retains earlier definition. ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة. أعيد عرض ARPU من 2022 بعد تغيير تعريف نشاط العملاء من 365 إلى 90 يومًا؛ 2021 على الأساس القديم.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 109.5,
+                  "revenue": 7464,
+                  "ebitda": 3848,
+                  "customers": 3.199,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2022/02/Supplementary-Schedules-Q4-2021.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2022/02/Supplementary-Schedules-Q4-2021.pdf"
+                  },
+                  "prepaid": 42.6,
+                  "postpaid": 284.4
+                },
+                {
+                  "year": 2022,
+                  "arpu": 109.7,
+                  "revenue": 7960,
+                  "ebitda": 3829,
+                  "customers": 3.641,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf"
+                  },
+                  "prepaid": 41.1,
+                  "postpaid": 269
+                },
+                {
+                  "year": 2023,
+                  "arpu": 104,
+                  "revenue": 7286,
+                  "ebitda": 3603,
+                  "customers": 2.991,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf"
+                  },
+                  "prepaid": 35.5,
+                  "postpaid": 256.4
+                },
+                {
+                  "year": 2024,
+                  "arpu": 102.5,
+                  "revenue": 7123,
+                  "ebitda": 3683,
+                  "customers": 2.988,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 34,
+                  "postpaid": 250.3
+                },
+                {
+                  "year": 2025,
+                  "arpu": 106.7,
+                  "revenue": 7239,
+                  "ebitda": 3755,
+                  "customers": 2.979,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 36.8,
+                  "postpaid": 249
+                }
+              ]
+            },
+            {
+              "id": "Kuwait",
+              "name_en": "Kuwait",
+              "name_ar": "الكويت",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 66,
+                  "revenue": 2540,
+                  "ebitda": 738,
+                  "customers": 2.518,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf"
+                  },
+                  "prepaid": 41,
+                  "postpaid": 174.7
+                },
+                {
+                  "year": 2022,
+                  "arpu": 61.8,
+                  "revenue": 2809,
+                  "ebitda": 850,
+                  "customers": 2.708,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf"
+                  },
+                  "prepaid": 33.7,
+                  "postpaid": 176.1
+                },
+                {
+                  "year": 2023,
+                  "arpu": 60.8,
+                  "revenue": 2914,
+                  "ebitda": 971,
+                  "customers": 2.847,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf"
+                  },
+                  "prepaid": 33.9,
+                  "postpaid": 173.1
+                },
+                {
+                  "year": 2024,
+                  "arpu": 62.4,
+                  "revenue": 3132,
+                  "ebitda": 839,
+                  "customers": 2.898,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 35,
+                  "postpaid": 178.3
+                },
+                {
+                  "year": 2025,
+                  "arpu": 65.5,
+                  "revenue": 3253,
+                  "ebitda": 1067,
+                  "customers": 2.926,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 37.2,
+                  "postpaid": 180.4
+                }
+              ]
+            },
+            {
+              "id": "Oman",
+              "name_en": "Oman",
+              "name_ar": "عُمان",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 43.9,
+                  "revenue": 2325,
+                  "ebitda": 1212,
+                  "customers": 2.863,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf"
+                  },
+                  "prepaid": 26.8,
+                  "postpaid": 104.3
+                },
+                {
+                  "year": 2022,
+                  "arpu": 37.9,
+                  "revenue": 2443,
+                  "ebitda": 1275,
+                  "customers": 3.035,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2023/02/Supplementary-Schedules-Q4-2022.pdf"
+                  },
+                  "prepaid": 18.6,
+                  "postpaid": 92.5
+                },
+                {
+                  "year": 2023,
+                  "arpu": 38.4,
+                  "revenue": 2453,
+                  "ebitda": 1156,
+                  "customers": 3.085,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2024/02/Supplementary-Schedules-Q4-2023.pdf"
+                  },
+                  "prepaid": 20.5,
+                  "postpaid": 92.5
+                },
+                {
+                  "year": 2024,
+                  "arpu": 41.2,
+                  "revenue": 2381,
+                  "ebitda": 1084,
+                  "customers": 2.782,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 21.7,
+                  "postpaid": 91.8
+                },
+                {
+                  "year": 2025,
+                  "arpu": 37.8,
+                  "revenue": 2292,
+                  "ebitda": 862,
+                  "customers": 2.915,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {
+                    "prepaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf",
+                    "postpaid": "https://www.ooredoo.com/wp-content/uploads/2026/02/Supplementary-Schedules-12M-2025.pdf"
+                  },
+                  "prepaid": 22,
+                  "postpaid": 71.6
+                }
+              ]
+            },
+            {
+              "id": "Iraq",
+              "name_en": "Iraq",
+              "name_ar": "العراق",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets. Asiacell is the Iraq operation. ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 19.2,
+                  "revenue": 3657,
+                  "ebitda": 1672,
+                  "customers": 15.985,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2022,
+                  "arpu": 18.8,
+                  "revenue": 3674,
+                  "ebitda": 1580,
+                  "customers": 17.094,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2023,
+                  "arpu": 24.8,
+                  "revenue": 4452,
+                  "ebitda": 1953,
+                  "customers": 17.694,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2024,
+                  "arpu": 22.6,
+                  "revenue": 5164,
+                  "ebitda": 2374,
+                  "customers": 19.127,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2025,
+                  "arpu": 23.2,
+                  "revenue": 5583,
+                  "ebitda": 2564,
+                  "customers": 20.024,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                }
+              ]
+            },
+            {
+              "id": "Algeria",
+              "name_en": "Algeria",
+              "name_ar": "الجزائر",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 14.9,
+                  "revenue": 2275,
+                  "ebitda": 786,
+                  "customers": 12.834,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2022,
+                  "arpu": 14.4,
+                  "revenue": 2222,
+                  "ebitda": 787,
+                  "customers": 13.034,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2023,
+                  "arpu": 16.4,
+                  "revenue": 2462,
+                  "ebitda": 992,
+                  "customers": 13.371,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2024,
+                  "arpu": 16.8,
+                  "revenue": 2839,
+                  "ebitda": 1199,
+                  "customers": 14.733,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2025,
+                  "arpu": 18.9,
+                  "revenue": 3301,
+                  "ebitda": 1481,
+                  "customers": 15.319,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                }
+              ]
+            },
+            {
+              "id": "Tunisia",
+              "name_en": "Tunisia",
+              "name_ar": "تونس",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 15.6,
+                  "revenue": 1617,
+                  "ebitda": 625,
+                  "customers": 6.914,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2022,
+                  "arpu": 13.5,
+                  "revenue": 1468,
+                  "ebitda": 651,
+                  "customers": 7.128,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2023,
+                  "arpu": 13.6,
+                  "revenue": 1470,
+                  "ebitda": 556,
+                  "customers": 7.26,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2024,
+                  "arpu": 15.5,
+                  "revenue": 1542,
+                  "ebitda": 642,
+                  "customers": 7.033,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2025,
+                  "arpu": 16.1,
+                  "revenue": 1726,
+                  "ebitda": 724,
+                  "customers": 7.231,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                }
+              ]
+            },
+            {
+              "id": "Palestine",
+              "name_en": "Palestine",
+              "name_ar": "فلسطين",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 21.6,
+                  "revenue": 408,
+                  "ebitda": 149,
+                  "customers": 1.382,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2022,
+                  "arpu": 21.3,
+                  "revenue": 421,
+                  "ebitda": 155,
+                  "customers": 1.41,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2023,
+                  "arpu": 18.1,
+                  "revenue": 397,
+                  "ebitda": 155,
+                  "customers": 1.439,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2024,
+                  "arpu": 17.5,
+                  "revenue": 397,
+                  "ebitda": 146,
+                  "customers": 1.553,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2025,
+                  "arpu": 20,
+                  "revenue": 387,
+                  "ebitda": 148,
+                  "customers": 1.491,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                }
+              ]
+            },
+            {
+              "id": "Maldives",
+              "name_en": "Maldives",
+              "name_ar": "المالديف",
+              "currency": "QAR",
+              "arpu_unit": "QAR / month · Q4",
+              "source_url": "https://www.ooredoo.com/2025-annual-report/",
+              "note_en": "Revenue/EBITDA full year; ARPU three months ended 31 December; customers at year end. All monetary figures expressed in QAR, including non-Qatar markets.  ARPU converted to QAR, not local currency; FX affects comparisons.",
+              "note_ar": "ARPU شهري للربع الرابع وليس متوسط السنة، بالريال القطري حتى للأسواق خارج قطر. الإيرادات وEBITDA للسنة كاملة؛ العملاء بنهاية السنة. قد تؤثر العملة على المقارنة.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 66.3,
+                  "revenue": 422,
+                  "ebitda": 208,
+                  "customers": 0.368,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2022,
+                  "arpu": 67.9,
+                  "revenue": 454,
+                  "ebitda": 244,
+                  "customers": 0.387,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2023,
+                  "arpu": 72,
+                  "revenue": 495,
+                  "ebitda": 278,
+                  "customers": 0.392,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2024,
+                  "arpu": 69.7,
+                  "revenue": 520,
+                  "ebitda": 284,
+                  "customers": 0.405,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                },
+                {
+                  "year": 2025,
+                  "arpu": 65.8,
+                  "revenue": 523,
+                  "ebitda": 298,
+                  "customers": 0.426,
+                  "source_url": "https://www.ooredoo.com/2025-annual-report/",
+                  "sources": {}
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "STC",
+        "currency": "SAR",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 63007.986,
+            "ebitda": 22840.6,
+            "attributable_profit": 11311.342,
+            "source_url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+            "ebitda_source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/SustainabilityReport-2022-en.pdf",
+            "basis_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+            "basis_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+            "comparable_previous": true,
+            "ebitda_margin_available": false,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2022,
+            "revenue": 67431.546,
+            "ebitda": 25078.667,
+            "attributable_profit": 12170.537,
+            "source_url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+            "ebitda_source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/SustainabilityReport-2022-en.pdf",
+            "basis_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+            "basis_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+            "comparable_previous": true,
+            "ebitda_margin_available": false,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2023,
+            "revenue": 71777.161,
+            "ebitda": 22445.389,
+            "attributable_profit": 13295.381,
+            "source_url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+            "ebitda_source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/stc2024-annual-report-en-new.pdf",
+            "basis_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+            "basis_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+            "comparable_previous": false,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2024,
+            "revenue": 75893.413,
+            "ebitda": 23951.115,
+            "attributable_profit": 24688.652,
+            "source_url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+            "ebitda_source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/stc2025-annual-report-en.pdf",
+            "basis_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+            "basis_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2025,
+            "revenue": 77818.675,
+            "ebitda": 24469.435,
+            "attributable_profit": 14828.03,
+            "source_url": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/",
+            "ebitda_source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/stc2025-annual-report-en.pdf",
+            "basis_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+            "basis_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          }
+        ],
+        "latest": {
+          "period": "9M 2026",
+          "published": null,
+          "revenue": 60100,
+          "ebitda": 19150,
+          "attributable_profit": 10918,
+          "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ3-2026En.pdf",
+          "note_ar": "عكس مخصص زكاة في المقارنة السابقة يؤثر في الربح المعلن؛ نمو الربح المعدّل المعلن 2.6%.",
+          "note_en": "A prior-period zakat provision reversal affects reported profit; company-reported adjusted profit growth is 2.6%.",
+          "revenue_growth": 3.7,
+          "ebitda_growth": 3.5,
+          "profit_growth": -5.7
+        },
+        "note_ar": "2024 يتضمن مكاسب بيع نشاط الأبراج؛ انخفاض الربح في 2025 لا يعني وحده تراجع التشغيل. EBITDA لعامي 2021–2022 بنطاقه الأصلي، ومن 2023 للعمليات المستمرة؛ لا نحسب هامشًا للفترتين القديمتين عند اختلاف الأساس.",
+        "note_en": "FY2024 includes tower-disposal gains; the 2025 profit decline alone does not imply operating deterioration. 2021–22 EBITDA retains its original scope; 2023 onwards uses continuing operations. Early-year EBITDA margins are withheld where bases differ.",
+        "strategy": {
+          "name": "Digital infrastructure & platforms",
+          "summary_ar": "توسيع البنية الرقمية والمنصات والخدمات للشركات، مع انضباط تخصيص رأس المال.",
+          "summary_en": "Scale digital infrastructure, platforms and enterprise services with disciplined capital allocation.",
+          "pillars_ar": [
+            "مراكز البيانات والربط الدولي عبر center3",
+            "حلول الشركات وSTC Bank والأمن السيبراني",
+            "الكفاءة التشغيلية والعائد على رأس المال"
+          ],
+          "pillars_en": [
+            "Data centres and connectivity through center3",
+            "Enterprise solutions, STC Bank and cybersecurity",
+            "Efficiency and returns on capital"
+          ],
+          "watch_ar": [
+            "نمو الشركات التابعة وتحويله إلى نقد",
+            "الإنفاق الرأسمالي مقابل التدفق الحر",
+            "تنفيذ مبادرات HUMAIN؛ مذكرات التفاهم ليست مشاريع مكتملة"
+          ],
+          "watch_en": [
+            "Subsidiary growth and cash generation",
+            "CapEx versus free cash flow",
+            "HUMAIN execution; MoUs are not completed projects"
+          ],
+          "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ3-2026En.pdf",
+          "as_of": "9M 2026"
+        },
+        "operations": {
+          "currency": "SAR",
+          "scope_ar": "مؤشرات المجموعة",
+          "scope_en": "Group metrics",
+          "note_en": "STC mobile/fixed subscriptions below refer to KSA, notGroup; do not rank against aggregateGroup subscriptions. ARPU not found in reviewed annualearningspresentations; unavailable must remain null, never inferred by dividing Group revenue by KSA subscribers. Cashflow basis must be distinguished: annualreport operating cashflow includes Group cashflow items; FY2023 reportedFCF12.63bn is not EBITDA minusCapEx. FY2024 reported netcash15.62bn includes short-term murabahas; FY2025 cash includes banking operations, so do not silentlycompute comparable telecom netdebt.",
+          "note_ar": "التدفق التشغيلي من القوائم الموحدة. العملاء في تفاصيل الأسواق للسعودية فقط. لا تتوفر سلسلة ARPU موثقة. صافي النقد لعام 2024 يتضمن مرابحات قصيرة الأجل؛ لا نفترض التجانس مع أعمال المصرف في 2025.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings_presentation_fy_2021-eng_v3.pdf",
+                "free_cash_flow": null,
+                "customers": null,
+                "net_debt": null,
+                "operating_cash_flow": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/"
+              },
+              "basis": {
+                "capex": "Companyreported CapEx; rounded presentation values",
+                "free_cash_flow": "Companyreported FCF; no substitution with EBITDA minusCapEx",
+                "customers": "No verified consistent Group aggregate series",
+                "net_debt": "Companyreported netdebt; negative means netcash. FY2024 includes short-term murabahas",
+                "operating_cash_flow": "Consolidated revised five-year operating cashflows"
+              },
+              "capex": null,
+              "free_cash_flow": null,
+              "customers": null,
+              "net_debt": null,
+              "operating_cash_flow": 11220.155
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://www.stc.com/content/dam/groupsites/en/pdf/Earnings-Presentation-2022En.pdf",
+                "free_cash_flow": null,
+                "customers": null,
+                "net_debt": null,
+                "operating_cash_flow": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/"
+              },
+              "basis": {
+                "capex": "Companyreported CapEx; rounded presentation values",
+                "free_cash_flow": "Companyreported FCF; no substitution with EBITDA minusCapEx",
+                "customers": "No verified consistent Group aggregate series",
+                "net_debt": "Companyreported netdebt; negative means netcash. FY2024 includes short-term murabahas",
+                "operating_cash_flow": "Consolidated revised five-year operating cashflows"
+              },
+              "capex": null,
+              "free_cash_flow": null,
+              "customers": null,
+              "net_debt": null,
+              "operating_cash_flow": 26354.39
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                "free_cash_flow": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                "customers": null,
+                "net_debt": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                "operating_cash_flow": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/"
+              },
+              "basis": {
+                "capex": "Companyreported CapEx; rounded presentation values",
+                "free_cash_flow": "Companyreported FCF; no substitution with EBITDA minusCapEx",
+                "customers": "No verified consistent Group aggregate series",
+                "net_debt": "Companyreported netdebt; negative means netcash. FY2024 includes short-term murabahas",
+                "operating_cash_flow": "Consolidated revised five-year operating cashflows"
+              },
+              "capex": 9790,
+              "free_cash_flow": 12630,
+              "customers": null,
+              "net_debt": 6220,
+              "operating_cash_flow": 22417.558
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings-presentation2024en.pdf",
+                "free_cash_flow": null,
+                "customers": null,
+                "net_debt": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings-presentation2024en.pdf",
+                "operating_cash_flow": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/"
+              },
+              "basis": {
+                "capex": "Companyreported CapEx; rounded presentation values",
+                "free_cash_flow": "Companyreported FCF; no substitution with EBITDA minusCapEx",
+                "customers": "No verified consistent Group aggregate series",
+                "net_debt": "Companyreported netdebt; negative means netcash. FY2024 includes short-term murabahas",
+                "operating_cash_flow": "Consolidated revised five-year operating cashflows"
+              },
+              "capex": 11930,
+              "free_cash_flow": null,
+              "customers": null,
+              "net_debt": -15620,
+              "operating_cash_flow": 19885.337
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2025En.pdf",
+                "free_cash_flow": null,
+                "customers": null,
+                "net_debt": null,
+                "operating_cash_flow": "https://www.stc.com/content/dam/stc/stc-annual-report-2025/financial-performance/"
+              },
+              "basis": {
+                "capex": "Companyreported CapEx; rounded presentation values",
+                "free_cash_flow": "Companyreported FCF; no substitution with EBITDA minusCapEx",
+                "customers": "No verified consistent Group aggregate series",
+                "net_debt": "Companyreported netdebt; negative means netcash. FY2024 includes short-term murabahas",
+                "operating_cash_flow": "Consolidated revised five-year operating cashflows"
+              },
+              "capex": 11800,
+              "free_cash_flow": null,
+              "customers": null,
+              "net_debt": null,
+              "operating_cash_flow": 18283.163
+            }
+          ],
+          "markets": [
+            {
+              "id": "KSA mobile",
+              "name_en": "KSA mobile",
+              "name_ar": "السعودية — الهاتف المتنقل",
+              "currency": "SAR",
+              "arpu_unit": "SAR / month · Q4",
+              "note_en": "Not verified/disclosed in reviewed sources KSA subscriptions only; ARPU unavailable.",
+              "note_ar": "اشتراكات السعودية فقط؛ ARPU غير متاح.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings_presentation_fy_2021-eng_v3.pdf",
+                  "customers": null
+                },
+                {
+                  "year": 2022,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                  "customers": 23.86
+                },
+                {
+                  "year": 2023,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                  "customers": 26.47
+                },
+                {
+                  "year": 2024,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings-presentation2024en.pdf",
+                  "customers": 28.34
+                },
+                {
+                  "year": 2025,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2025En.pdf",
+                  "customers": 30.0
+                }
+              ]
+            },
+            {
+              "id": "KSA fixed",
+              "name_en": "KSA fixed",
+              "name_ar": "السعودية — الثابت",
+              "currency": "SAR",
+              "arpu_unit": "SAR / month · Q4",
+              "note_en": "Not verified/disclosed in reviewed sources KSA subscriptions only; ARPU unavailable.",
+              "note_ar": "اشتراكات السعودية فقط؛ ARPU غير متاح.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings_presentation_fy_2021-eng_v3.pdf",
+                  "customers": null
+                },
+                {
+                  "year": 2022,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                  "customers": 5.55
+                },
+                {
+                  "year": 2023,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2023Eng2.pdf",
+                  "customers": 5.57
+                },
+                {
+                  "year": 2024,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/earnings-presentation2024en.pdf",
+                  "customers": null
+                },
+                {
+                  "year": 2025,
+                  "arpu": null,
+                  "source_url": "https://www.stc.com/content/dam/groupsites/en/pdf/EarningsPresentationQ4-2025En.pdf",
+                  "customers": 6.0
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "EAND",
+        "currency": "AED",
+        "annual": [
+          {
+            "year": 2021,
+            "revenue": 53300,
+            "ebitda": 26700,
+            "attributable_profit": 9300,
+            "source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "ebitda_source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "basis_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+            "basis_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2022,
+            "revenue": 52400,
+            "ebitda": 26200,
+            "attributable_profit": 10000,
+            "source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "ebitda_source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "basis_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+            "basis_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2023,
+            "revenue": 53800,
+            "ebitda": 26100,
+            "attributable_profit": 10300,
+            "source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "ebitda_source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "basis_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+            "basis_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2024,
+            "revenue": 59200,
+            "ebitda": 26500,
+            "attributable_profit": 10800,
+            "source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "ebitda_source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "basis_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+            "basis_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          },
+          {
+            "year": 2025,
+            "revenue": 72900,
+            "ebitda": 32000,
+            "attributable_profit": 14400,
+            "source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "ebitda_source_url": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+            "basis_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+            "basis_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+            "comparable_previous": true,
+            "ebitda_margin_available": true,
+            "ebitda_calculated": false
+          }
+        ],
+        "latest": {
+          "period": "9M 2026",
+          "published": "2026-10-27",
+          "revenue": 57600,
+          "ebitda": 26700,
+          "attributable_profit": 17200,
+          "source_url": "https://www.eand.com/en/news/27-10-26-etisalat-record-9m-2026-performance.html",
+          "note_ar": "الربح يتضمن نحو 8 مليارات درهم من بيع حصة فودافون. الربح المعدّل لهذا المكسب 9.2 مليار درهم.",
+          "note_en": "Profit includes approximately AED8bn from the Vodafone stake disposal. Profit adjusted for that gain is AED9.2bn.",
+          "revenue_growth": 10.0,
+          "ebitda_growth": 10.3,
+          "profit_growth": 45.9,
+          "ebitda_margin": 46.4
+        },
+        "note_ar": "الأرقام مقربة إلى 0.1 مليار درهم كما في الرسم الرسمي، ومعروضة هنا بالمليون. الاستحواذات والعملات والمكاسب الاستثنائية تؤثر في المقارنة. الإفصاح الأحدث يستخدم اسم اتصالات، مع إبقاء e& للتعرّف على المجموعة.",
+        "note_en": "Values are rounded to AED0.1bn in the official chart and displayed here in millions. Acquisitions, currencies and exceptional gains affect comparisons. The latest release uses etisalat branding; the e& alias is retained.",
+        "strategy": {
+          "name": "AI-powered connectivity",
+          "summary_ar": "التركيز على اتصالات مدعومة بالذكاء الاصطناعي والبنية الرقمية السيادية، مع إدارة المحفظة.",
+          "summary_en": "Focus on AI-enabled connectivity and sovereign digital infrastructure with active portfolio management.",
+          "pillars_ar": [
+            "الذكاء الاصطناعي في خدمات الاتصالات",
+            "السحابة والأمن السيبراني",
+            "توسيع الربط الدولي وإدارة الأصول"
+          ],
+          "pillars_en": [
+            "AI-enabled telecom services",
+            "Cloud and cybersecurity",
+            "International connectivity and portfolio management"
+          ],
+          "watch_ar": [
+            "الربحية بعد استبعاد مكسب بيع فودافون",
+            "عوائد استثمارات السحابة والذكاء الاصطناعي",
+            "تقدم توسعة الربط الدولي"
+          ],
+          "watch_en": [
+            "Earnings excluding the Vodafone disposal gain",
+            "Cloud and AI investment returns",
+            "Progress on international connectivity expansion"
+          ],
+          "source_url": "https://www.eand.com/en/news/27-10-26-etisalat-record-9m-2026-performance.html",
+          "as_of": "2026-10-27"
+        },
+        "operations": {
+          "currency": "AED",
+          "scope_ar": "مؤشرات المجموعة",
+          "scope_en": "Group metrics",
+          "note_en": "ARPU is UAE-only Q4 monthly ARPU, never Group ARPU or full-year ARPU. Group subscriptions are aggregate operations, not unique people; consolidation/scope changes and restatements matter.2021 comparator revised in2022 workbook;2024 comparator revised in2025 workbook. CapEx total includes licenses/spectrum; OFCF excludes licenses/spectrum and is company operating measure, not interchangeable with cashflow-statement CFO minus totalCapEx. 2025 annualreport excludeslicenseCapEx11.2bn differs from presentation11.424bn; prefer annualreport and disclose ratherthan silentlymix.",
+          "note_ar": "ARPU للإمارات فقط، شهري للربع الرابع. CapEx يشمل التراخيص؛ التدفق التشغيلي الحر يستبعد التراخيص وليس CFO ناقص إجمالي CapEx. الاشتراكات الإجمالية تتأثر بتغير النطاق. صافي الدين يستبعد التزامات الإيجار؛ 2022 و2023 محسوب من القوائم.",
+          "group": [
+            {
+              "year": 2021,
+              "sources": {
+                "capex": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2021/eand-Supplemental-Data-Q4-2021.xlsx",
+                "free_cash_flow": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+                "customers": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx",
+                "net_debt": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2021/en-2021-etisalat-group-annual-report.pdf",
+                "operating_cash_flow": null
+              },
+              "basis": {
+                "capex": "Group total capital expenditure, including spectrum/licenses; sum four quarterly supplemental values where annual cell absent",
+                "free_cash_flow": "Company OFCF excluding licenses/spectrum; rounded0.1bn",
+                "customers": "Q4 2021 comparative in FY2022 workbook; revised aggregate scope",
+                "net_debt": "Borrowings excluding lease liabilities minus cash and bank balances; negative means net cash",
+                "operating_cash_flow": ""
+              },
+              "capex": 8362.352,
+              "free_cash_flow": 19700,
+              "customers": 158.708,
+              "net_debt": -2843,
+              "operating_cash_flow": null
+            },
+            {
+              "year": 2022,
+              "sources": {
+                "capex": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx",
+                "free_cash_flow": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+                "customers": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx",
+                "net_debt": "https://www.eand.com/content/dam/eand/assets/docs/financial-quarterly-reports/2023/etisalat-group-financial-report-q4-2023.pdf",
+                "operating_cash_flow": null
+              },
+              "basis": {
+                "capex": "Group total capital expenditure, including spectrum/licenses; sum four quarterly supplemental values where annual cell absent",
+                "free_cash_flow": "Company OFCF excluding licenses/spectrum; rounded0.1bn",
+                "customers": "Group aggregate year-end subscriptions; not unique customers",
+                "net_debt": "Borrowings excluding lease liabilities minus cash and bank balances; negative means net cash",
+                "operating_cash_flow": ""
+              },
+              "capex": 8037.3,
+              "free_cash_flow": 18500,
+              "customers": 162.674,
+              "net_debt": 15114.727,
+              "operating_cash_flow": null
+            },
+            {
+              "year": 2023,
+              "sources": {
+                "capex": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2023/eand-Supplemental-Data-Q4-2023.xlsx",
+                "free_cash_flow": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+                "customers": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2023/eand-Supplemental-Data-Q4-2023.xlsx",
+                "net_debt": "https://www.eand.com/content/dam/eand/assets/docs/financial-quarterly-reports/2023/etisalat-group-financial-report-q4-2023.pdf",
+                "operating_cash_flow": null
+              },
+              "basis": {
+                "capex": "Group total capital expenditure, including spectrum/licenses; sum four quarterly supplemental values where annual cell absent",
+                "free_cash_flow": "Company OFCF excluding licenses/spectrum; rounded0.1bn",
+                "customers": "Group aggregate year-end subscriptions; not unique customers",
+                "net_debt": "Borrowings excluding lease liabilities minus cash and bank balances; negative means net cash",
+                "operating_cash_flow": ""
+              },
+              "capex": 7286.606,
+              "free_cash_flow": 18800,
+              "customers": 169.469,
+              "net_debt": 20051.278,
+              "operating_cash_flow": null
+            },
+            {
+              "year": 2024,
+              "sources": {
+                "capex": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2024/eand-Supplemental-Data-Q4-2024.xlsx",
+                "free_cash_flow": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+                "customers": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx",
+                "net_debt": "https://www.eand.com/content/dam/eand/assets/docs/financial-quarterly-presentations/2025/etisalat-group-results-presentations-q4-2025.pdf",
+                "operating_cash_flow": null
+              },
+              "basis": {
+                "capex": "Group total capital expenditure, including spectrum/licenses; sum four quarterly supplemental values where annual cell absent",
+                "free_cash_flow": "Company OFCF excluding licenses/spectrum; rounded0.1bn",
+                "customers": "Q4 2024 revised comparative in FY2025 workbook; Onatel activity definition revised",
+                "net_debt": "Borrowings excluding lease liabilities minus cash and bank balances; negative means net cash",
+                "operating_cash_flow": ""
+              },
+              "capex": 9506.968,
+              "free_cash_flow": 18200,
+              "customers": 186.279,
+              "net_debt": 35567,
+              "operating_cash_flow": null
+            },
+            {
+              "year": 2025,
+              "sources": {
+                "capex": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx",
+                "free_cash_flow": "https://www.eand.com/content/dam/eand/assets/docs/annual-report/2025/eand-integrated-annualreporten.pdf",
+                "customers": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx",
+                "net_debt": "https://www.eand.com/en/investors/debt-profile.html",
+                "operating_cash_flow": null
+              },
+              "basis": {
+                "capex": "Group total capital expenditure, including spectrum/licenses; sum four quarterly supplemental values where annual cell absent",
+                "free_cash_flow": "Company OFCF excluding licenses/spectrum; rounded0.1bn",
+                "customers": "Group aggregate year-end subscriptions; not unique customers",
+                "net_debt": "Borrowings excluding lease liabilities minus cash and bank balances; negative means net cash",
+                "operating_cash_flow": ""
+              },
+              "capex": 13668.078,
+              "free_cash_flow": 20800,
+              "customers": 244.733,
+              "net_debt": 33331,
+              "operating_cash_flow": null
+            }
+          ],
+          "markets": [
+            {
+              "id": "UAE mobile",
+              "name_en": "UAE mobile",
+              "name_ar": "الإمارات — الهاتف المتنقل",
+              "currency": "AED",
+              "arpu_unit": "AED / month · Q4",
+              "note_en": "UAE blended mobile ARPU for Q4; not annual/group ARPU 2024 restated comparative.",
+              "note_ar": "ARPU شهري للربع الرابع في الإمارات؛ 2024 معاد عرضه.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 87.098,
+                  "source_url": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx"
+                },
+                {
+                  "year": 2022,
+                  "arpu": 80.981,
+                  "source_url": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx"
+                },
+                {
+                  "year": 2023,
+                  "arpu": 79.537,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2023/eand-Supplemental-Data-Q4-2023.xlsx"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 79.702,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx"
+                },
+                {
+                  "year": 2025,
+                  "arpu": 76.259,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx"
+                }
+              ]
+            },
+            {
+              "id": "UAE fixed broadband",
+              "name_en": "UAE fixed broadband",
+              "name_ar": "الإمارات — النطاق العريض الثابت",
+              "currency": "AED",
+              "arpu_unit": "AED / month · Q4",
+              "note_en": "UAE fixed broadband ARPU for Q4; not annual/group ARPU 2024 restated comparative.",
+              "note_ar": "ARPU شهري للربع الرابع في الإمارات؛ 2024 معاد عرضه.",
+              "rows": [
+                {
+                  "year": 2021,
+                  "arpu": 495.099,
+                  "source_url": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx"
+                },
+                {
+                  "year": 2022,
+                  "arpu": 483.24,
+                  "source_url": "https://www.eand.com/content/dam/eand/en/system/docs/financial-quarterly-presentations/2022/eand-Supplemental-Data-Q4-2022.xlsx"
+                },
+                {
+                  "year": 2023,
+                  "arpu": 493.681,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2023/eand-Supplemental-Data-Q4-2023.xlsx"
+                },
+                {
+                  "year": 2024,
+                  "arpu": 461.165,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx"
+                },
+                {
+                  "year": 2025,
+                  "arpu": 466.422,
+                  "source_url": "https://www.eand.com/content/dam/eand/assets/docs/key-financial-data/2025/eand-Supplemental-Data-Q4-2025.xlsx"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
 }

@@ -108,3 +108,17 @@ paid data subscriptions are configured.
 
 Source documentation: https://www.msx.om/snapshot.aspx?s=OTEL and
 https://www.tradingview.com/widget-docs/faq/data/ .
+
+## Five-year research and company monitoring
+
+The research workspace covers Omantel, Zain Group, Ooredoo Group, stc and e&/etisalat for FY2021–FY2025, alongside separate9M2026 disclosures. Every annual row has primary-source links and reporting-basis notes. IAS29, discontinued operations, acquisitions and exceptional gains must not be treated as organic growth. Cross-company charts use margins/growth; native-currency amounts are never added or ranked as a common currency.
+
+`data/seed.json:intelligence` stores reviewed financial and strategy snapshots. `intelligence.js` calculates labelled comparisons locally. Missing comparisons remain null; scope breaks suppress misleading YoY calculations. The UI offers company/year/metric selection, five-year CSV, strategic priorities and analytical monitoring questions.
+
+`feeds.json` configures English/Arabic Google News RSS searches for five groups, the official e& newsroom and TeleGeography. Aggregators are explicitly labelled; title matching rejects unrelated search hits. Official e& HTML ingestion reads only dated headline links and fails visibly if markup changes. Company tags can include multiple groups. URL deduplication strips tracking parameters and preserves cross-feed history. A maximum2000 archived headlines is published; this is bounded, best-effort monitoring, not exhaustive coverage. GitHub cache eviction and publisher indexing can cause gaps.
+
+The existing30-minute GitHub Pages schedule refreshes news and delayed quotes. Financials and strategy are reviewed separately; the visible review date must only advance after source review. A daily ChatGPT automation checks new official disclosures and strategies and can update this repository after validation. It is separate from GitHub Actions and has not necessarily run merely because it is configured.
+
+Validation: `python -m unittest -v test_live.py test_app.py test_deploy.py test_quotes.py test_intelligence.py` and `node test_intelligence.cjs`.
+
+Operating intelligence adds Ooredoo's eight markets for 2021–2025 (ARPU, revenue, EBITDA and year-end customers), plus prepaid/postpaid ARPU for Qatar, Kuwait and Oman. Ooredoo ARPU is Q4 monthly in QAR for every market, not annual or local currency. Qatar's 2022 comparative is restated. e& UAE mobile/fixed ARPU is also Q4; Omantel/Zain report bases differ. The operating page separates domestic/market scope from consolidated financials and links metric-level sources. CapEx, company-defined FCF, CFO, subscriptions and debt are shown where verified; unavailable values remain null. CSV exports preserve scope and units.

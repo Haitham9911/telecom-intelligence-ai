@@ -14,7 +14,101 @@
       "kind": "industry",
       "enabled": false,
       "disabled_reason": "Feed URL redirects to an HTML homepage; disabled until a valid public feed is available."
+    },
+    {
+      "id": "zain-news-en",
+      "label": "ZAIN · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22Zain+Group%22+OR+%22Zain+telecom%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "ZAIN",
+      "enabled": true
+    },
+    {
+      "id": "zain-news-ar",
+      "label": "ZAIN · Google News AR",
+      "url": "https://news.google.com/rss/search?q=%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%B2%D9%8A%D9%86%22+OR+%22%D8%B2%D9%8A%D9%86+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%22+when%3A30d&hl=ar&gl=OM&ceid=OM%3Aar",
+      "kind": "aggregator",
+      "company_id": "ZAIN",
+      "enabled": true
+    },
+    {
+      "id": "ords-news-en",
+      "label": "ORDS · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22Ooredoo+Group%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "ORDS",
+      "enabled": true
+    },
+    {
+      "id": "ords-news-ar",
+      "label": "ORDS · Google News AR",
+      "url": "https://news.google.com/rss/search?q=%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A3%D9%88%D8%B1%D9%8A%D8%AF%D9%88%22+OR+%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D9%88%D8%B1%D9%8A%D8%AF%D9%88%22+when%3A30d&hl=ar&gl=OM&ceid=OM%3Aar",
+      "kind": "aggregator",
+      "company_id": "ORDS",
+      "enabled": true
+    },
+    {
+      "id": "stc-news-en",
+      "label": "STC · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22stc+Group%22+OR+%22Saudi+Telecom%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "STC",
+      "enabled": true
+    },
+    {
+      "id": "stc-news-ar",
+      "label": "STC · Google News AR",
+      "url": "https://news.google.com/rss/search?q=%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+stc%22+OR+%22%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA+%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%22+when%3A30d&hl=ar&gl=OM&ceid=OM%3Aar",
+      "kind": "aggregator",
+      "company_id": "STC",
+      "enabled": true
+    },
+    {
+      "id": "eand-news-en",
+      "label": "EAND · Google News EN",
+      "url": "https://news.google.com/rss/search?q=%22e%26%22+telecom+OR+%22etisalat+group%22+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "EAND",
+      "enabled": true
+    },
+    {
+      "id": "eand-news-ar",
+      "label": "EAND · Google News AR",
+      "url": "https://news.google.com/rss/search?q=%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A5%D9%8A+%D8%A2%D9%86%D8%AF%22+OR+%22%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%22+when%3A30d&hl=ar&gl=OM&ceid=OM%3Aar",
+      "kind": "aggregator",
+      "company_id": "EAND",
+      "enabled": true
+    },
+    {
+      "id": "otel-news-en",
+      "label": "OTEL · Google News EN",
+      "url": "https://news.google.com/rss/search?q=Omantel+when%3A30d&hl=en-US&gl=US&ceid=US%3Aen",
+      "kind": "aggregator",
+      "company_id": "OTEL",
+      "enabled": true
+    },
+    {
+      "id": "otel-news-ar",
+      "label": "OTEL · Google News AR",
+      "url": "https://news.google.com/rss/search?q=%D8%B9%D9%85%D8%A7%D9%86%D8%AA%D9%84+when%3A30d&hl=ar&gl=OM&ceid=OM%3Aar",
+      "kind": "aggregator",
+      "company_id": "OTEL",
+      "enabled": true
+    },
+    {
+      "id": "eand-official",
+      "label": "e& / etisalat · Official newsroom",
+      "url": "https://www.eand.com/en/news/news-overview.html",
+      "kind": "official",
+      "company_id": "EAND",
+      "enabled": true,
+      "format": "html",
+      "adapter": "eand",
+      "allowed_hosts": [
+        "www.eand.com"
+      ],
+      "article_pattern": "/en/news/.*\\.html$"
     }
   ],
-  "notes": "Public third-party news feed headlines; not official stock exchange disclosures, live share prices or verified financial facts. Review publisher terms before production. Add additional feeds only with permission."
+  "notes": "Public headlines and official newsroom links. Coverage is best effort, not exhaustive. Financial facts require reviewed primary disclosures."
 }

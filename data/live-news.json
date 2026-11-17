@@ -1,6 +1,515 @@
 [
   {
-    "id": "b1385b283beeea87fd3017826e1c34b2",
+    "id": "35faf0e866d320ffca0062c01fc29b31",
+    "feed_id": "stc-news-en",
+    "title": "GIC and Saudi Telecom vie for stake in €8bn data centre business - Green Street News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGp5VVBzZXJucVVtbDF4TnQ5T3NrY2RuOVdQM1dqVG96aWRyTnZOM09aM1lzUER5QjFVa29KSncyN1ZxaFNIVjU0NzUtNE5DTzZzVTRfcmlSVDg1QU43czd4M25VYmpGc09XUlE4YWlXbzRfamQ2MnplTGxUdFdWSTVOR20taEtmUXE1andtNVgtcm1fV1hKb3d4Y0ZhVWpyNjJB?oc=5",
+    "published": "2026-11-17T14:44:13+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "GIC and Saudi Telecom vie for stake in €8bn data centre business Green Street News",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Green Street News"
+  },
+  {
+    "id": "efae32d6f23df2f82282581a135410ba",
+    "feed_id": "stc-news-en",
+    "title": "GIC and Saudi Telecom compete on Pure DC minority stake bid - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWFldE14V2hrU2txNUNHSUdIUXQ0SXF1OUtCeDVMa0ZvcV9aMkNwenpMd0xLZkx5V3JiMUEyYTFwRFl4UzJEMWwxVjJmTDRyQ1k0SEdLLTBIWEM2X3Y4S0FWRnpJaWtpVVVCU3dmbXZjMnpBcElPVC1lbGQwenRaUVJySjROY1VYMl9nbjkwTnFZc0o2NGczUHhuU1hlVVZ3TTRYVEV3?oc=5",
+    "published": "2026-11-17T12:40:34+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "GIC and Saudi Telecom compete on Pure DC minority stake bid Data Center Dynamics",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Data Center Dynamics"
+  },
+  {
+    "id": "b43a19631b554ee74e4ed6bc29b314eb",
+    "feed_id": "stc-news-ar",
+    "title": "أمير الجوف يستقبل مدير شركة الاتصالات السعودية بالمنطقة - صحيفة درة الالكترونية",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5PVThSdmpia3RobmV2LUY0dlBqTzNWT2Zodkh4T0RFVm9iZWdmVEdkbjlDc1hTV0ZtR2Jj?oc=5",
+    "published": "2026-11-17T11:49:42+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "أمير الجوف يستقبل مدير شركة الاتصالات السعودية بالمنطقة صحيفة درة الالكترونية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "صحيفة درة الالكترونية"
+  },
+  {
+    "id": "36fc180cbee42b330b05385b6302f387",
+    "feed_id": "stc-news-en",
+    "title": "GIC, Saudi Telecom Eye Pure Data Centres Stake - Briefs Finance",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNiNkRvSkF4TnA4UGNPX3lEU1lFQVdxWFZZN08yYUZPaDcxNVVXNjBxVmY3bl9CclR2TjBjdzR2SmZnVUhDV1Z3RTJjYmJVTE1nbnlHVndoLW0yOHVkUGwydXZ0by1KcDFkQU9iVHhad2dkWUlHckc4N09hTWc4aGVxQjZqMHdyNzVB?oc=5",
+    "published": "2026-11-16T21:45:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "GIC, Saudi Telecom Eye Pure Data Centres Stake Briefs Finance",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Briefs Finance"
+  },
+  {
+    "id": "24e65067784ec116967b92d9d85f148a",
+    "feed_id": "stc-news-ar",
+    "title": "نمو صافي ربح مجموعة stc بنسبة 6.3% بعد استبعاد البنود غير المتكررة - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSNlpNekd5NFN0Y21heEIwLWIyZ2d1cWQxUDBLWVBQbE1kMnJNVDNIcVRTWUYxd1JtekxlZmdLc0RoVEJGUGRPMnpUNGF1VDJuVmtMbGd5dGlVVEF6ZkZoM3pPcThpLTRPY1E?oc=5",
+    "published": "2026-11-16T19:17:57+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "نمو صافي ربح مجموعة stc بنسبة 6.3% بعد استبعاد البنود غير المتكررة ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+  },
+  {
+    "id": "f9808304d935310d1c152d6873ab576c",
+    "feed_id": "stc-news-ar",
+    "title": "مجموعة stc تختتم مشاركتها في المؤتمر الأوروبي للسعات 2026 في لندن وتحصد 3 جوائز دولية - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYTByM3lZYVpWZ0RWMHlfTm9mUERWU2J4VERId2tFRFBxeFlqekR6TmFTd3I4SmxaWEotY1lId1lhUVdNMDAxOFM2X0JDNi1XNzI3Z1FqMDFBLTZhZlA1VjJpV3lTajJHSmc?oc=5",
+    "published": "2026-11-16T19:07:18+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "مجموعة stc تختتم مشاركتها في المؤتمر الأوروبي للسعات 2026 في لندن وتحصد 3 جوائز دولية ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+  },
+  {
+    "id": "ca4be9c0cbdd563d45c6698e60c26998",
+    "feed_id": "stc-news-en",
+    "title": "Singapore wealth fund, Saudi Telecom bid for UK’s Pure Data Centres stake — Bloomberg - The Edge Malaysia",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycnhvX1dNM1BtM2w2TGV4ejJhNlVlZVVyMTRhX29BQlBCSG1BOHNySjZiS21xYUFWaG1MQnhRZFp6RlFBWVRaeGpJRGlmTEM5QVdj?oc=5",
+    "published": "2026-11-16T12:06:44+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "Singapore wealth fund, Saudi Telecom bid for UK’s Pure Data Centres stake — Bloomberg The Edge Malaysia",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "The Edge Malaysia"
+  },
+  {
+    "id": "30f0ecbcdafc2f586eb11ea08b9e323a",
+    "feed_id": "stc-news-en",
+    "title": "Singapore Wealth Fund, Saudi Telecom Bid for UK’s Pure Data Centres Stake - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV21vQzBmYzBNLXByRi02cEh3V1RQMFhWMHNuZENSR2FMNlFQZFBIUHNnZTVIOFc1SXI5cks0TE1Ocy1rRVVldFA2N3VXZUV3TEdlNGJZVW40R043RFRBSTItM1pOSUcyelhlYjNDV0dWNmlyNHRtQUo1aDRzWl9FeXZ4b2xOSnp5eG03Y3JnUlhnUkh1MU9RbHBBOEdsbXM4M1lnRGlWNjlpS2hFRXNTMHotN3JCeE9SOXotcVQ3cTM?oc=5",
+    "published": "2026-11-16T11:38:19+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "Singapore Wealth Fund, Saudi Telecom Bid for UK’s Pure Data Centres Stake Bloomberg.com",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Bloomberg.com"
+  },
+  {
+    "id": "83530d0bae0da4b79673918939ce0503",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Kuwait welcomes Swiss delegation to explore cooperation in AI and digital infrastructure - Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaFJlN1htMkdEbGs2NldxZ1JFRDZaa1RFeUpvWFBoaVFOcUlrWUEzc19Uclh1Q2NVQVVDcktHUTJzczhnRjlPTFpuZjhZZTYzVVhnelFwTDNxclZfZFRudFVlNnhnZEZSbGp4RTB4OGVwOVJXbFZ6eTRGTEl5cnlqblZtSml5X3NXZC0zZ2JVb3A0dkUwQ1ViYk5OTTlaTHY5eEYxRklzMGplbmdhU1dNZGFJbEc1VkluRHZzY29HZGR0djVTQ1hDRFZFT0kwNmVVVmtjZHhFYl9OSG1OVkVfQ1dnRmJ3cGJ0ZzlieG8ydw?oc=5",
+    "published": "2026-11-16T10:23:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo Kuwait welcomes Swiss delegation to explore cooperation in AI and digital infrastructure Zawya",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Zawya"
+  },
+  {
+    "id": "f697fb7f90816fe9622e6bfc9c5e0c9c",
+    "feed_id": "otel-news-en",
+    "title": "Oman Taps Omantel to Strengthen Digital Infrastructure for 2026 Elections - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUThNNkxtelVDUTFjOVdDbEJqa1hqS1pMdDcyeDN2VUViR2F2S2xxWE5YMFBRbjgzdEl4N1lPX2lmcGNxMUtvYjRRN0FYQTY2R2w5UEUyYzBzaGEzQzgydkp0SGlacmU2NXVqRjZFTXFsZ2lsREpKR05vUm1VZjBRRG1nd0gzVGlXVWRVOTc5eXBkTHlWQTJ2SVNyT1p2R2ROazhVc2JHM2hwR2M3MU5LSFdB?oc=5",
+    "published": "2026-11-16T07:36:07+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Oman Taps Omantel to Strengthen Digital Infrastructure for 2026 Elections TechAfrica News",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "TechAfrica News"
+  },
+  {
+    "id": "a272f7b7ed32e7ac220fe2dfda516a67",
+    "feed_id": "otel-news-en",
+    "title": "Dhofar Governorate Discusses Means of Enhancing Innovation Scheme, Signs MoC with Omantel - وكالة الأنباء العمانية (العمانية)",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybmlnVDBkZGJxQXZZRmJ0TnZ0R2VfdEtySmlPNk1yaEhQTnBGUnkyV3NuNmlNQUN4N0FhV3hrbWNBd0hiVlZ0V2ZCRE85VWdHRTN3YmJnRFFlekxPLWFIa0FSZlUwdw?oc=5",
+    "published": "2026-11-16T05:31:52+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Dhofar Governorate Discusses Means of Enhancing Innovation Scheme, Signs MoC with Omantel وكالة الأنباء العمانية (العمانية)",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "وكالة الأنباء العمانية (العمانية)"
+  },
+  {
+    "id": "f4cca76470cde9618a88dc38a1df5e01",
+    "feed_id": "stc-news-ar",
+    "title": "إيرادات مجموعة stc المتوقعة للربع الثالث عند مستوى قياسي يتخطى 4.2% - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPQTV0QmZwMVJxa1FYQTNHUmxrUHRtRUo5dTdIR2JhQVJmUFAyMGNwQjdWbUd2eHZ0Mkc0T3djR1JFTFN2UWg2SmJSc0lOOC1UOHRVdnZsQlpyYkRPYUNIQ3RUclpabWp0alE?oc=5",
+    "published": "2026-11-15T19:04:18+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "إيرادات مجموعة stc المتوقعة للربع الثالث عند مستوى قياسي يتخطى 4.2% ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+  },
+  {
+    "id": "91b5f591e16ca9c89face3fba15b471a",
+    "feed_id": "otel-news-en",
+    "title": "Interior Ministry, Omantel partner for municipal elections services - Oman Observer",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLS1FTdDFGcXZRREpaUVFmQ2xxUnp2NFp1a3FQYjBHeUszX2VWY0ZyRlg1NWphdUdVRURSRXlSMTFUY25aLWdoaFRVWEdFWWx4TDI5c1F1ekZOQdIBWkFVX3lxTFBLS1FTdDFGcXZRREpaUVFmQ2xxUnp2NFp1a3FQYjBHeUszX2VWY0ZyRlg1NWphdUdVRURSRXlSMTFUY25aLWdoaFRVWEdFWWx4TDI5c1F1ekZOQQ?oc=5",
+    "published": "2026-11-15T15:55:28+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Interior Ministry, Omantel partner for municipal elections services Oman Observer",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Oman Observer"
+  },
+  {
+    "id": "91d76aef5ac69f3b936ce7ecd4056270",
+    "feed_id": "otel-news-en",
+    "title": "Interior Ministry, Omantel Sign Contract to Provide Technical Services for Municipal Council Elections - وكالة الأنباء العمانية (العمانية)",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpYTE2UlpIcVRMaUh2Zm1VR3pZNUJaTXM1cUF1SExnSGs2ZlYtdnNsZk5WN0t2dkhUM3VBYnBjc3A3QlFrTFAyV0owbVVQcVRaM29hTW1TX19keTRU?oc=5",
+    "published": "2026-11-15T12:53:04+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Interior Ministry, Omantel Sign Contract to Provide Technical Services for Municipal Council Elections وكالة الأنباء العمانية (العمانية)",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "وكالة الأنباء العمانية (العمانية)"
+  },
+  {
+    "id": "aa188ccfc080487837c5beee5e2b4c32",
+    "feed_id": "stc-news-en",
+    "title": "Saudi telecom company STC will pay 662 million in dividends to its shareholders this week - Demócrata",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWWpyNVB3MndVMDZRc3NKTjM5bkI1dDRfVGdKalo2R1BfZm16TjVBVE1mbnRocGh6YUpqc3JYdnJZM0U2bVoyUC1RMkpRN1lzVVhORi1CRkN6NmJtcElNVnR4WE5TSl80aFBKVW9WU29lcUpyZi1pem81TkRGR2hJT1RraWl3YjNJbFhiMHZmQVlYS1hhclpwQVNCNWhOY2gzbjhCbDFwUGhvYzlYWUlCR2JQN2Y3bHJJc0tVdnV4M2FDX0Vt0gHKAUFVX3lxTFA1RUhiNHVQam0zazh3TUJwVUFiWkp4dkRJV3Bpd1N0QVVLbG1mTXJtaFlHakxTQkJxRzg5RE9uN1B3ODJqWFdsSVEyamRpaFdTRWFrUUFQMXk1VWtUZlNERXhrelBmYmJRLXNwV1lmcFBYVkNOd0FDMFhIQVJROWk5akF0Sk4zOWVHaENHd2NLTGxiTnNuNm9QUjQxQmFCTVJ4QWM4bFlUTG5wMjBYSHRaWnQ2V0EyaExYSElzcUhjRFdlOHFyZ2xEYkE?oc=5",
+    "published": "2026-11-15T12:30:39+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Dividends",
+    "impact": "Review",
+    "summary": "Saudi telecom company STC will pay 662 million in dividends to its shareholders this week Demócrata",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Demócrata"
+  },
+  {
+    "id": "dde8af47457f699d116d053c4b507a4f",
+    "feed_id": "zain-news-ar",
+    "title": "بـ43.9 مليون دولار.. دمشق تنهي تسوية \"إم تي إن\" وتحسم جدل \"زين\" - الجزيرة نت",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZHhDN2JENjN5YWkxZE9OLURwdjhiS0VvUzRDTng4OGdmcVRycEtSNld3c09falhKUGZVYzhMOEZfUHAxNE5nMzdWd3Q4eTFfOHUtMDFkTmJ6cGRscnp4MlA2ZlU5Q2JTNFcweXM2MC1lNUV2cUZuR1hNNFpGYzRjNWRDcWRaVWx6MnJSSzJPcFppSmJUWDFEZVdDQjZsZXJpY2lQMFc1bUFGaXY3RWVhalc4STYtMnNSLVVUT2xhU1BySXFMc3lVdWRDOE8wcWtUT285NWtoR0NIRDkzdU9MOW13cENGelJYOWJwWC1ReS1JMkZWRzVsZkRVX2lrejJMQzFZNWdVaFJVN1JfemRwTGlYcGtLcF90aDNacVEtWElFMFAtUHNQRFlEUEdHS0NmV3JQakhRUTkxc3lERGI2eDE1ODFmUXlkR0tn?oc=5",
+    "published": "2026-11-15T11:51:43+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "بـ43.9 مليون دولار.. دمشق تنهي تسوية \"إم تي إن\" وتحسم جدل \"زين\" الجزيرة نت",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "الجزيرة نت"
+  },
+  {
+    "id": "e32867af8dbb49826bfabc5bf018f88f",
+    "feed_id": "otel-news-ar",
+    "title": "وزارة الداخلية وعمانتل توقّعان عقد توفير الخدمات التقنية للانتخابات - صحيفة الصحوة",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBRWXhMNUdzTEViM1dsekhfeXJReEN5bHd6ajJVV2VuRDE0M3FINVRHMXRnLTkxbTdOQ0dUMmVYclNzZw?oc=5",
+    "published": "2026-11-15T08:57:41+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "وزارة الداخلية وعمانتل توقّعان عقد توفير الخدمات التقنية للانتخابات صحيفة الصحوة",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "صحيفة الصحوة"
+  },
+  {
+    "id": "d77fc48d5699f80adb73f3f5a690dcc1",
+    "feed_id": "stc-news-en",
+    "title": "Saudi Telecom Company (7010.SR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwQ29VcGZHd2RSMlhzZzZJV25Vd0d2emU4bnhYczE4U0IwV0ZPalV3dXFrOEF3V0ZUbzA5VTJ5d290d2NSVW9lODZmaHNwUExJeHlpR2dBSVBabE8wb2ZGVUFPZjIzQQ?oc=5",
+    "published": "2026-11-15T08:20:53+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Saudi Telecom Company (7010.SR) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Yahoo! Finance Canada"
+  },
+  {
+    "id": "081df23fee87e72c9c2d2488a533a643",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo to host 2nd Digital Ecosystem Conference in Doha - Qatar Tribune",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ19uNTBTdXNSSjYzdHZXVS1SUFlDNW0ya3htSFpwcUw1eUYyV09VM0FEb3J0LUloYzVJT3RfTVk0VUMzV2JrU2U5RkttcFQzSldiUVgtMUpQVGNoSmthcFpqNTNzVGM3ZDFoVGpDYWJzRXZLNGZrV0JiM1NhY0FPZTNGRTF6cUwwNWFjMTNPQWVGVk5YLUdhV2FJcUJKd2VBaGhUMW9qWVkzVGpJVEo0?oc=5",
+    "published": "2026-11-15T01:15:34+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo to host 2nd Digital Ecosystem Conference in Doha Qatar Tribune",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Qatar Tribune"
+  },
+  {
+    "id": "42709c79eeec764209da93a3cf64646f",
+    "feed_id": "reviewed-official",
+    "title": "OTEL — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf",
+    "published": "2026-11-15T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "OTEL",
+    "company_ids": [
+      "OTEL"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "OTEL · Official results"
+  },
+  {
+    "id": "8ab2af15834adb2c8e4ae9c3102ca670",
+    "feed_id": "eand-news-en",
+    "title": "Ufone to Become e&? Govt Holds Off on Final Rebranding Decision - TechJuice",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS1JwZHFaNWlfT3pCbDZXeFJaZlV6anpLYkpmQ09GdnNRQmtHOHRlOFNSaXFqS2JvUVBoR2p6LWt5d2t3cVZ6SGsxeTlrSm1SMVFyWnowZ1V4ZTRkNWs1T0d6aGpNa2o3SEUyWnRMSTJLOUc4VklUa1A4c2J5SlhzMXgza1o5LS1zV0xFRDBPQng?oc=5",
+    "published": "2026-11-14T23:24:05+00:00",
+    "discovered": "2026-11-17T16:56:49+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Ufone to Become e&? Govt Holds Off on Final Rebranding Decision TechJuice",
+    "kind": "aggregator",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "TechJuice"
+  },
+  {
+    "id": "33e1369c7cdc0546841113ab316b68be",
+    "feed_id": "eand-news-en",
+    "title": "e& Reverts to Etisalat Name; Pakistan's PTML May Follow Suit - TechJuice",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyWlNvZjRGdEJoQ3ZYU2ttNVZZbUQycFM0UUNfelVxckg4YlFFdGpyV3V6X0xxaHliTGZSZzlMRnVwWEFqR005OFpCLXJUeThCN3VYS21qdEFrdUt4VE0wT2dDYTB6WlJWd3Q3cnZ1YWUtOFpWVmc?oc=5",
+    "published": "2026-11-14T22:50:38+00:00",
+    "discovered": "2026-11-17T16:56:49+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "e& Reverts to Etisalat Name; Pakistan's PTML May Follow Suit TechJuice",
+    "kind": "aggregator",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "TechJuice"
+  },
+  {
+    "id": "c1bcf66c7e1a2bbbba99353302a61133",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Group to convene ‘Digital Ecosystem Conference & Exhibition’ | Gulf Times - Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnZ3RmVvWGNSWWxhUTIyd0dxSUdQYlAtblhaUFFLaGdEMzZ1b2ZmX3JSMVpvdTFINlYtMjJ0NGxuUEt2bGZhNXpjZlhNVmsweVowcVE4c01wbE1vOUluaHk0WF9JbmdSRjhvdkdZckNQb2lDRGpfUVdXZkRGTmVoWHA2T3kxdDlzeDF0aVFTV1Fhc2JCY29nYVd1SHNaSXZsRktBbklfVGxIZGNfcjdldURn0gG3AUFVX3lxTFA0blRmUzkxdVBpVFYxMWxLWFJwQ0tvUEFpWDRpYlp3QkdQdlBGTF9sVmpHV0ZkQzY5ZWkyNTUtWG8yenJCd0h0bnFYWWxFdXlPOTVQZEZyUE1zbWhiUzBrRk9Tdi0xcllQSFdOdWMyYm94OTJDaVZQZ0VrZ3JqSlFiSHRBbkxWUHRPVEUtMmdEaFpXWGV3bVRtR3NGeVAtbHlYYndYZTU1d3RoUGppSUJhdGlUenlyYw?oc=5",
+    "published": "2026-11-14T21:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo Group to convene ‘Digital Ecosystem Conference & Exhibition’ | Gulf Times Gulf Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Gulf Times"
+  },
+  {
+    "id": "683d7e555e137964bb92683d31e609fa",
+    "feed_id": "zain-news-ar",
+    "title": "مجموعة زين تتصدر قطاع الاتصالات العالمي ضمن قائمة أفضل جهات العمل - وكالة الانباء الاردنية",
+    "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxNLWN6YXUxY09CY1pkU05GRlJzM2kzZEpDbWVjZUFtV0dRZGRoWkpqOWRoNmVtUU5VdG1fbGR2Zm9mMFNWNWo4d2FSN2Q1T1NPYUotcnd3LXhBRExoZ0NKcHZSMmVCWWlDOTJrNTN4eTdPZi1pUk5ZS3V3end5eWtXVUNpallHNkZlZmx4dE1pREJxUTM0NE9jb3RIbldTbWZxZk9ONm5Xd3AzdFI0Z2JhX0lJV0M0WkxORnZOc0RTQmo4Q0t2SzZDckFPR3d3dXpOMEMzbHMxUTk3T0cxUnlWSDhFSUFldFJxek5VLURXVTJOdFFwd0laUktBVXI4NnZNejRvY3VZeWItcUVIWWFGbnRjWV81VTJKaHI5UFBxWnNXMTlfdndfcEcySmpPMHlqQkhQNy1rTml1bWNJejR0Q2F4Sm1WaklHNDlmTVJxTkJEV2pRTXY2UlROazhIWVluZWwwSEdpNHFyQmhpM1UxS3RlTHk3a3k4VnBOUExDYy1vcHp3bUdXcFVMcDI0Tm9zTS1fMENqS3VCdnlLV1N6aUE4a3ZDOUpzckFlNmhucXBQZURORllQZFlKUEN4MW42d0NKYWI1WU8yQlFQc1RZSGhMZHZrbjdXeGxoUHgxYVV6alFUVXBSOGloSFpSYXBUemZKdTNqVndJQmFERG1kT21SWHBTUGc1TThGMTgtY2JWVzlwSmpZQjJ0aUkwVldfQzRKOElZbm9nb2ZETy1CZTdpeW4?oc=5",
+    "published": "2026-11-14T18:58:19+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "مجموعة زين تتصدر قطاع الاتصالات العالمي ضمن قائمة أفضل جهات العمل وكالة الانباء الاردنية",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "وكالة الانباء الاردنية"
+  },
+  {
+    "id": "55e405331e7a2790678d108913d88396",
+    "feed_id": "otel-news-ar",
+    "title": "تروي من خلالها حكاية حب عُمان من منظور الأطفال .. عمانتل تحتفل باليوم الوطني بحملة “حلوة ومزيونة” - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FQkpwOUNZS05hd3NaaEFKZ19pdm44eTZtLTZKM1NwNHE5WTR0S2JUU0hIcnBGSjdyLW1wNEJmY182em8?oc=5",
+    "published": "2026-11-14T16:44:46+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "تروي من خلالها حكاية حب عُمان من منظور الأطفال .. عمانتل تحتفل باليوم الوطني بحملة “حلوة ومزيونة” جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "0073fd77ca003cae693c325de9fdafa8",
+    "feed_id": "zain-news-en",
+    "title": "Syria resolves MTN dispute ahead of Zain’s planned 2027 launch - سانا",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15SUlyOUZ4QW9LZjg0NkxFb3YzZG43RWI0aDZ1R045Uzl2TkI0R3BJaWw2WHhjZnY3aWpMWDFXZlZxWlA1cmJaNA?oc=5",
+    "published": "2026-11-14T16:41:45+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Syria resolves MTN dispute ahead of Zain’s planned 2027 launch سانا",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "سانا"
+  },
+  {
+    "id": "660786113433b35fa24f657b44201975",
+    "feed_id": "eand-news-en",
+    "title": "PTA Ends Branding Debate, Clears `e&` Identity For PTML-Telenor Deal - TechJuice",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkk4alVmaE9HbDVIT1NadjZXU3RaWTVMRzR5azFxU0JocVVZdVAxUDFIR2RueTJ1a0dNTHdIYWpHNTY0Xy00bTJ4U3JpQnE4eWt0UmhkbW1ET3Z0aVRyd05KWEJZZEtyOGRvU3hFTzVzM241R0syZEdjSHhTRDlrVmI0dDR0Vm9oem5ROWZjN00tSDdC?oc=5",
+    "published": "2026-11-14T14:47:44+00:00",
+    "discovered": "2026-11-17T16:56:49+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "PTA Ends Branding Debate, Clears `e&` Identity For PTML-Telenor Deal TechJuice",
+    "kind": "aggregator",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "TechJuice"
+  },
+  {
+    "id": "bf2b47dda73c0602551fc1665e7e0024",
+    "feed_id": "eand-news-en",
+    "title": "A New Telecom Giant Just Emerged in Pakistan: e& Pakistan - TechJuice",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2NCX2s4ZE55T2FsZGw0T0Z1X0VRX283d1RfRGxlMjlnQ0FUTHNGWThQRjVJSDlwckh0bUVUWXpUQnFRbGNEdlNWanRIQklRbG4wbXBHN3hkXzI0TDIyZmpWRVZJQy1ya0JiWF9ZRDExdXEwbUtiNTJ1Qy1JSkZmZUxKTGJsUndtc1N0bA?oc=5",
+    "published": "2026-11-14T11:55:26+00:00",
+    "discovered": "2026-11-17T16:56:49+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "A New Telecom Giant Just Emerged in Pakistan: e& Pakistan TechJuice",
+    "kind": "aggregator",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "TechJuice"
+  },
+  {
+    "id": "ab42dfba2404c07d580d058c45ce4e6a",
+    "feed_id": "stc-news-ar",
+    "title": "مجموعة stc تسجل نمواً في الإيرادات والربح التشغيلي للتسعة أشهر الأولى من 2026 - mz-mz.net",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE55aFkxenUzQ2JlaGpUcmdYOEZhc0kyczNQTFgyQk1uX0V5c09yZmFQRU5kMGZ2alZSYjNNS0dkaw?oc=5",
+    "published": "2026-11-13T05:01:57+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "مجموعة stc تسجل نمواً في الإيرادات والربح التشغيلي للتسعة أشهر الأولى من 2026 mz-mz.net",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "mz-mz.net"
+  },
+  {
+    "id": "c1c1b9585567d3b378128a494b5eb899",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Secures Authorization to Build International Fiber Optic Transit Network Across Iraq - Qatar news agency",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHU1djlRcXEzQ09LbkJOeVZheU1zRU9uNjZXOXpua0p0WDZqTkVKdXFEWGNxSzhydEpVMzZKejY2WE9FM1hUSUE2cmpVblYweGp0emJkN2FsSU15cUhNYVlYTGdiVnNMd2pUN2tVY2I5djNlWU8tbzhlRUN6ck1tdjJmM0ZWUEduUl94QmExYmpNc2trMklmUlJVb3BRN0czQnhlRTF1Rk5xdGp0MTF4MEVrLXlrZWtjWFB0Q1p5QlcwbnNtWFFvaDVmX0xwcDJhVjlEMkk1SQ?oc=5",
+    "published": "2026-11-12T17:18:28+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo Secures Authorization to Build International Fiber Optic Transit Network Across Iraq Qatar news agency",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Qatar news agency"
+  },
+  {
+    "id": "a8db834dc3b18604f7b3aa0915038ed3",
     "feed_id": "telegeography",
     "title": "What the Anti-Data-Center Movement Could Mean for Data Center Builds",
     "url": "https://resources.telegeography.com/what-the-anti-data-center-movement-could-mean-for-data-center-builds",
@@ -10,10 +519,557 @@
     "category": "Infrastructure",
     "impact": "Review",
     "summary": "Everyone knows what a data center is (or at least has a general idea). This very fact is a result of a seismic shift in public engagement with the network infrastructure market.",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "48a1a57da48eef0f9f8a249786e5c08e",
+    "id": "c160b8ce9f87c8a789ecf0c004c66009",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE unveils AI Marketing Hub",
+    "url": "https://www.eand.com/en/news/12-11-26-etisalat-uae-ai-marketing-hub.html",
+    "published": "2026-11-12T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "cad08b466c37d9bad626502bd6d9f761",
+    "feed_id": "zain-news-ar",
+    "title": "“الاتصالات” تنفي تراجع “زين” عن رخصة المشغل.. “الإجراءات تسير بثبات” - عنب بلدي",
+    "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQRXdGYkVTdEtPYzE5dUlGNlp3NjFCY1B5czNSRG1YMXNQdlpfTkc2WEFsbXFSay12Q2QwZFJNMUM5dmJtQ2hfU08wd0RNa1dsYVJReEVkMFVDSXJEcUY2VVlXNHNRZmdlamxpVUhCOEtFRUlQUGZFWnZZRF9ZemtYUExKR3RYMy16OURWTmY1LVJmNUstZXpNMV8yeEVFay1wRE1rRy11VFJ2bXViVzh2QllQejliNFdNc3I3Y0VLakJIXzNSTUxwRHVYVmRsa1VWcl9XU19IckhISFJvejZYRm13alhQTk50YU9tOVBDOFdqbHRuNkJ1aW9kZWFHNUhkTFNNY0pHTHJhOV9SSXc2Nl82RHQ1d05xbmQ3WkljcmU4TFJvOG9sMmlBYzhMLXRaUzA5N0FJcGNocHRPU3VvaG83eU9yb3NBZGF6QXNQLUs5UzjSAdMCQVVfeXFMUEV3RmJFU3RLT2MxOXVJRjZadzYxQmNQeXMzUkRtWDFzUHZaX05HNlhBbG1xUmstdkNkMGRSTTFDOXZibUNoX1NPMHdETWtXbGFSUXhFZDBVQ0lyRHFGNlVZVzRzUWZnZWpsaVVIQjhLRUVJUFBmRVp2WURfWXprWFBMSkd0WDMtejlEVk5mNS1SZjVLLWV6TTFfMnhFRWstcERNa0ctdVRSdm11Ylc4dkJZUHo5YjRXTXNyN2NFS2pCSF8zUk1McER1WFZkbGtVVnJfV1NfSHJISEhSb3o2WEZtd2pYUE5OdGFPbTlQQzhXamx0bjZCdWlvZGVhRzVIZExTTWNKR0xyYTlfUkl3NjZfNkR0NXdOcW5kN1pJY3JlOExSbzhvbDJpQWM4TC10WlMwOTdBSXBjaHB0T1N1b2hvN3lPcm9zQWRhekFzUC1LOVM4?oc=5",
+    "published": "2026-11-11T20:53:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "“الاتصالات” تنفي تراجع “زين” عن رخصة المشغل.. “الإجراءات تسير بثبات” عنب بلدي",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "عنب بلدي"
+  },
+  {
+    "id": "3b103f5aaf67fe0f57686eb968f13806",
+    "feed_id": "stc-news-ar",
+    "title": "أمير تبوك يستعرض المشاريع والمبادرات لشركة الاتصالات السعودية بالمنطقة | - شبكة تواصل الإخبارية",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MbHd6eVRWeVZVcDczaHpUVnoybk9QU196UklGa3NWWS1EX0syV09yOTBWcEI5UUxtT0dTalVqdWtjdkJQZEN1ZmtlY3hjOEZVcmtV?oc=5",
+    "published": "2026-11-11T15:26:59+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "أمير تبوك يستعرض المشاريع والمبادرات لشركة الاتصالات السعودية بالمنطقة | شبكة تواصل الإخبارية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "شبكة تواصل الإخبارية"
+  },
+  {
+    "id": "f90d1f152e0b06ce3c8db207caf6bc7a",
+    "feed_id": "otel-news-en",
+    "title": "Omantel Says Bader Nasser Al Kharafi Submits Resignation As Group CEO Of Zain - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZmNxS3cxR3Q1NzlZWjF4YU5aTTI4aDg3NlpwYVN0Mk5za25zeE5WN2Y2NkoyVU1xWUF4anJEUXZzRzFza1Flb3pvUjl4UjZ0YmU1OUkzeThjRFhSNUlXZEh4UFY2Njg2VXpwRE9EMGN0Y085aTdVbHpUT1QwZnZOeEhOSVlMN2FTamhpUkhDNWFwTXg1T2t3YTh3RnJ5NHlwNjFwdEE1bzVoYnhNX2F4aWgtMmtqUzBGdFZfaXNXUmpPdnBzS3FyTGdwVndndElfd20wUjhQNWdkczkwSlRGRg?oc=5",
+    "published": "2026-11-11T04:59:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel Says Bader Nasser Al Kharafi Submits Resignation As Group CEO Of Zain TradingView",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "OTEL"
+    ],
+    "publisher": "TradingView"
+  },
+  {
+    "id": "292024152de069b285a11b017a8f3f8d",
+    "feed_id": "otel-news-en",
+    "title": "Omantel 9-Month Group Profit 84.75 Mln Rials - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZFJqSTRGVDhJZFRTSkJabl9NZ0l4cHVhUm5aSDYtMmRieWFrMFgyeHpWTkx0eWlRd0dTTUQ0T0tYU3FDdWFidWpaZU9tS3F2S1BjOFl0RkpKZk42Ry1VUEpLTUZtRDgycXdoUnZ3YVVDb21VTUVhcDdKSTNnSGhxakJwMElnMnZhb09GU3BCVjNEWWxLZjFwNlp4TzduaDBuYm5IRFN6NHBMNmtyY2QtRGJrQ18?oc=5",
+    "published": "2026-11-11T04:54:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel 9-Month Group Profit 84.75 Mln Rials TradingView",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "TradingView"
+  },
+  {
+    "id": "e7a93eee708335e79655f494d0408cf2",
+    "feed_id": "zain-news-en",
+    "title": "Zain Group reports 17-yr high results for 9M 2026 - Kuwait Times",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVp5WW42SGhxRmVvUm96eU9FR1hJUndYOEVEUXVwMTRoVVFBUVBOanF4VGU5S1AyV29hdTM5MU5GQ3JJbno5NTBKX01tUlJWN3F2enRCbjBLNkVXaUpMZHJDd25qbG9fZnRDLTRxeFVLOU9TcFFQWTdhc0FEZTNSYUlzZzNreTdkbkNwdmRTWm1jXzJESjNjb1FBY1ZUd9IBogFBVV95cUxQNU5OYjVQc2FQRjZTVHIwWHZ4ZWdabVFYZ0gxbFpLV3Z3UXRiSlY4dkNjOGRGYmtMR0dkOVhRN0dHd3Z4ZW1FWEpucU9LbDU1cXJjZjhORjdQdEtLQktYYVFIRmxtTERQN2Q1Y3V4Z0VOZDdZa0tJVE5ENmpSQktfMUJQOVBiOFdOR0lCUFFkeG9sN0RpT0dBSTBlRG1PVTFBb2c?oc=5",
+    "published": "2026-11-11T04:41:15+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Zain Group reports 17-yr high results for 9M 2026 Kuwait Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Kuwait Times"
+  },
+  {
+    "id": "7ed97fbc69ab4d1092117f117857bb08",
+    "feed_id": "zain-news-en",
+    "title": "Zain Group reports 17-yr high results for 9M 2026 - Kuwait Times",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2F2bkRSbzJKMVNQLVVKckVnU1FQekRjQTBYTG91dGVQaWZ3RjdHdWtKZnZtSFhHM21GSnNaNlg2Sl9aa0p0SU9WZEkzMWhHTWV3cUQ2aXdpclBudS1abXdpVkpONFh1aUJJTkU5VGlYWWU3WnhlXzRFdHRqRmstd0lYcjV1SlZRWEtrUUIyblBJN3ZyUTlzSkdsY9IBnwFBVV95cUxOMmJCRUNES1lGWVlHRXkxRm1QMVd2Q25LU18wNHFXRklROWk3cHBfZ1ZESmx5QW9ydGYtS3lTeE1Jc1Jhdms4MW9xbnEtUFBaWEJWVnNqZGtCbUEwSjBBZi0weHJ1U1ZldG9pYm9wQ0M1MVJaa2kwWDgyM2RfTnQ2VlhoSWw3YWRfeFdZZzJIZTc0b18wNnpTMUpoUFE2TU0?oc=5",
+    "published": "2026-11-11T04:02:44+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Zain Group reports 17-yr high results for 9M 2026 Kuwait Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Kuwait Times"
+  },
+  {
+    "id": "729a4c710dfff0ebfdb5a628ff79b343",
+    "feed_id": "zain-news-en",
+    "title": "Zain Group Revenue Rises 4% to $5.71 Billion as $501 Million Capex Drives 5G, Broadband and Digital Growth - TelecomLead",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTR2QzhxY25vQm9FZ0w2ZDZRSnJBRzhmM25rMTRzMkpRUUhFblZDM0w0ZTdqZzBHVlVQSlhheDQyLTJnSjlNUWdtNkdxUVdndk91cUtKVkpFUk9xYU1IUmJucVdmRUhQdjA1ZjYtaEpWX0pDcTFQd01jYWZ5OHdEU0QzRW1LSGVHdVBOdEsza1VZNWo4cGY5cmZ3UW1QU3N3azZLczc3WldWcGdrNi0yb1FFUkMwVVJycTZWRzdZcFJ0Q0xsMDlkLVlqRk9wMnY0YlHSAdoBQVVfeXFMUGhnMnFPR3poTmIzY1FGRkFHYWljNkNHME9CRkxPY2lfbUFQUXlWTjZucjhPNndsS2M4dHNTY1BrTzhKTXAzd3dzVklkNnM3aEVUMk9DRVdVdkpiTkxlaFRoaXlPX1dFZFl4ZGdGT0dDSzVtd1JNcGV5VmR2Rm44NGs2eHNzVE9qZFJ3cGdSZVBmclhmTjc3eVBoTThhOXVRNG5qbjd2US0tNHE1MklPNVR0OURpNDlGMkV0azZ6SkpFbkxWTE1jVkZyV0gxQWRXZ1l2M21WR0F5cXc?oc=5",
+    "published": "2026-11-11T00:54:56+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Zain Group Revenue Rises 4% to $5.71 Billion as $501 Million Capex Drives 5G, Broadband and Digital Growth TelecomLead",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "TelecomLead"
+  },
+  {
+    "id": "dac2ae5b50d908d28d1bb0ddedf3753b",
+    "feed_id": "zain-news-ar",
+    "title": "\"زين\" تقفز بأرباحها الصافية 59% وتسجل 990 مليون دولار في التسعة أشهر - كويت نيوز -",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBXOVVDMUF0bFZaMXBnYlhpYU5ad2lGVVVnV0pTRVdzNDlrMDA4MFdNVzlwLTRaVkF4MFhxQ0lRdmJ2V2ps?oc=5",
+    "published": "2026-11-10T22:47:08+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "\"زين\" تقفز بأرباحها الصافية 59% وتسجل 990 مليون دولار في التسعة أشهر كويت نيوز -",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "كويت نيوز -"
+  },
+  {
+    "id": "0a31cd1f937872d3c9cb9159325ffbae",
+    "feed_id": "zain-news-en",
+    "title": "Zain Group 9M Net Profit Up 59% To $990M As Revenue Hits 17-Year High - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVS1hNExIMkdiUkZLRkRxWGw1Y0dhV2N0Q3BGZ21YS2FyekEzdHRpaEhNSkluU0pmOGxDQktEU2xCcmFTYVdkRVJJMzEzbFRvMC1pN3pjYkVON2JuMDhfZkh1eEd6eXNLSHJOdDNHTUZ2dVB5bGNXTXk2ZnRubm9zX0xsQkFxSGt0aEk2TGZWYm9LM3pEM0ZhVmFSUWJMSFViSVd5N0tHVkw3d0tGVjhlaldMYkJMaWRYSlVBUmd4bUEzdTRFLWZvdUFGbw?oc=5",
+    "published": "2026-11-10T20:50:09+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Zain Group 9M Net Profit Up 59% To $990M As Revenue Hits 17-Year High Forbes Middle East",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Forbes Middle East"
+  },
+  {
+    "id": "2d752279bd578c21a90fbc9ff25d01dc",
+    "feed_id": "zain-news-ar",
+    "title": "أرباح زين الكويتية ترتفع 30% خلال الربع الثالث - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTlpUlFvNU5WclFpakoyVVVLZTVWLUw3SzJHdTBnby1NTUJ6MDhLQlhwOXVxdWdZcGVHU1dheWpPZkVHdmFUdUZNT3JDNzlDMEVCWkYyUm05OUVXRFlXTS1sOFVCTGpiamVsMW1JcFd4OXUwU1VVd1FTUTFOc2VzR2J6RjByVktHb0x6Q2Voak4wdHFSUmJtV2VzX0U?oc=5",
+    "published": "2026-11-10T20:45:14+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "أرباح زين الكويتية ترتفع 30% خلال الربع الثالث Forbes Middle East",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Forbes Middle East"
+  },
+  {
+    "id": "81cb5b43fcdeafa6c9da27d1ed22c933",
+    "feed_id": "zain-news-en",
+    "title": "Zain Group 9M Net Profit Up 59% To $990M As Revenue Hits 17-Year High - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcmFqd19HRG9JM0RPQ3h6VWM2ZkotSU8xNHpUNnZ2aFZnWXhrMWpnMzZvTFdkN0dsUG5Hd2hlQ0JETEdSMXVXbkpSOVl0bElCcUlwT21wZDlTMUF1NDFTZ0gtckp0bEJwcnZackdwWi1jN2RtQzFKYjhlVmdSNXJuS1lRT1Bjd3pjLWhrY0tYdmpJLVFLZ0stcUFJazVWZDA0OWV0YnRjc04xeUg4Z1FISS1RNGZZNzBwNDdEbEhfVko0cGU3NE5IRA?oc=5",
+    "published": "2026-11-10T20:45:03+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Zain Group 9M Net Profit Up 59% To $990M As Revenue Hits 17-Year High Forbes Middle East",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Forbes Middle East"
+  },
+  {
+    "id": "dc83845c3dd0df09a8a5e6a9c3001171",
+    "feed_id": "ords-news-en",
+    "title": "Bango CEO Paul Larbey on expanding global growth with Ooredoo partnership - Proactive financial news",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWlp3VDAzbEUza2Iwb28yUEZnUTlDRlNSZDZ3eTJHYjBKRWhEWFNMVVRGYUZkS3k0XzRRQ0JkeFRUNEgwTVN0QTY1akJEcWl3dmthWkRqb2NFY05ReFJ1SmJkTWNSUVBPRXd3M3RSNHM3UHJFUzduZzZOMUk4VGZqNjBGU0N1Y1BwZHdpaC1wUzVjMloxNENoRE4yenctQXNwT3dTUEh4ZWw0OTBNdU9uZDRJb2dSbl9EOWtJR0RFNmctOW9CNnNQczJQUUxQeDRVNF9pUlhkb2hsR2w5?oc=5",
+    "published": "2026-11-10T12:20:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Bango CEO Paul Larbey on expanding global growth with Ooredoo partnership Proactive financial news",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Proactive financial news"
+  },
+  {
+    "id": "7f13808d2b199e8646cca8b115f5a52f",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE becomes first telco in MENA to offer AI glasses",
+    "url": "https://www.eand.com/en/news/10-11-26-etisalat-uae-ai-glasses.html",
+    "published": "2026-11-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "4a4cf5150a7f15240cc677304773a7cb",
+    "feed_id": "reviewed-official",
+    "title": "ZAIN — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.zain.com/en/press-release/zaingroup2026-q3",
+    "published": "2026-11-10T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "ZAIN",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "ZAIN · Official results"
+  },
+  {
+    "id": "3f1ed21eae728b4d9e26b738c96b8f63",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Oman marks National Day with free social data and OMR 1 home internet upgrade - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1NBMDIwRjRvS2NET0xzZFFpN2FVR1kwcHdkNmpuT2JGR3Y4R1N0aGNyRWlRZFFaWkw5NWluYks4QjNhZjlpbkprZDZMZ28wNjdwUmpYX3hSQmJNazFsNHRYRjc0cWVMZ1dhb3V0Zzdyck0wNGtJYlFkTDVqZkpJbmMweEItWWRUUjRUdkNMT3BWSm5LTTZUZXV5N2VmQ0VFQ0pwbTc0RDNtRl9FSWU1TkFJZDJMLWtWLVRyRndrTE5qd3YtMkJ3?oc=5",
+    "published": "2026-11-09T14:07:38+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORED",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Ooredoo Oman marks National Day with free social data and OMR 1 home internet upgrade Telecompaper",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORED",
+      "ORDS"
+    ],
+    "publisher": "Telecompaper"
+  },
+  {
+    "id": "db6afe9d5e17d380e40a33c765135295",
+    "feed_id": "otel-news-en",
+    "title": "Omantel plans to exploit demand for international network capacity - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYjhxenEwek43RWl2SThheFlseXVRNWN5VGZuYnhrcDdBSlM3bW9XRkpOelJvRktRVXFHbGtfRG1UTE5veEI0M0h2QkR0OU9wOXlrZnMyOEJ6ZE9ZbEw2YUVuQ19jMllTdnZqdFhncV9mM01sWGE2MDFCeHdsVWduYm1nZVBSNl96M0lrNkp5cDFBQ1M2U0VKWFhrOTdibFE1aFNYZWRuLUE0UEF1TVE?oc=5",
+    "published": "2026-11-09T13:52:21+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel plans to exploit demand for international network capacity Telecompaper",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Telecompaper"
+  },
+  {
+    "id": "9e202bcca847204f4ac338086c0af614",
+    "feed_id": "stc-news-ar",
+    "title": "عام / أمير تبوك يطلع على مشروعات ومبادرات شركة الاتصالات السعودية بالمنطقة - وكالة الأنباء السعودية",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54NHlBRTl2RWNsR1oyc1RqSl9IMmo1VmpzY0VvTF84QzNUYnBrZ25EU0xTMXlucEk5MFg3cUNRY2RPNmxVS0E?oc=5",
+    "published": "2026-11-09T12:42:36+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "عام / أمير تبوك يطلع على مشروعات ومبادرات شركة الاتصالات السعودية بالمنطقة وكالة الأنباء السعودية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "وكالة الأنباء السعودية"
+  },
+  {
+    "id": "d170b591c7a662f45a74366723c480ac",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo selects Bango for subscription bundling across its markets - Broadband TV News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2ViRmt0VmdvTk9wZmswejFpbkdKSGhSZFQ3X2tTSXl1ZFBWandmckpnWnJGNDIwQmRzMDBXVHZDX28yT2luVlVTdVF4R1B1MEE5U1FTT0x6UUVqQ0RBc3FoYkNSc29tTnl6VUtEOVhqMFM5N0IwRGwtVlUybklvbFFnQzlTRW1hbXpSRzZSX21LOXkyVkMwS3MtYjBIcE1zbGFOeWZKNmkzNUpaSDJF?oc=5",
+    "published": "2026-11-09T11:25:22+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Ooredoo selects Bango for subscription bundling across its markets Broadband TV News",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Broadband TV News"
+  },
+  {
+    "id": "da3efaa9d13d8ae4645055249dcf53d1",
+    "feed_id": "ords-news-en",
+    "title": "Bango shares boosted by new Ooredoo deal - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc3VLcTU2MzF4SzdTVHJnZzZySk5fSVRXLVJxdENvQjFfNGJ2ZEIyQXU5QkZGZWRCQkNEX1Z0eWxTdTJHQlZlUndmWTRUZnRhS1pBR1Rac0dYdXpzdFY3bmlabzAwc1RfMHptZnJhMjh5OVQ2TkgwY0VmRGl1V2ctZnQ0TXI2V1JTVGc?oc=5",
+    "published": "2026-11-09T08:47:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Bango shares boosted by new Ooredoo deal Yahoo Finance UK",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Yahoo Finance UK"
+  },
+  {
+    "id": "e6395e7caec1d4e19a64f6e1f9d96dfc",
+    "feed_id": "ords-news-en",
+    "title": "RCS - Bango PLC - Bango and Ooredoo Group partnership - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXh3Y1lMeGdIcWlYaUtjek1jLWpqMExOZ0k5Y1pGTWZYa1NRVWJ5MlZpZjA0S3l3WjMwSVh0TDk0ZmhDYzlhMEJjR001QWVEZWFaZEZjTTg1YU1BQ2JUYWJ0QjBsS005TGU0OC1BQlc3MEhhY1IwOHFoMkVNaG1uU3hMVEU2TmVXMzUzVFVWZVctZ2RPd1JabUxrTlpib3h1SDQ5N2t4Rjc2aW1VMEpPbkhCSzQ3clBMYW9lbnh3WWNzZjQ?oc=5",
+    "published": "2026-11-09T08:00:01+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "RCS - Bango PLC - Bango and Ooredoo Group partnership TradingView",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "TradingView"
+  },
+  {
+    "id": "155a5b164fb28091e11209178af0fd3e",
+    "feed_id": "ords-news-en",
+    "title": "Bango and Ooredoo Group partner on subscription bundling across the Middle East, North Africa and Southeast Asia with the Digital Vending Machine® - lincolnjournal.com",
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMmZDZFczcnAyY2lJV0EzMzk4UWw3NkY4SzhfM052cGRSUlZnZ05hcG9tWjE2ekF2eF8tRUZ5UEdfU1VMZ2R4OW5zbS1ZdTRWcjdaUkR4X0RQYnphcnprZG8tajZ1SWxHTG9uM3ZGQUduNG96dDhzODRZM3ZtMVdFQ2w1bnZURGtNcmpJSERTNGh1MGwwTEpvYU55REp4YnpCOTJtQjFXVU9sMXB3cHZHc2dnUVBjeUVVU2xHT0s1WDNQT2tFZXh4VzBDQXBhQVQxcGd6bVR4U0xOdE9KM3VMdF9ncERJV1RPU19VN25NM0h0Q1FWbERuNWxRR1VmejhUV1Rpbm9pUEtLUVc2QnRFdFJoRlNYb3cxTUlZSDFaNGtIZk5TWVd2TDJsWFRPRG5wZ1E?oc=5",
+    "published": "2026-11-09T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Bango and Ooredoo Group partner on subscription bundling across the Middle East, North Africa and Southeast Asia with the Digital Vending Machine® lincolnjournal.com",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "lincolnjournal.com"
+  },
+  {
+    "id": "0d36df2e01d68a4305fdff8070704813",
+    "feed_id": "ords-news-en",
+    "title": "Bango Announces Partnership With Ooredoo Group To Support Subscription Bundling Across Its Markets Using The Digital Vending Machine - www.marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTHFMRHNHSVJUcW54dmRRN0VWSlE0cXg4ZG5wcUxoZ01tdUxwMTFqbGFMWGY1NXZzakFwYzlOYTc0enNSS0pOZ1A5dHBMTm41eWoyQ0I5SjNrZ2ttQmZjbjZlR0E1bzVFLWNSOFVTM0h5TlZWUHZuTVFLaXRTcmxBMnpETnFESXJSbmVzMFJDVjZuTDVKcS1kbHp6RGRxbTczenlvVzVDcGFmd2RWVm5uQ2h2U3Jvb0tRTWxLWDBhZWhiRzZ4TFM1WTRfb3JWa0xWUmxlYmNIVDFlUnI1SWlFWGVmWTJwYV8y?oc=5",
+    "published": "2026-11-09T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Bango Announces Partnership With Ooredoo Group To Support Subscription Bundling Across Its Markets Using The Digital Vending Machine www.marketscreener.com",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "www.marketscreener.com"
+  },
+  {
+    "id": "9706ed0c936f91fc16d18d73d0db752a",
+    "feed_id": "stc-news-ar",
+    "title": "ارتفاع إيرادات شركات الاتصالات السعودية 3.8% بالربع الثالث إلى 7.4 مليار دولار - العربية",
+    "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOR25rSUhWRFd6TGJUMTBpbi1JWDNTN0xTWFBNUEpJaDg3akFraGpBY1I5bkhHTGRROExfbzR6ZnJRRUxzQk5iOFgzcUVkdURVbVlxNmxKTms1Vng0YTlfYmk3Y2J5U1FwYWJRV005SzZPeERLeDk3d0lXdy1jSU5GLWFTdnotck9TNU1EeGM3WDZ5bzZLNDZUanJxZFFZNFFmM2pIMV9fVjJWTEdoT3pFOVFWcHJMalJ3ZDBMSXhuc2YwcjBPck9LbjVUbUpNTlp4Zk9MUUxjT09CbUs1bmVjQ0JLOG5NNm5yN0kzdjFkbnhJdl85Vk9ZZkpleDkzc29wWEJIMUFQeldKS2xEaVZScTV4RkNtUGx5VW5aZWJyelQ5dVhFaG02UXVjZ19ybnlfNGRaSk1HaXl4MTVqYzhUeWFraDFNeWEzZmJxTmxONV9odmxXR2JZWlB5RkswR2UzcWFpZUR4cDVXaGdIOU4wY2JrYm1hN3dsMGZWUXF5MmtpMjU1dFE0eUFzSG5icHRXdmdwa3ZwSVhEMFVWNGg3YkNtcGh0VFh1Z2lfUWVFTkM1T29idTVlcURZYzRPXzZhaU0zTFRGSWhITGluQW5GNU5mVkVQS2dpRnVXU2M0ZXRJZjkzV0N5Y1lrR3pHbGdoU1BET19EX3pyUE5TdS1BTWhvdlNKaXlLc3pKMzRNR280dEVhV0lvSDBlWTFIX19QOFpLWnhlQ2ZIMF9mdlNBX2QwaGtUVXp5bU55bzY4R3NwemRkd3lDdGRqd24tRzlaWXFUZU92aWRtLUlYVkdn0gHkBEFVX3lxTE94Q0hhbi10YkFvM3o3RUZ4N01EeHF6TkM4SXVxamt5MV85aDV3b0hLMnhMel9qNEhTbWhkVkdrUlRLN2REVTlVMVlNU0pKUFRod3Flem52dDEyeVBNbmZWWWE3SUdIdkFldFVzaHNnai13NzdjQVJyc2hxQjNtN2pDblNmNXIyd1FjT2RuZmNWb0xxcy04Nm9Kc3U1cWgwRko2Z2U1UExON2FRWGRDa25wSlFrSjlEZGNfaUwyUDJvM3pZX3RudGkyb2xlYUM4SEhlSjI2QVpkejAzS1ZLcmdBZkVmb0tMMVFjTFlFa0JDNzN2N1RIMHNYNFVsV096aEZWWE8weHlPQ1MtLTE0SWxWdVd4eVF1Um5GR1l0TjY4cWxKQ2JkcDRUYlhiSU9ZV01GTGZjemJKUHNFeHpFRU1Qc3E5T01VYVBuQ2xINURRYXVld01xdkN3Ym5wbDNXekVqeWxrS2x0d19IOXZEVFhJTDlMZFBFMUI4bFhZY0l2dFdpMVE4bHBpRmhzM2tpamw4LV9xV3NGNFlXeDZwT1VqanBvZUtEX09ER29VLUduQ0lZc1V5VGJOZVh5bTNVQjFoSDJzZTRrdUl1eER6T3RfLWdLakZCUTlheUJJREpWakp",
+    "published": "2026-11-09T05:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "ارتفاع إيرادات شركات الاتصالات السعودية 3.8% بالربع الثالث إلى 7.4 مليار دولار العربية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "العربية"
+  },
+  {
+    "id": "944b0f886f7331f9cb6c548adbd12e04",
+    "feed_id": "stc-news-en",
+    "title": "Saudi Telecom stock faces mixed nine-month earnings picture - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkR1VnJuV1NaQkFYQ1dLWjZ0VUxuMG83dWFzdEYyVEg3XzhMZlJuTGpYaEdNV0R1VjRMZmRQNnRBQUl4djNfajJaYk9OOTdXRy1NeUdYQmJfR0ZFcGkyUDBKUl9GcUZpeER0bUdwd25RVDBuVkVkY01ieHBVQnN5NjVuUXBjc0p5WGVPUWhXUGFUeTRrZXF6UDhEaEpHSkFvR1Q4UXpXMnFrR0x0b09tZnFnRGtnSG5TaGc?oc=5",
+    "published": "2026-11-09T01:38:17+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Saudi Telecom stock faces mixed nine-month earnings picture ad-hoc-news.de",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ad-hoc-news.de"
+  },
+  {
+    "id": "f37c360007fc86952a52e36ba0d3f1c1",
+    "feed_id": "eand-official",
+    "title": "etisalat money and OGold Join Forces",
+    "url": "https://www.eand.com/en/news/09-11-26-etisalat-money-ogold-join-forces.html",
+    "published": "2026-11-09T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "0e6e934d3abf0e1f1278c64db4396352",
+    "feed_id": "ords-news-en",
+    "title": "Bango brings Digital Vending Machine to MENA with Ooredoo pact - TheDesk.net",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1N2RkhtdUswM19ha2JPbnBFOEJuNTdFVkVKMWQ1MllEMHhPY1Q3SG5iY2IzU1RqTkhRTEFNNTF1RWVmV2EyNkxXLXgzNUtkREdTZ1lxWEc3NWh0eERsMHJJS2FSalZYUGtNSnhhSkxJaVhPN2ZOMHhPa1dRa0RBQllWTTRBVV82VnJvQmNTWTFqZnRweWN6Y2pwQWRfd0JTX3c?oc=5",
+    "published": "2026-11-08T18:50:20+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Bango brings Digital Vending Machine to MENA with Ooredoo pact TheDesk.net",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "TheDesk.net"
+  },
+  {
+    "id": "45502445b4217fb9e664798a1f129c6b",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo GCEO highlights role of AI, advanced technologies in driving economic growth at MWC Doha | Gulf Times - Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR25rRzJvNVNoUVJfdGZiSVNYZDZnY2d1U3lMZkRhLXJGVlRYaXAtNUw0Y0kxMjZqSGMtSVRqbDhiTndkWUR5dFFOUWRLejFCeGk0RlduaDJtc2FiemFaQ3duaUpSQ2FSQnByX2lkV3hsNzZIYnN5VHhBMkVibHRQN01ZdWRlZi1TZldyQmg2MnhQdnJ0Vm1SZlk5S0NKWXpsckFsOFBGeHhNUmcwWDdlV0FJLVdzamVyQkd4TzllRVlqVFFZc0djS2dRMnh4d3RpYlZlTkdiUlZKMlJ6YUdB0gHkAUFVX3lxTFBGLVVJYW9KTll4bFdvVTlHY0hXTXZOUk51cmpwNzFiRklwaWJiQkpVUm4zSWtFZG1qTHhlUjJGQlhQRC1JaWFNMWtaTjViQTZDeUpWblVpaFl0Y2pTMXgzN0thdUZuaUJpR0JJT2g5bjRjT3AtUGNZZzFsR0NGSEdscVVXbTJWMVYyNjU3b2hlVHQ0bmZwQnplRUh5NnRMaXVOcVRXaHpWUDVNTXI2bkh0MGREUFZpd25nNzNmczU4dDA2VXBabEJjaDg5bE9IekdxZWRfclNqLUdXdTNobmduNXVYRA?oc=5",
+    "published": "2026-11-08T18:18:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo GCEO highlights role of AI, advanced technologies in driving economic growth at MWC Doha | Gulf Times Gulf Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Gulf Times"
+  },
+  {
+    "id": "5ef7a520aed5099cbefb545d48fd53f7",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo CEO Stresses AI, Quantum Computing and Infrastructure at MWC26 Doha - News and Statistics - IndexBox",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS25iRU1NRWdUNDNOSFJtX25SQ3piTEVBbmYwSzktWHJEM09fa1RXQUJZQmp4QVIzc1UyYnNPdkdwYXFPRXFlZ0pxS2toSjkybmNnd2hVajN0dVdYZUFMbmJUcHNSbEkyYVNvaDBvTUFobEZSd3RyM25BODJ4NEExZHU2TXFOenJzS2V4WkR1ZWJnTTlmaUFENXNFczl6QTdGM0Z6OXlueE1PWXM1ck1TMVp3WDgtRFhfeklEbWhuWngxUUJsOFM1Ng?oc=5",
+    "published": "2026-11-08T17:30:38+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo CEO Stresses AI, Quantum Computing and Infrastructure at MWC26 Doha - News and Statistics IndexBox",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "IndexBox"
+  },
+  {
+    "id": "ce95184706e9c74fde99406015a1105a",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Group brings digital infrastructure to life at MWC Doha - Zawya",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXFPbHJRVjdpcldCc2tqUlBtWFJkNjY5YnJzUEhVNTVuZGJyelBCSHVPVDhlRl81d0JjMkE4bEs4UmtVd0Q5Y1VHd1FoZmtjVFIxb2RXZHlYX2UxSUxIc2txODZwM2dQd2FsRldzRUVhcm45Uk5hWDh4M21vdzBLTEZwbGdfRGx2aDNYaThXUFVESlJKOEJPbGhlV3FBZHBpRlZmMkZ3YkZuXzFNR2w1ZV9VUmwxbUtjUmdUeUpkUTkyWjZ0?oc=5",
+    "published": "2026-11-07T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo Group brings digital infrastructure to life at MWC Doha Zawya",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Zawya"
+  },
+  {
+    "id": "60f870b9a979e93a392d05e9b4fd9f63",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Group brings digital infrastructure to life at MWC Doha | Gulf Times - Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzlYZjdVSXdXUTgzVEZ5Y2RHaHp0VVhoM3BCNzVMWUhNdTNHRXZBOFFIWFQzSkgwaTMwUlBRMUhpdGVoY19kcUlnNzlheEY5YjMwSmdZN2Znbm5BSTlSRjBzZU9yMDh5TktiQ1lqcmRIWndkMmM3Z0tuV1JVaHlEazRGTEIwTkFCY2lMTEsybXluZnhKNGN6MHU4WjZPNV83X3BwMTdXSUJaTlc5a3ZfTtIBtgFBVV95cUxQTzhOOWd0a29MUGk4VHliMHFOMW5MbjBQWGZmUGZjajd0ZWRGN2pIakpFZVpheEx5dXhZWHNPejY1YXozNW9BSVFGV3dQbTh4UWNqYnJXeF9iUFlLQ1loLUdYRjQtQmxyc0tUQWxUZlh1cW10WGp2eThBU09GUTdCM0FzYVpXX1hJWUdEakJZckxHcWxQUklHN01tNG5DVjlxd0l3QmZXQmp1Z1Q2UHpibWwxaFVKUQ?oc=5",
+    "published": "2026-11-06T21:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Ooredoo Group brings digital infrastructure to life at MWC Doha | Gulf Times Gulf Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Gulf Times"
+  },
+  {
+    "id": "1033094a622cb151a5d724f77bcc79e4",
+    "feed_id": "otel-news-en",
+    "title": "ZOI signs five-year deal with Linxa to consolidate wholesale telecom systems - Middle East Online",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTZPdVYxN0Yzb0xxazh4TTVPQXJqak1hWnR4RlRkX09GUzdwZ2F5UUdLZDFvcURmcUU1ZlJmX3ZqOEZyNkdpRG5QaFUycWFQVFJpeFFnUm5VUkZYZ0t4TjFoanlLX2ZRNTNsT1BESmNNRXhUQnNXTTB1NTJySWoxcjBMY2pabWNIQkpfWUJMeHBMMFBJR204QjliQUwweEQzV0ZIOQ?oc=5",
+    "published": "2026-11-06T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "ZOI signs five-year deal with Linxa to consolidate wholesale telecom systems Middle East Online",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Middle East Online"
+  },
+  {
+    "id": "a0cb02fdbc097dc8155efe261e4a8dc2",
     "feed_id": "telegeography",
     "title": "LEO Season & Vertically Integrated Connectivity",
     "url": "https://resources.telegeography.com/leo-season-vertically-integrated-connectivity",
@@ -23,10 +1079,352 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "99ab7c19be657c8c0999c187f70bc190",
+    "id": "e12ebd2936bdfd958db3e70337238b19",
+    "feed_id": "stc-news-ar",
+    "title": "سياحة وترفيه / مجموعة stc تواصل مساهمتها في دعم موسم الرياض 2026 بصفتها الشريك الرسمي المميز - وكالة الأنباء السعودية",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBPNXc5amhheV9sUVF5d05GWEhFV2JENXBDS1FDMWxUb2hON21Qa2Q5ejNkcU5pZkFoSHJLdVFVaVF0bGFNLWc?oc=5",
+    "published": "2026-11-05T12:50:28+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "سياحة وترفيه / مجموعة stc تواصل مساهمتها في دعم موسم الرياض 2026 بصفتها الشريك الرسمي المميز وكالة الأنباء السعودية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "وكالة الأنباء السعودية"
+  },
+  {
+    "id": "28dd62c23eb6527264055ed3ebc63935",
+    "feed_id": "stc-news-en",
+    "title": "Stc continues to support Riyadh Season 2026 as Official Premium Partner for the sixth consecutive year - Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPakQ0YXN4RF9UbkhWalgtV29JRXNyWUxsZmR3R2pzZWYwRmF2WXdLY3BmVDFhMUU1djEyc1NwblR6Ukdqei1FcFN1Q3QyalFjakpnanNUMHZUNlAxbXB2X3FCWDZkdFRrZUlsUU1mUFEwSVAyT1RFZDNrT1hkMXM2WFNSbC1HbVlEU3dyQnNNeWtMWEdua29HSkFaTjRNdzFVcDlqVzBwSlNuZTZ4SUhXMWRQY2YtREN4eGdEMERQZDFyeXV3N2ppQnAyTzRQWlBJQlBwN29mdTJSdzNYNmR0Q01ZcUNHUVRuT3FDVEdRSHVYbjNaSmtj?oc=5",
+    "published": "2026-11-05T10:02:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Stc continues to support Riyadh Season 2026 as Official Premium Partner for the sixth consecutive year Zawya",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Zawya"
+  },
+  {
+    "id": "8568d5aa684e8e1900b26789edd4c250",
+    "feed_id": "stc-news-ar",
+    "title": "مجموعة stc تواصل دعم «موسم الرياض» 2026 بصفتها الشريك الرسمي المميز - صحيفة الرياضية",
+    "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOaVB1dEFud2FYdm10Ri04SFNkQ2Z2Zm53cVV2a3BrWklxRi1QZVYxT29sUUZneWhoT1RxU0VlLVJINFRGNXB6Y0xlbFpjclpfY2lianl1RWp6cGFNdDR0UFgybXBteWpaNmFoWU9ETTFnRmtDRjFDOU1sa2Z1akU3UEhJV1FMV0ZQSFBvSHpFYzJTWVUzaURKRV9MNmRxbFJpX0RPbVlFNlZUamh5X0wwM2t6QkU0OFJqdkhNX1J6UktidHBWTm1CZ0V2RnVSWG1mX1Ricngwdmx6X3pXamxBTzNhcEhGZ0dLeUdEdjJPN2VWSk5kNDdDb3htTEllVVdSWjRycm1IRU1Gc3Vpc0RFZTk4cTNmZXQxblZaR2h3Yzl4d3V6Vko3U2xRTzM0NW1yZkdvejhYd19HcWV2bmM1bTk1UVpibHJrMk14ZUVCSl9FREYzOC1ibUxfWXlPMDI1M1FrRHA0TzY3ZHlDY0h3ZTVVSHVTUnllOWkzM3JCXzRxc3RjZGpfd0FOaE5ZNVloXzZkQmQya2FQLXVOV200U3ZjMFhjU0NJTGRsRWc0MnRWT1NiT2dlb2ViN3RiLUlBLURIMGZZQ1VwM0tGODc1YVJGQWRBWVczRGk4QXBWZ1R5YnJWMXRmX1phX3I?oc=5",
+    "published": "2026-11-05T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "مجموعة stc تواصل دعم «موسم الرياض» 2026 بصفتها الشريك الرسمي المميز صحيفة الرياضية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "صحيفة الرياضية"
+  },
+  {
+    "id": "3dd196813fdc0dd45f178682a2cc5a9e",
+    "feed_id": "stc-news-en",
+    "title": "[Green Carbon Partners with STC Group, Which Exports Up to 2 Million Tons of Rice Annually] Green Carbon Signs MOU for Low-Carbon Rice and Carbon Credit Business - green carbon",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNdHEzOXpwOE8yS2I5alJZX0NmYVc4QkU3bWhUWDBhSWpfWU16Sk9ub2o0X1Q5QjFVbXVVOTNDWVpXYm5CX1pQQUhiUzB3VjRqQmJGaDQ3SHFIV29EYWJxVDhXeTFCOHJJRkhlT1czWUJsOHhucHhlWlVqX2s4dFVnZWNLbE9CeTdEbEJwc3VkbVJUNGdBNXVvVDJjdDN5X0FyYnBCY0NTSW9VNENLZDhtVHp1OGxmbmlKemQ4Rmt3RjBVVEs5YXlVWkJqNnEwOTBoaEQtVjBIeFAweWZCRjc3YU16WjNMMnd6SVdqSTNqN0g4VnBhYmJ0dGdad251bG1PWk00LVp2aTllc0lUTTZiaHZFTnNQOTcy?oc=5",
+    "published": "2026-11-04T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "[Green Carbon Partners with STC Group, Which Exports Up to 2 Million Tons of Rice Annually] Green Carbon Signs MOU for Low-Carbon Rice and Carbon Credit Business green carbon",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "green carbon"
+  },
+  {
+    "id": "66388242af7918296335873140d0bffa",
+    "feed_id": "otel-news-en",
+    "title": "Omantel eyes AI demand for network capacity - Oman Observer",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVA5T1VlSVFIbUZZMnl0V1h6LTlUaFBab0VERnJqYmRzZU9RdkFjRktPN0ZjMDhSWTlaMzFIQnhJTTJ2V08teFpLVGNvNnNENXNDTHB0ZHFKMFNuWk9oUXRoang1WTVDTi00U2FpTFBLaG1aeVBoa2FVa25RR1JORnJZVVFldnhCakpGNmpxM1MzLWNTQ3pCSDMzaTR4a3hTRFVQbGs4QdIBWkFVX3lxTE1EU1QtWTJ2cDhhcjk1NTNOZW5FeUhwLU5GbWhSU1lPQ0c4amFhTE9XeUhKNVJfMXFvUUEtM09iTi1RbXRlUktRUDk2YV94NERvRkN5dWh6Ym9zUQ?oc=5",
+    "published": "2026-11-03T13:24:15+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Omantel eyes AI demand for network capacity Oman Observer",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Oman Observer"
+  },
+  {
+    "id": "f1f0d0c7a21c6e6e0910b8296e6da143",
+    "feed_id": "eand-news-en",
+    "title": "Czech-UAE e& PPF Telecom Group among bidders for Croatian Telemach - IntelliNews",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDdGZW1wU3FQRWFGd1BScDktVU4yVUhqNno2RElOdl8xUjEwX20wUDRLUVVRZWJ0YnZqZzREcDk3YzZNTXktbXlsTzJ5NVpRdU1vU2xzSkdqeXpsME1SWmdPU3RYZ2RLUk9PQ0N5TWtHdnY2VWl5NjdTQzlBeWdzbXVSZ2ZMM050enJOYzdFXzhuSnZxSmtTbWFHVzRBcW9LeklTVXN3dw?oc=5",
+    "published": "2026-11-03T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:49+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Czech-UAE e& PPF Telecom Group among bidders for Croatian Telemach IntelliNews",
+    "kind": "aggregator",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "IntelliNews"
+  },
+  {
+    "id": "4b04f4225ed8afc59cdbdfc9e1c99dae",
+    "feed_id": "otel-news-en",
+    "title": "Omantel Explores Global Telecom Partnerships at GCCM Middle East 2026 - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmJ6MjdhR1FEMHNYTmRObEZHWFRCMlVvT1I0eXgtR3FCMXk5RDhTNGdQU09aeEtMdlZMTUFrU3loaFliS1draGU1a21LTGlmWGkzMmN5djIxQktUZWpjd242WFYxMXQ5NjZsZ0ktSHkzQmRwQS03MDllRDNReXotcXYwbzZndms2bEl6d0lSQTZDXzdRZGJvZWF4bWY?oc=5",
+    "published": "2026-11-03T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel Explores Global Telecom Partnerships at GCCM Middle East 2026 TechAfrica News",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "TechAfrica News"
+  },
+  {
+    "id": "34e22bddb93d097494642b3bc5b44d51",
+    "feed_id": "otel-news-en",
+    "title": "Telecom news: TRAI, Kyivstar, Omantel, Huawei - TelecomLead",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY3RDMTE4RDExNEUwSzZHRTlteVVHdnc4NGIxYWNBc25yRmdoeVZDaEJkY2dzMlJaRGZVYWo5YlgzeUNPa09tLWd0UDRKcWxoWkZBcy1YbkR5MWNzVEJNTVNidTJveDhUaVppWWJzY3BlaXpsQkR3R1dxYjBaS3RvamQzTdIBiwFBVV95cUxNN1luV1JaYXZ0UlRPZkt0cFFDbGEyZng5UkFtZnA0MXdWblRsNVlrbjNhMlhQMFhJTTRMZTRlaWJEc25nV3lSZ0RaN2JWRnRJano1YWZWREV3eF9IWmFEWmRUQUItTUV1RVotbkxHN2dmWG9UYUZ0SVBpNVlROVlMWlBaN0tiTzNYOV9Z?oc=5",
+    "published": "2026-11-03T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Telecom news: TRAI, Kyivstar, Omantel, Huawei TelecomLead",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "TelecomLead"
+  },
+  {
+    "id": "5fdd0403f81787f74c971ec89a11313b",
+    "feed_id": "otel-news-ar",
+    "title": "خلال مؤتمر مشغلي الاتصالات لأعمال الجملة 2026.. عمانتل تعزز مكانة سلطنة عُمان كبوابةً للخليج ومركزاً عالمياً للربط الدولي - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5ZWURVRGJra0h5OTB0bE5kalVQSHBoMkxLVTRmdTNXUmlPZDF6LTZ6WV94TU9jcDc3cmZMT1NzWURMclk?oc=5",
+    "published": "2026-11-03T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "خلال مؤتمر مشغلي الاتصالات لأعمال الجملة 2026.. عمانتل تعزز مكانة سلطنة عُمان كبوابةً للخليج ومركزاً عالمياً للربط الدولي جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "9b1e8397e3db9df80f5843cfe8058736",
+    "feed_id": "stc-news-ar",
+    "title": "عام / أمير المدينة المنورة يستقبل مدير شركة الاتصالات السعودية بالمنطقة - وكالة الأنباء السعودية",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1jNmU5SWNsRDh6dThIQ1U4VU9IbEdONTlWaENlS3AzR19kd1BLUl9lWkZqOXRXQk1FSG9wME1MZDg3YWVaREE?oc=5",
+    "published": "2026-11-02T12:12:40+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "عام / أمير المدينة المنورة يستقبل مدير شركة الاتصالات السعودية بالمنطقة وكالة الأنباء السعودية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "وكالة الأنباء السعودية"
+  },
+  {
+    "id": "d5f9aa3a9557e03e61ce408399394e75",
+    "feed_id": "stc-news-ar",
+    "title": "أمير نجران يطَّلع على تقرير الاستدامة لمجموعة الاتصالات السعودية STC - alraynews.net",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVV2lVUDFmUnpEcUxuRTdHRG5Nd3E1WGVEWDhHVmNtZzA3Rm52dGY1SlljNEFreWNHYlVOdFp3UGgwNWZ5bzhHbw?oc=5",
+    "published": "2026-11-02T10:06:39+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "أمير نجران يطَّلع على تقرير الاستدامة لمجموعة الاتصالات السعودية STC alraynews.net",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "alraynews.net"
+  },
+  {
+    "id": "07a5bd7e9fdf25131d04a7338c0fbb1c",
+    "feed_id": "ords-news-en",
+    "title": "Earnings call transcript: Ooredoo posts mixed Q3 2026 results as revenue edges past forecasts - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRVVJNzl6WFR1Mmd2ajlDWlMzd3VwX1hkYkVISGpicFlEa2ZteGdDUGNZNkdHZ2xoZUJHMDZrdGNGVTI0YnRoaDYwRm1HWS1fZ1NlWjdqNHZIWC1kekd4Z01Rb0kzM2E3UHlnRUVWOHZDVmgwcDZFN3VIM1NHVGFqTTJkTjNCS3dxdmFWWGF1NUFnMXNRZTQ1cEliQTd1aFc1VjhIUFVpMURhUVhaQkxGZjJoSkFsWjViX25PSkFvakNJa3FGcXQxb015SWhUZnBHYjBZVG1FSEFzcnpTLW02cXRR?oc=5",
+    "published": "2026-11-02T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Earnings call transcript: Ooredoo posts mixed Q3 2026 results as revenue edges past forecasts Investing.com",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Investing.com"
+  },
+  {
+    "id": "6c00f09747114265597776b4204151d0",
+    "feed_id": "otel-news-en",
+    "title": "Omantel Signs MoUs with WPS and Huawei to Advance Oman’s AI Capabilities - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRHhFVE5aenBpTk5ueXJhS0RqTnRCbXBJM1RwUzI3TEtibHhtZnRCdDdISDhVTkxBUkpEbDFmeTloRW1HYzFkZDdFQWVUcXJZYUdqQVUzVEJtbWdnWEM5R1hIX0ZQbmgtMjNUQ01GU1hiRVRhX2dZdkZ2RHNLNWhoblBZYzJxTVpqQ21KYWVCUjhDeVZUWkE?oc=5",
+    "published": "2026-11-02T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "Omantel Signs MoUs with WPS and Huawei to Advance Oman’s AI Capabilities TechAfrica News",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "TechAfrica News"
+  },
+  {
+    "id": "3fec1427cbb5e87559411982b973ff65",
+    "feed_id": "stc-news-ar",
+    "title": "أمير نجران يطّلع على تقرير الاستدامة لمجموعة الاتصالات السعودية stc - صحيفة أحوال الإلكترونية",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82X1RSNWZkQTItZUNZM3R3QzFxb09ZclhBcVhtWURlSFF1QVVWSnRzM2lFRWpYTUtBRFNETVMzOTFTQlhWSHZ3?oc=5",
+    "published": "2026-11-02T08:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "أمير نجران يطّلع على تقرير الاستدامة لمجموعة الاتصالات السعودية stc صحيفة أحوال الإلكترونية",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "صحيفة أحوال الإلكترونية"
+  },
+  {
+    "id": "bf7f4df0cc1916e1b14661a3de3c730b",
+    "feed_id": "stc-news-en",
+    "title": "Saudi Telecom Companies' Revenues Rise to $22 Billion in 9 Months - ASHARQ AL-AWSAT English",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjNDd2x4M0xzM3hRMDdiMFdIYmp4NlVPeHU3OWZhcFZyVzltTENRSVhLbVNlU0phTDNiRXI2RlpSakEzX2tKZmtxclI4OHROOEFtSWZiNThvelpMaGZ3dmt2WktlY05kc1ZvYWhFcFlzZkxrNmpIV0NkZVg2RURCSnJRNEsyVkdtMHd5SVhvRTNNZWsyTjh2VHpPSndGYzlHVVVj?oc=5",
+    "published": "2026-11-01T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Saudi Telecom Companies' Revenues Rise to $22 Billion in 9 Months ASHARQ AL-AWSAT English",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ASHARQ AL-AWSAT English"
+  },
+  {
+    "id": "0ac0fceb8f9b1d72859e6cbc1e780ad4",
+    "feed_id": "stc-news-ar",
+    "title": "\"الرياض المالية\": أرباح مجموعة stc موافقة للتوقعات ونوصي بشراء السهم وهذا السعر المستهدف - صحيفة مال",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGFJQmJ5cFdDM0lRSXNmbXpWdFRPMjZTWnloaXhHYUk0MnFJUFdRTjJlVnN4UzZuYkVhYWJTLVg4WWJfdlBjcFB4LVNqRm1UbDJQbXU5TG1jc3VqR2U3cm5LVk1Pd3RTbmx6WUdtaVhZT2VlNHhXMGVLRkZ6Sl93Nk9wWlFaMVpLbEkwSEpGcEpfX19LM3N1ZGNDWFBFbkF3Y2RSMU9uN1pQMUNGX0Jrd0RxREtNOWJZR1ZvY0U1bUtCajdxSnhqc3laSW5BYWpYTmxVV1JGT1B0YTdjaERVZEZobzYydw?oc=5",
+    "published": "2026-11-01T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "\"الرياض المالية\": أرباح مجموعة stc موافقة للتوقعات ونوصي بشراء السهم وهذا السعر المستهدف صحيفة مال",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "صحيفة مال"
+  },
+  {
+    "id": "bf72214f1814c45e35ff74833a1136c7",
+    "feed_id": "otel-news-ar",
+    "title": "السيب يُتوَّج بلقب بطولة عمانتل للبولينج - جريدة عمان",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZeHktM0pjaVAwaDg5V0p5UjlxTlRSTWZZN1FRaEU0Z2swZDF5RFhodmk0V0RxZV9uSXQ2dGF4c19WdHBMTU0yeTM0NXpPTlNmV2fSAVZBVV95cUxQUlBHSkZ0LUhUX3FZR21OR1RwMWpMTmZfTE9DaVpHYWZIYTBYUzJ6STVNRHl0VmFZX2hNV1FIQ19BdnI4QnJMTFVGQ1AwczFKVS1TX0l5dw?oc=5",
+    "published": "2026-11-01T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "السيب يُتوَّج بلقب بطولة عمانتل للبولينج جريدة عمان",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة عمان"
+  },
+  {
+    "id": "526476d18729f87d90c848d6dc2539b3",
+    "feed_id": "otel-news-ar",
+    "title": "مختبرات عمانتل للابتكار تستقبل تسع شركات تقنية ناشئة ضمن الدفعة الثامنة من مسرعة عمانتل - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9fdWNuSzVEdk92OTgzd1pYSFVlU2g0eTNkb0s5SjhselBoRlljc3g4ZkFwWlZhMWY4T2VHNGY3bmViMzg?oc=5",
+    "published": "2026-11-01T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "مختبرات عمانتل للابتكار تستقبل تسع شركات تقنية ناشئة ضمن الدفعة الثامنة من مسرعة عمانتل جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "7e8758b6d0a4a3f3e5acafa0a07e7efa",
+    "feed_id": "otel-news-en",
+    "title": "Al Kharousi tops singles as Seeb lead Omantel bowling standings - Oman Observer",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVRRMmhsTkc5bnBVY1Jqam5PUi0yZm54bGpxMzAyWHpqdjdlS2JZQVR3REJlTzREam4xeXU4WWxRRW05LWVBYUo3T3JuWGxwbGFSV3lkQlBmYXRJcTA1UmIyWWVva1h0dlVnOTNDN1hXRUZuUkJyXzRPdnBzNFBRM29tdEN2SnlOdHhvOFVRRi1DMjVoaS1UcGt4bVdfN2pzdXNWWmFkdXNYZlRwSHlKcmVHQkx4b2FzSXVoWGlPM0lCalJMdkHSAVpBVV95cUxQOHhXbThvb3dFSERLQ2hTN2ZudnRobzFnb0EtcnExX0N1N3hJNDNYYktTOXdhcFMyczhkQndZMklDME9uRGdVSTlZUXRyZFhiaE1QNzQ3bHhsMUE?oc=5",
+    "published": "2026-10-31T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Al Kharousi tops singles as Seeb lead Omantel bowling standings Oman Observer",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Oman Observer"
+  },
+  {
+    "id": "417f41e0e70d91568e5b9b57540e206f",
+    "feed_id": "stc-news-ar",
+    "title": "إيرادات شركات الاتصالات السعودية ترتفع إلى 22 مليار دولار خلال 9 أشهر - الشرق الأوسط",
+    "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxOZFktRThROUF0VDZ2bklaZm5FdVFPVEgwUUZlM1VST1A3ZkxYYTNIU1NUcHJyUkVJTFY0TjVuWkg2Y0NlMXNibndnTVNHa19mNURHX0c3cFNlSVJYRjF1SWtKcnR4T3c3LWl5UklEY0hiMFgxcEYxM2k0NjhYQUNnZGIzejhodHdpekRsNDdpX2RLaHRLYnh3SWF1MEpJSDdnREpDdGJlWjYxSXNCV0d6WHlSelhQYUl1NlIxczBObVkwejVkWDZQS2JzS1VqOGg5R0Fyckp4QUNJZ3hjb0xLVGl3b1NLSzZsTS0zRXJldFZhMFd0ZzVYeFM5YnhabkVWRjd0U3Etbk5ndjJ5YXlTVWVwVmk0VnVLYWNzc05DTjVFc3VUTUR2b3dXcmQxWFpxYnFWT3VmeU1fME5aN1JlSGZMOHdJd2FQRFFQMVlGb3liNWRzc1NNT2tZYkRFLXdjZjZDSC1wbE5ieVBuOHBab3FnelgxTlZJOVN4M1lzTl9DeGhoMEllM0ZiQkdSVm55MWtCZUtjdUR5RkgtQ0MwYW04NjBBWEE0dGZQNENXR2JGekx1NnRDenBUSU5oY1E2MW5zV0ZxdE1KZFB6b3VVeV9QbHc4LS1QdFdORURqS2ZHOVpFYTNQQ2phLTA5ZzYwckExY0ZTSDE5R0lvSWJ0M25uOTUxR2JGdno5WlNlYXBDZE94MzVkOUhtc2RZdWxpcEdISGxWWTBXbnhWNmxuWGtpS1E2YWFYYThmQ0V6b3ZVazVscmJ6QWU4LU4?oc=5",
+    "published": "2026-10-31T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "إيرادات شركات الاتصالات السعودية ترتفع إلى 22 مليار دولار خلال 9 أشهر الشرق الأوسط",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "الشرق الأوسط"
+  },
+  {
+    "id": "9d72b986acb2e764cd7f899d40fa6dcd",
     "feed_id": "telegeography",
     "title": "The Problem With Live-Streaming Content",
     "url": "https://resources.telegeography.com/the-problem-with-live-streaming-content",
@@ -36,10 +1434,12 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "It’s the night of the big game. Thousands of your customers are cozied up on their couches, snacks in hand, and it’s time for kickoff.",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "1282a83c1186348b40ce7bdd4295870b",
+    "id": "7fef0a8d50d54d8065e556eaecb4a680",
     "feed_id": "telegeography",
     "title": "M&A Monthly: October/November 2026",
     "url": "https://resources.telegeography.com/mergers-acquisitions-october-november-2026",
@@ -49,10 +1449,115 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "Welcome back to another edition of M&A Monthly , where TeleGeography's GlobalComms team tracks the deals that keep the world connected. Here's your essential round-up of October’s top telecoms takeovers and big-money buyouts. As October draws to a close, it’s Trick or Treat time for the world’s telecoms titans. Trembling telcos are knocking on regulators’ doors hoping for rubberstamped deals and in-market consolidation, only to be greeted by hard",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "8d4d9cb6f3b7456a249d7a5aa6a43efc",
+    "id": "afb72d553a7cf17f401fb6a883139d3e",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Group revenue rises 4% in Q3 - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGljem5MUVV4UzZycnFad1ZrODk4U2pXdTg5WHdWM2RUUVhTcVROWFRxYVJyYUlXR0IzRGdlMVpoZFFNNDFJRkRGaERaOEdEOU1PWGZRdDVlaFVyM2kzY210ZkRTSUN0TjdPXzdOVGpTWjVpY3Y5OEFFVHJqaGc0RXFNVmc?oc=5",
+    "published": "2026-10-29T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Ooredoo Group revenue rises 4% in Q3 Telecompaper",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Telecompaper"
+  },
+  {
+    "id": "43ae18c99c717736b09bd747c7de2959",
+    "feed_id": "zain-news-ar",
+    "title": "“Ooredoo” و”زين” تطلقان منصة أبراج إقليمية بإتمام الإغلاق الأول للصفقة في قطر والكويت - حقائق اون لاين",
+    "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxPSVhPUXpVOG8wcVB2TC1Kb0tKekRJaXRId01ER1FoXzVrTkQ2Z21yS1poZ01jY2RkS2I1cG9BY0lOM3QwUGFzbVRSdWxiR203VVQzRl9FbG9sNjU2dm9Ja2x6dTJLN1E2bU8wRHRUeXVxamxoZkh5RmN3NTBPMzVBMHV3NjlFT2JJaTF5em1XSHpuVmdYT3M4NXV4YjVYVG5qQmh2bHFxVDI4cDRHTTBtbk5iV3BUeGV2SXh1aHNqeWxGbnR5X1NoRHdvYjByYlRwdFZSLUN3bDZEX2NJMzZvcUI4NWZRZWtDVktUMWxzeEY1ZldWYzh2SDNwalFibjFBUWNzMmo5SnJSVjgwUlZFY2t1SEhiaElXVnFhTEhSV1UtUGNwM21pRW9JejFvQkY5VnVyb2xnbEhMT01ERjdFaEFMSXdlUy1pYnYwNE01SmRCeEhualNTMHBtNW5Bb0k3Ry16a0RXNk5MalowalhfTWZjQ0wxSjRDRTM3c1BwRmxEcWVFck5pOW1FS05ZT3d3eXJHbkpHc0c2V1gxUDRHUGZ3cFIxRkc5dldHMHB1NGNPV21vc3NXTzhYM0dCbFNyVDZvSXNpUWxQdG1UdGcyV1UxaUtVXzNrX2xuRy1aYmVibmhrQU5VWC03S1BSYllrOHBWVThrZ3JyQVZaODBoa2trSmlSZ3hjYmJsRVdMWmZTTk5Dd1d5T1lCenVlU2dHVERPbGF1UXRQcFVlWGs5UWsteC1ROFlkSF9CckMtMnZSeEo5WGF3dHcwRU5YYnd3NGhJcE56UEFXdnZYX1g5c1JGQmNwRElCa0JZTnRPeExGd2FkcW14RHZR?oc=5",
+    "published": "2026-10-28T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "“Ooredoo” و”زين” تطلقان منصة أبراج إقليمية بإتمام الإغلاق الأول للصفقة في قطر والكويت حقائق اون لاين",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "حقائق اون لاين"
+  },
+  {
+    "id": "5cad4ba2389984542622afb4667f7fc4",
+    "feed_id": "stc-news-en",
+    "title": "stc group raises revenue to SAR 60 billion by end of Q3 2026 - jawlah.co",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1OME5MQkNsTTVmUFlGelRGc1hweXF3am5XU2REU1VPc3lkUmQwSVFRZGFaS2o1NG1NRkVteExNUQ?oc=5",
+    "published": "2026-10-28T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "stc group raises revenue to SAR 60 billion by end of Q3 2026 jawlah.co",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "jawlah.co"
+  },
+  {
+    "id": "92c1adda3ff4a78c1040a1cb184f4c90",
+    "feed_id": "stc-news-en",
+    "title": "Saudi Telecom Operator stc To Pay $731M Q3 Dividend After Revenue Growth - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLXJLN2VKV2Q0ZXFIQWZZdXlFdWVfOTk5QUVTaEJQZnBCOWE4b0h2LU9YWEdXRkFBcDJJVnFKRGtOWDQweFI1eWNhTlJ3ZkhiTG5nc1M4Sm1nSEt2eVctcHNoNFVURjZOV3RvWDF6d2NtcEZTVFFDMFdKSGZ6U2Z2Njg4MF9LZkNNSlZKUHYzTHJBdWV6bXNoc3cxSVJCSm9GVUJnUjN4ZERadEozNlVpSy1WWnpnN09tamVjdFJZTFlWU1IzQ1locE9mdFVTOXZwNGw1YVFoRXdkT3UxQUE?oc=5",
+    "published": "2026-10-28T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Saudi Telecom Operator stc To Pay $731M Q3 Dividend After Revenue Growth Forbes Middle East",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Forbes Middle East"
+  },
+  {
+    "id": "d5c83c499ad6d8cf97dfcff9ad9eabbb",
+    "feed_id": "stc-news-en",
+    "title": "stc group’s nine-month operating profit rises 4.1% to SAR 11.3 billion - ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qaXpzU1oxMDNnZ0ZFdzFyWW13NVkxbjZfUE55S1Zfazd0YmdtNUhKTDV6SWhpaXRxRXFhX3VYcEl3NlU1ZXpoUlpXb1doV0thQUlKc3BFTzNDMmZTMHBnTHpHTm5odWZqNnc?oc=5",
+    "published": "2026-10-28T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "stc group’s nine-month operating profit rises 4.1% to SAR 11.3 billion ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي"
+  },
+  {
+    "id": "04a90a123f182c99a178c9a558e0d003",
+    "feed_id": "stc-news-ar",
+    "title": "تعلن شركة الاتصالات السعودية (اس تي سي) عن توزيع أرباح عن الربع الثالث من عام 2026م - معلومات مباشر",
+    "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxQaVJGbDVGM3VWUFNlMzhhb3k1SXRmTDJORnozd0J4dTloRzNWUld1N1M1RVJmMXZ5ZjJra3UwU0N4Y0M5YXRQQnQxWTFqUjJXWmFZVUQ4MUE1QUpIanVRcmw4RjJLSXRnQm9vSjJ6bUU4RDVwRXdhNkQzeEktUGVwRDRxRlZSMVNDYVFoT3FuVnhYSWNLOEYxTWNFaVJzUF9MYzdCY0VzbkV4RmdtS01jLVdnWUVwWi12cDN3RnFSMlhKVDhkV2pxM0ZGVk9jNHFmeHZpZnhodU9CVndhTDRaSzB6UEVXQ0c3SUtRc1I1XzhIYTVKR1hodWtHWEppcm5SSU9iemg5enV0MFlySW1rcGEyckw1WUhjcXg4ZUpCdHN2bklZUml4ejNmZG91cU1QNGJqbC1tY2ZNZEgyeDBmX1d0UUxpV0szZmx3STcybkNuUDZGeWVKOUU0NzhkdHROaEhxNF9jVTVQQTh0N3EyMzNEWHZTU05HV0FqZS1YRVlOak84Ti16ckpJZDB1ZWFTbENoTzJLQkpDQUY0bDVac2pMMk1acGQ0UkhGb0FfY2x3LTctdXc3djktUkNyNEx1ZXhNelBGVUVuUThjZnowZUFnSDZ4aWRPNHNfYmtQcXlwMTd4a0NOSTZXZjFGVnQ3bmRKMGRzN1YwRjVJZXI4ZkwzM0g3Y0ZCVi0xWXd5ZW9qT0tSdktCZ0QwTW11VGhOd2NjQklnbVh6YnN4YTdXcFhubloxTjhaaGdMRWxWUE16czJYSnUzLWR0U3QycHZfY3N1U0IxRTZQclk?oc=5",
+    "published": "2026-10-28T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "تعلن شركة الاتصالات السعودية (اس تي سي) عن توزيع أرباح عن الربع الثالث من عام 2026م معلومات مباشر",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "معلومات مباشر"
+  },
+  {
+    "id": "b45639d64b4007333a5126c7f3646817",
     "feed_id": "telegeography",
     "title": "Data Centers 101: Technical Terms You Should Know",
     "url": "https://resources.telegeography.com/data-centers-101-technical-terms-you-should-know",
@@ -62,10 +1567,200 @@
     "category": "Infrastructure",
     "impact": "Review",
     "summary": "From cross connects to PUE, the data center industry is packed with technical jargon. This post breaks down key terms related to data centers—technical terms relating to how data centers work and operator and market classification terms. Whether you're new to the field or just need a refresher, this glossary can help.",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "2e18be1ce8479537a24620f572588eb0",
+    "id": "0c6cbef19f7cd2b59153b471489f464b",
+    "feed_id": "reviewed-official",
+    "title": "ORDS — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.ooredoo.com/wp-content/uploads/2026/10/ORDS_Earnings-Release_9M-2026_EN_FINAL.pdf",
+    "published": "2026-10-28T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "ORDS",
+    "company_ids": [
+      "ORDS"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "ORDS · Official results"
+  },
+  {
+    "id": "801997dcb2b1e579d88ac64af92de689",
+    "feed_id": "otel-news-ar",
+    "title": "عمانتل تدعم إنشاء مبنى عيادات جراحة العظام بمستشفى خولة بـ 280 ألف ريال - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1CUFo3VHBtQ2JndXlaeDVHczc5VTlfMk5KVWgtMC13RmJQVmRndm1zQTlvYzdva1ZESWZYMjA4VkpFSUU?oc=5",
+    "published": "2026-10-27T10:55:05+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "عمانتل تدعم إنشاء مبنى عيادات جراحة العظام بمستشفى خولة بـ 280 ألف ريال جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "b9d9f4ffe8b97a83ee4b26e0d68e9a60",
+    "feed_id": "otel-news-ar",
+    "title": "مستشفى خولة يوقّع اتفاقية مع “عمانتل” لإنشاء عيادة جديدة للعظام والكسور - شؤون وطنية",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1FVGI3ZFhUdmR2MjJ1NWpINFNCWmQ5YU1Od0MzSDJZcUtxY0YwYUxnSDl4N3JZd1h0bXE3M2xFRkY?oc=5",
+    "published": "2026-10-27T08:45:06+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "مستشفى خولة يوقّع اتفاقية مع “عمانتل” لإنشاء عيادة جديدة للعظام والكسور شؤون وطنية",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "شؤون وطنية"
+  },
+  {
+    "id": "5623c5ad9da873073bbaf7dcf75791ea",
+    "feed_id": "otel-news-ar",
+    "title": "اتفاقية بين \"مستشفى خولة\" و\"عمانتل\" لإنشاء عيادة جديدة للعظام والكسور - Shabiba",
+    "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOZkl1NWRUSElYLXFCZFVWeDlKZ19BZHFpZXVRSTljcDI5SkNZSEFTQ0FxZ0VhdWpHcmx2S1ZUbTEyX1cxOTlVeXJoMGw5S09yU2syNzd4OGRkSmJYUy1EY2ZkU0RFd3pYSzBLX09fUXNjYXhVTDVjNGRQazRqVUdiYUMxdmh1ZUd1bFNEaURQa3RMc19KV0M4M1JXeGp3MkgyUVpCVFpVd2lFRjVWZ21zTHJsclNXZlJWemU4bDlnQmVkUVBqX3BsWmxRQVpmU2Q3OGRnelJYdG5Rb3ZsRl82M0tnT2JzdGV6dzlCUm5lOGpnNDYyNXhQamlYVXo0WllHRmZybUp5YnIwVmVDNXJOWU00cmhhdnJXNVQ3dktzdVhIY2o0RVhWZTRTbWtEeUhvU3g0OXlyV3hmSWhqeVprMzA3Mk9kWl9OVlZqeUdlNWlKSHFVb182T0U2YTJwakRPUXhlZHE0enFabnBWYVA1RTJhazJ1N01ib0F0c0cxTktfODg3NE4waWNZaEVRWlYtUWlTcnJ5dXFGQTQxU2h5TUk1TldjQXktOVVHaWJSX2dENmlFeExIMGhmX0U1dGRqblNQeG8wQkRpT0hael9zaEx1Wk5WejJZVTZzVVV4YjhibDk5c2lQVnVNMGhCQkNCcy1DeFFHWnZTYUZaeW85ejZQYW5acVZKUklBcnFXdw?oc=5",
+    "published": "2026-10-27T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "اتفاقية بين \"مستشفى خولة\" و\"عمانتل\" لإنشاء عيادة جديدة للعظام والكسور Shabiba",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Shabiba"
+  },
+  {
+    "id": "d2306319b14471cdf080c8edcb49b65a",
+    "feed_id": "reviewed-official",
+    "title": "EAND — 9M 2026 results / نتائج الأشهر التسعة 2026",
+    "url": "https://www.eand.com/en/news/27-10-26-etisalat-record-9m-2026-performance.html",
+    "published": "2026-10-27T00:00:00+00:00",
+    "discovered": "2026-11-17T00:00:00+00:00",
+    "company_id": "EAND",
+    "company_ids": [
+      "EAND"
+    ],
+    "category": "Earnings",
+    "summary": "",
+    "kind": "official",
+    "publisher": "EAND · Official results"
+  },
+  {
+    "id": "3f965a9845d671d0a6a0348017142350",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo Group Revenue Rises 6% to KWD 608 Million in Nine Months - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU29UdXBsMTR0YjhNNHU4NWhYelkzMmZyaTdQd0d6STBFZ3lXQW10bG1KclBFQ211Q0VVOHRubnNiZEFaOTdWczNYVDZfYUtQZENydUViZTlqSVhQcjZkQ2wwR09jT2tTRXAwZVl6SjNoOThCWTJVc19LdE5HeVR0Vlg4SEJKWjFLOWM2SG1nTE9oQkh3NkpiZEVTa0FrRkpqZUJhSw?oc=5",
+    "published": "2026-10-26T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "Ooredoo Group Revenue Rises 6% to KWD 608 Million in Nine Months TechAfrica News",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "TechAfrica News"
+  },
+  {
+    "id": "d7c7d6bbb309f961e679f58b3ab9d5e5",
+    "feed_id": "zain-news-en",
+    "title": "Zain Play makes spectacular Riyadh debut with twelve sold-out shows - Kuwait Times",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMnI2aGctMkRkbHZOR0lxXzl1dHA5eHBxajBGaVdZRHp4NnhrY05LejNGTmc1RENsNE9XTy1FeTVZX1V0eTNQblg0SzlvVU9PdW5FamoyV1UyVnhsLUk1Z2xSN2RDMmZCUnhTU2U4R3czeVZmQnBOUjUzdFRvTFE2ektmc04zREVsWERER1Y0OGx0WFZNWmtuYURwWVZwU3Q1Q1I3WWp3MXVOaWF6Sy04b1VGY9IBtwFBVV95cUxPQll1R2xGb0paNnVVVGZPLXBnbFdDQk9PQ0g0cWU3ek1rdEMybFNWSzM0bHBrdno0akNKRWRMOVRvbmUwdXJGenZyMU1pc3pBVHhiaW9lck85Ykl2NnZGTWItbVVleGdUOHdJQ1JMMWRrckN3d1lNOFRhcHdTUmRLR3VJcy1aUHJHUjJsZ3hOOW95dkdFeV9IZzRYaWJ4Z2plZFg1dmtjU1kwcUZrdGZNTzZEZ2pOUEk?oc=5",
+    "published": "2026-10-24T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Zain Play makes spectacular Riyadh debut with twelve sold-out shows Kuwait Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Kuwait Times"
+  },
+  {
+    "id": "787ccaa0865550aebc21b3dd91139a4b",
+    "feed_id": "zain-news-ar",
+    "title": "«أميرة قلبي زين» تأسر القلوب في الرياض - جريدة الجريدة الكويتية",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJdDRocUNuckZIOE05b3o1M0NxNFMxejBhMmVsbThGendhcjNpVy1MMXZiaHh0NFota0FDc3U2dG4xS0hkTTFYYy1fVG9zUEFu0gFWQVVfeXFMUEpLdUNkYW8zaGtXTlVCdWJaRDBEVURzUUpMQjItYjRNZ2JLYzJxR3FteE5TcEs5RHFxSE51Zmk5NFFjVTlIemc4TUpWYU1jZzNXX1VYWXc?oc=5",
+    "published": "2026-10-24T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "«أميرة قلبي زين» تأسر القلوب في الرياض جريدة الجريدة الكويتية",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "جريدة الجريدة الكويتية"
+  },
+  {
+    "id": "6aee093bdab7f29b94eaec1c1967733d",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo-Zain deal brings 4,000 telecom towers under one regional platform - SatellitePro ME",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU00wb3o0Y1prVjE5SEc0eVRvRjlibXg4MTJNUXNqSnpSNldOY3N6ZUxiSWc2Q2tXMnZQU0kxRGlJQ1VGaVlIRWwtOGdROFpvaHc0UVRMeTFMU0xwUGVDcmJFWHZXNHhQakU1UFpuaGl2a1lRT0ZBaVZaWDRDRks0N1ZPQ09tREVjQV9Scmd6UkdKS1pKMDM5QUNqT0pMaGlGSDI4QTAyZWw?oc=5",
+    "published": "2026-10-23T08:13:41+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo-Zain deal brings 4,000 telecom towers under one regional platform SatellitePro ME",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "SatellitePro ME"
+  },
+  {
+    "id": "4a10e4e999a8cb105e50fbe41be668f0",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo and Zain Launch 4,000-Tower Regional Platform - Telco Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0NoOVZRVVEyRzNTb2tfRTVHbFRNWDQxaWJBb3FmWXRCSDFnS1FQalc1OWxsQ1V5RFEyRkh0UFo2cGtZYlh4OXB4WGdTc2k1RWVYcGNWdWNlWDhoY2xvVVZyM3BONFJiU2JWLUdsYXJUYU5FeTlKSjl3TEdKV2ZvU3NzSlg4RGlUZ0RF?oc=5",
+    "published": "2026-10-23T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo and Zain Launch 4,000-Tower Regional Platform Telco Magazine",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Telco Magazine"
+  },
+  {
+    "id": "5572fdc742d70b862d484b41fe878a7e",
+    "feed_id": "ords-news-en",
+    "title": "Zain, Ooredoo combine 4,000 towers in Qatar and Kuwait - Mobile Europe",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xdEdDaGNvWkFBd3hzTVVSZHU4elBwQ1EtdEV4clF0eVB0a0w5VGhvMGsxeGlOZ2dQdXBKcGx6bWNFcFFBNWUtdUotRDNtWldmTENpVFdLT29NZHpuVzVVaA?oc=5",
+    "published": "2026-10-23T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Zain, Ooredoo combine 4,000 towers in Qatar and Kuwait Mobile Europe",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Mobile Europe"
+  },
+  {
+    "id": "ec8d444e47c5a65445bc0959d3891e04",
     "feed_id": "telegeography",
     "title": "Disaster Recovery & Networks in Space",
     "url": "https://resources.telegeography.com/disaster-recovery-networks-in-space",
@@ -75,10 +1770,377 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "6bfb5c11c601ed95892883527dd22695",
+    "id": "b13704685d35130b7a0d5692a74a612a",
+    "feed_id": "ords-news-en",
+    "title": "Zain, Ooredoo launch first phase of Middle Eastern tower JV - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc01fTmt0dEl1T2tISFhSeWxZVXB4UFdHbnIzRXMyV1RBeWRlTVkydV9mTENyRlFmb0x2eDFFLVpUZnkxaVdkaXVPbWpIVlAzWE5FSl9aLWRaWjhObU9LQWlZOWluRXk4QVRlUnZydm03ZngyRXY3XzA2akVNSzZIYkZWZWVQTWtVbUxrWGlqTnpiMS1WWVNHNnhpWWFyR080TDY4WQ?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Zain, Ooredoo launch first phase of Middle Eastern tower JV Data Center Dynamics",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Data Center Dynamics"
+  },
+  {
+    "id": "523511b412f4904fdd7c7a307bc43411",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo, Zain Launch Regional Tower Platform in Qatar and Kuwait - The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa21CRzFEVEpKWVdZeTByRHk4dVZGU0UzZTZXblg1NzRESEJGRFlqWkR4b2FJSklFNWdLdVBwV1hQcjhkdldKT09mMHpPQVZ4cmhtMnBqN2U0b0tOdEZwcFVKQVFMNXUyWEZFRng5NlFWdzFRS0RIRGpqNmNaQ1MycVBpRTNEb3FZUW1hQXlPdmZucTlpRmtBUm0xZVJhZzAxa0NjMnZVSUZnZTJkMTZkY3BhMlFMR3ZHcnc?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo, Zain Launch Regional Tower Platform in Qatar and Kuwait The Fast Mode",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "The Fast Mode"
+  },
+  {
+    "id": "b3b1e493ef78322e862bcd8d99fa62f9",
+    "feed_id": "ords-news-en",
+    "title": "Zain and Ooredoo combine telecom tower assets - Arabian Gulf Business Insight | AGBI",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlNwRTl0V1lwSm5xMElJN2o5RTZsaFJmSVhJdFB0ZDA3MkV1bjkwSkdyeWFtVFUwdVY2SXlvNFZoNVZ3TGVWMmxVbnZWR3ZOUXhoWXEzU0dNU2V5UzMxVkU3akNmal9GQlFGa21tQzNmNHNSVTZETVFEWEx1QXVQX1Q3MVdjZkE1SWQ5SA?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Zain and Ooredoo combine telecom tower assets Arabian Gulf Business Insight | AGBI",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Arabian Gulf Business Insight | AGBI"
+  },
+  {
+    "id": "66e3d2393f436ff0255a7f17fd32c5dc",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo and Zain launch tower platform in the Middle East - W.Media",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NQkhZMEV4bXdEQ1NId3laaVItOFBzQjV6MDZvOGRXNmR1Z1FMUmt2LXZXNy1RSVJmT1JXNkNOajhpNWJGUUl4TEZOZ2JOajlOZElwa0oxcXctX2wxcUkxcjNMQmJvTmJnUGhMenpwUkZrdnFCeF9kRFBWQ09qcUE?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo and Zain launch tower platform in the Middle East W.Media",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "W.Media"
+  },
+  {
+    "id": "bd1d75dca15719279d2f0b8d290ceb3c",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo and Zain launch regional tower platform with first closing in Qatar and Kuwait - Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmpXNDRZZEZtTXlBSWhrU2Etb1JmV2praUFKWU91WkxyYW1QOVJwM2p2b1ZPWlJLQzFXODhCRDFyRXBSMXlTeGItVFlMY0dQekdfaGF5ZXZNajJGOGdndTF3S09KV2d0UE5mc3N4WlZscFk3Ni12TGd0XzlZS05XVmgxeTFpSmNWclhzOXhYSGtTbUZycDh2MlVIb2VoZEFkM2pINklmc0ZiSV9FZzMxc19aTUFJZjZYS2xQdXE0ZU5KVV9ZWmYzVzA5MkVYN3VzR1YzblowSDd6d296NktHdF93?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo and Zain launch regional tower platform with first closing in Qatar and Kuwait Zawya",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Zawya"
+  },
+  {
+    "id": "0761cce474f81a317bc1ab8bd9e36425",
+    "feed_id": "ords-news-en",
+    "title": "Zain and Ooredoo Combine 4,000 Telecom Towers in Kuwait and Qatar Under 50:50 Joint Venture - TelecomLead",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSTlHS0V3eE9MTWoyRkp3Z180OUNRVm11TTVGOGdyWWIwRjNwanU3TmNZTkV4N2owLUZPNkZva3RjY0pjQkhWT0cwRC1mV0RlbHBpQnpEazRQdDh0UzFxeFVLQnM1S3FtVjI5NVJINzFtM2JNMThNaUktYUE1UTc5VE1oY0RDcFliZW9NeDJ6SGNxV3ZDTUZNWTlBWmQ2dXowcmdVOWw0WURlMTItMUxwRlBiNjJydUN3NXpoNU10eHl0NVRPZ2gyTjQwVm5abG9TX3JLMtIB3AFBVV95cUxNU1NDY05faktwcGJpY2l5ZVdQeVJkWFZTd2lGbE9jdVI2U0Y5M2xyaWt0SWgyLUFfQm1Yc0h4QmwxVDJOV081QTRFSEJ2ekE3UG9SN3NVZjEza21pcWUyRUgzZl9XWG1fOHNncjY0MG5Sc2lmZzV2NTZrSHV1eXNpVmVCblBULV95V1F2cWRySGJxNm9HQkoxdlBFMkVubW1NNmE2SnQzWFdDOU9YX2VYUnpzSGJTSHpISHpsRnZSSXBIc0FZbGRWdkhBZWowQVJPYXVXVkp4RkZONEQ0?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Zain and Ooredoo Combine 4,000 Telecom Towers in Kuwait and Qatar Under 50:50 Joint Venture TelecomLead",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "TelecomLead"
+  },
+  {
+    "id": "af2ec9c673d0dd96ad7ae5128f590526",
+    "feed_id": "zain-news-en",
+    "title": "Ooredoo and Zain launch regional tower platform with first closing | Gulf Times - Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjVDamE2eThuSC1BZkhXN1k2MFh1TUlKQVpTMUVfcEJkWFJhTklGRldJM1l3SDRyajhPaFNwczFLUlcxNFM2bnJlbnY3MVN2MlhrVE8yOWhFcjJfNWkzakJ4c3g0d052Yk8zenZCeUk0NE5kYXBEX2p0MWk3akFRYUI0ektjdnNGaW10aXpIdU9USUNHY09ZQmJFUGt1WGpwVERVX0RvZTNGZWZybUFCUEJHWHXSAboBQVVfeXFMTXZkZHJvNlVMTHJGU2p3cGN1UHZBY1BsQXdSLUpWTjN1R0k0THdnYjE5bGVZZUh0WDZlb3BCQ2VfRjNlTDBvTndQOUhpMWpTMUdhRkprNmtGOGhQckV3QWpyczVrR2JIbEhqRk1aV3RxRDdTc1hqMXBOSElKUFhfR3EyaEY1bU05NklvMERjSW1aZmx3WTRncklTSkRUUGctUnJrOHU3T0RqWmJralZDOFk1Y0s2MGhyYUpR?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo and Zain launch regional tower platform with first closing | Gulf Times Gulf Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Gulf Times"
+  },
+  {
+    "id": "1acfb733381d219a7b7a6c2786149c3f",
+    "feed_id": "zain-news-en",
+    "title": "Zain and Ooredoo launch regional tower platform with first closing in Qatar, Kuwait - Kuwait Times",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnZYTVBjcF9XZjJ5aFVXaUdJdWhveVAtSjNWY3FtSnZyQldrUk44OFlyRjZ6R2RoSklUZUNiRU1xb2IyaDZFMUZkY29mVXI0QmdyTVFadUZsSWlPT2tlYzJTZzVsRlFHQktqbDVuMnBoWUR2OEpON2RqRjEybmp3LVVpZ1N4MmFtOEtGeWh2aV8zcVc0UlN5ODlLZVJoM0NYV3FTNHlaQTBhQkM2cHNFcUdSSlJFNTRPSU12YVBmSXpXZVZtRm1CeWV30gHOAUFVX3lxTE9EZFFDUndmVk5CQ3Bua0JwZEt2LVJkNGNIeXRta1pDVXotVVFEUTZoYXVrUWwtOEJVbVdjUkJXTDhDb1lCYllhVGpoRU5TbTFoUEZQNHFzNVBLaW9UWHVfR1RkcFFBb012QV83OUxidmpKdHBtU3IwNGw0S1RtLXFqUW9rUUtBbWh4VVVxRjhFZDNvQThwUzRUZDV3MENSNGFOd0dNbHhMU09VallvMldVRXFJRXJJSng5Q0N0OXgxOC0temNRRTJkV2p0aHhR?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Zain and Ooredoo launch regional tower platform with first closing in Qatar, Kuwait Kuwait Times",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN",
+      "ORDS"
+    ],
+    "publisher": "Kuwait Times"
+  },
+  {
+    "id": "fc36c44341e97adfd6bfb07316fbf2b8",
+    "feed_id": "otel-news-ar",
+    "title": "عمانتل تخرج 35 مدير أول ضمن برنامج يربط تطوير المهارات القيادية بالتحديات الفعلية في قطاع الاتصالات - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90c2lNbDJJVDBmbXFVblRuSVl5a3UwNlZvWklTMTZzTUJ3V25tOG5NbjQ5SWJVOHNCVUpXLVNBd3p0a1E?oc=5",
+    "published": "2026-10-22T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "عمانتل تخرج 35 مدير أول ضمن برنامج يربط تطوير المهارات القيادية بالتحديات الفعلية في قطاع الاتصالات جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "8e0af4933bb4eabbd412f9863af03c09",
+    "feed_id": "eand-official",
+    "title": "etisalat money partners with Visa",
+    "url": "https://www.eand.com/en/news/22-10-26-etisalat-money-visa-partnership.html",
+    "published": "2026-10-22T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "e86d0d4e8cfab49788f52d8a87ba5ced",
+    "feed_id": "zain-news-ar",
+    "title": "زين وأريدُ تطلقان منصة إقليمية للأبراج تضم 4 آلاف برج اتصالات - Forbes Middle East",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZng5Vktpa3B5NUdMSzIwRmhZUGxNRlBJbTcxUVJWaUlibzBnN0VlUFBYTS1IOUpycVZKbl9XaWY2Mm9tMmRVUVZib2tqUTYwRnU4RFBmMWdiNkJXSWF6S0hrN0hnMmQtdzFYNHVtVDN1VE5sempDbVQxVW5UbW5JVHkwbUcxczZkQjFESG1Na0E4Qi00NDZWQzlxNktra3ZlTkxUSDhNTWh1dm9kbU9zdXRjeVgwZGMyZUJFV0RzWlptQ2VIc1hnZWNqMVJyd090U1R4YmRB?oc=5",
+    "published": "2026-10-21T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ZAIN",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "زين وأريدُ تطلقان منصة إقليمية للأبراج تضم 4 آلاف برج اتصالات Forbes Middle East",
+    "kind": "aggregator",
+    "company_ids": [
+      "ZAIN"
+    ],
+    "publisher": "Forbes Middle East"
+  },
+  {
+    "id": "fdf97935ce0b20581ce5b6a73f2f59d6",
+    "feed_id": "otel-news-en",
+    "title": "Omantel invests in its leaders to navigate the transformation of the telecommunications sector - Zawya",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2xqUDJ6clZJN0FheUNPOWN4ejhlNEl4dFFKZlVCZTY0eUJscmYzTGVUQ1BZTV9HVFVTLU0yU3pISzByc1hYX3RZYjdkYmlfdmxPQ2VhX3NRSWFkOGg5cXNKZWJ6cmNqMEhMWGE3R21jWkNab0pJRHlBZEdnRmh2aHRhdGhfd3VKRElRQkFsbG1Eby1taWlkQ1NrYTdocEI2bU9xNUkyenVra2NfRTA1NTlVMTU2SDl0WGl5NnE4bF9wV19FMl9vcG04MTA4RFhoSjQyWktpcnlWUy1BSUdQVVhZODRTZ1c0LUZnTg?oc=5",
+    "published": "2026-10-21T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel invests in its leaders to navigate the transformation of the telecommunications sector Zawya",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Zawya"
+  },
+  {
+    "id": "b6419b78e9a98c0bff1348fe85cedc13",
+    "feed_id": "eand-official",
+    "title": "Burjeel Holdings and etisalat collaboration",
+    "url": "https://www.eand.com/en/news/21-10-26-burjeel-etisalat-collaboration.html",
+    "published": "2026-10-21T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "72aec2cd278aec2d3b2b375f7e47a964",
+    "feed_id": "ords-news-en",
+    "title": "Ooredoo, iQ Networks partner on Iraq-Europe fibre route - Mobile Europe",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZjZaOXdkUFhYSkNSOUZSQU5fSjBlcGJqMWJzSUhTN0tVY05CamxrVGpJZC1CTXA5S3I1WW01MG1rMzNjaGtTSWJrb216d0dUVnkzYjVadDRTNkRiMjhoNnZ4eVI5QQ?oc=5",
+    "published": "2026-10-20T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:41+00:00",
+    "company_id": "ORDS",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "Ooredoo, iQ Networks partner on Iraq-Europe fibre route Mobile Europe",
+    "kind": "aggregator",
+    "company_ids": [
+      "ORDS"
+    ],
+    "publisher": "Mobile Europe"
+  },
+  {
+    "id": "8939c0af84fca0ca324474409aca9d98",
+    "feed_id": "stc-news-en",
+    "title": "Saudi Telecom stock: 18 analysts put Saudi Telecom stock at SAR 48.11 - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzhVeEU4eVllRXBzd00zMUNJMEZiR2F6cmZrMGhiQzJKX2IyTHdRWlRnWFJKVmFub183blpobUVnaThHclhLazRVczhnZG1sTmlWOXdmU3pPdS1GazlUaWgyVlRDSnZYNWRaYkx3Z2FELXY4NTZTQUZ3S2JTek11Z1FsVDFIY21lLWdYRHVjbERhRVZsU296RGxaUHhwX1RwTURoUDVpZGVDZ3ZsQnJhby1jU08xa3VOWTlUWlY3WUNFYURUWkhPaWFtRQ?oc=5",
+    "published": "2026-10-20T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Saudi Telecom stock: 18 analysts put Saudi Telecom stock at SAR 48.11 ad-hoc-news.de",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "ad-hoc-news.de"
+  },
+  {
+    "id": "1ba70ee60df331cf57dce9207c50ed2b",
+    "feed_id": "otel-news-en",
+    "title": "Omantel launches R&D initiative to advance tech development in Oman - Muscat Daily",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0pMY3F6US1odi1QX0xGMXZUQ2l1STlLMVp4eVpiMUdnWmxvUkxEbmRTWGlTVlVYNXV4bUtfVVdOM3I5eXJ1RVhjX2MwYXNOZ3o5SGNCV2QxY09pSWZ6UVJCWi11LS1vZGtBOUllcjUxQ0dWVmlLbFpra2gtVTJ5MFJBMWdEb1ZHNGVtUmU2Z2ItS0tqY0RpSjNjOVIxMjFSLXc1NlBVd254dw?oc=5",
+    "published": "2026-10-20T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "Omantel launches R&D initiative to advance tech development in Oman Muscat Daily",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "Muscat Daily"
+  },
+  {
+    "id": "7e1141b8af0bf2aef6a46bb0ebd0b85b",
+    "feed_id": "otel-news-ar",
+    "title": "عمانتل تطلق مبادرة للبحث والتطوير بالتعاون مع مؤسسات أكاديمية محلية وعالمية لتعزيز التطور التقني في عمان - جريدة وجهات",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04THNkVk1UMVFVYW1xcnJVS3JSUms4WFZVM0lXOFQ3dmU5RG52U3VEQmw4VklzTUtyTHMtS29zcU9wX1k?oc=5",
+    "published": "2026-10-20T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:54+00:00",
+    "company_id": "OTEL",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "عمانتل تطلق مبادرة للبحث والتطوير بالتعاون مع مؤسسات أكاديمية محلية وعالمية لتعزيز التطور التقني في عمان جريدة وجهات",
+    "kind": "aggregator",
+    "company_ids": [
+      "OTEL"
+    ],
+    "publisher": "جريدة وجهات"
+  },
+  {
+    "id": "cea9ea95e180179180c853333cc837ac",
+    "feed_id": "stc-news-en",
+    "title": "stc Group Outlines AI-Native Core Network Strategy Targeting 2030 Transformation - Konsulteer",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczZic2gwVndZdkxBU3lBSENxTlBESzduRXpnME1hSk1NVnN4Ykt3ZTBfWHo4MEtKcG9QeENuMHowaGJtQ3RGTUc5SjZmdjUwQ2F6M2dKSUY2RGx4ZDhtZDVNY3ZaemFWVnAxaTcxTllPQVdhd2d2M3d6Yk9rNzJSZVUtdThRbW1mOHM3RWktcHE3SmwzVFZySVZDX0phTXN1Y3dacGtpS0tFTEx5Z0xvWVZxS2FnQQ?oc=5",
+    "published": "2026-10-19T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "stc Group Outlines AI-Native Core Network Strategy Targeting 2030 Transformation Konsulteer",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Konsulteer"
+  },
+  {
+    "id": "0ee7942dc07e1646ab8b902380e87be0",
+    "feed_id": "stc-news-en",
+    "title": "NTT DOCOMO BUSINESS and stc Group Launch Compliant IoT Connectivity for Komatsu Equipment in Saudi Arabia - Machine Maker",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHBUMExlM2dTSWVzU2wtMGdtbkNrWHFveXd6aVhMZU9iQWZWR1d6dEhfZjdSWU9EeWxZNnRhblVjem04c1hJMjVYb1U1Mi1sQXAzcHB5aFJOQkJsZzRSUGV2aDNnd1FpeTBkRmd5WVJ0djJtZnF2dTI3Q2VITmRESTkwTmJxUldQenJDaW9nYV82bHZfby1BY0dnQTVTbnFqQ25kZGYtcUU3QXlENE8zdGZCRl9YTWY2WVAyX2xWM29udGlNVHZSZ1FIMXhLUWJZMTgyNTVn?oc=5",
+    "published": "2026-10-19T07:00:00+00:00",
+    "discovered": "2026-11-17T16:56:48+00:00",
+    "company_id": "STC",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "NTT DOCOMO BUSINESS and stc Group Launch Compliant IoT Connectivity for Komatsu Equipment in Saudi Arabia Machine Maker",
+    "kind": "aggregator",
+    "company_ids": [
+      "STC"
+    ],
+    "publisher": "Machine Maker"
+  },
+  {
+    "id": "44e7152596f1d013d82a2be72bbb0ac8",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE achieves international certification for AI management",
+    "url": "https://www.eand.com/en/news/19-10-26-etisalat-uae-ai-certification.html",
+    "published": "2026-10-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "0eebf3bd702597a319008d59ce9a9a93",
+    "feed_id": "eand-official",
+    "title": "Cyber Security Council and etisalat UAE collaboration",
+    "url": "https://www.eand.com/en/news/15-10-26-cyber-security-etisalat-collaboration.html",
+    "published": "2026-10-15T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "e3e527207b0678c598b929a86907f9bc",
     "feed_id": "telegeography",
     "title": "What To Know About Submarine Cable Breaks",
     "url": "https://resources.telegeography.com/what-to-know-about-submarine-cable-breaks",
@@ -88,10 +2150,12 @@
     "category": "Infrastructure",
     "impact": "Review",
     "summary": "Submarine cables are the backbone of global connectivity, so when a cable breaks, it can be a big deal. Other times, thanks to network redundancy, end users might not even notice a cable is down. This post covers everything you need to know about subsea cable breaks: what causes them, how to prevent them, and what is required to maintain the world's submarine cables.",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "99b272f50b7cfb64ccf62523a0f5b8cd",
+    "id": "7ea80f0ba0dc2395508cb3cd9c8129b3",
     "feed_id": "telegeography",
     "title": "Get Ready With Us for ITW Asia",
     "url": "https://resources.telegeography.com/itw-asia",
@@ -101,10 +2165,12 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "It's almost time for ITW Asia, and our team is gearing up. We've been reviewing the agenda, taking a closer look at the attendee list, and gathering research related to what everyone will be talking about in Singapore. We've put together this quick guide to help you get ready for the conference, featuring relevant analysis from our telecom experts.",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "416b96ee9f702e4dcaef935c138c1983",
+    "id": "12a1cb4cd09c4c15b5d3dfe63cb77e2b",
     "feed_id": "telegeography",
     "title": "Where Are All the Internet Exchanges?",
     "url": "https://resources.telegeography.com/where-are-all-the-internet-exchanges",
@@ -114,10 +2180,12 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "You're probably familiar with our submarine cable and cloud infrastructure maps—but our internet exchange map just might be our most underrated interactive map because it depicts the convergence of networks around the world. Internet exchanges (also known as IXs or IXPs) are physical locations where networks come together to connect and exchange traffic with each other. And there are a lot of them across the globe. This post is a brief introducti",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
   },
   {
-    "id": "9dd686571c64764ae7e6c08d8e491fcb",
+    "id": "3dec1aa276a532e31c43dbc2425dbe46",
     "feed_id": "telegeography",
     "title": "DIA Pricing in Asia and Oceania",
     "url": "https://resources.telegeography.com/dia-pricing-in-asia-and-oceania",
@@ -127,6 +2195,1234 @@
     "category": "Industry News",
     "impact": "Review",
     "summary": "We've been discussing how DIA is on the rise and is playing an increasingly significant role in enterprise networks . WAN managers reported that an average 53.88% of their sites were connected with DIA—the most common option among respondents in our WAN Manager Survey .",
-    "kind": "industry"
+    "kind": "industry",
+    "company_ids": [],
+    "publisher": ""
+  },
+  {
+    "id": "668a9a4ea5afff984949e85b78539e27",
+    "feed_id": "eand-official",
+    "title": "etisalat launches project to expand digital infrastructure",
+    "url": "https://www.eand.com/en/news/05-10-2026-etisalat-launches-project-to-expand-digital-infrastructure.html",
+    "published": "2026-10-05T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "5d80b5ad433c21fbcad5e06a940d1461",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE launches secure website hosting service",
+    "url": "https://www.eand.com/en/news/25-09-26-eand-launches-secure-website-hosting-service.html",
+    "published": "2026-09-25T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "e5e04df94bc773df1281b3f5104ab6d2",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE to offer iPhone 18 Pro and iPhone 18 Pro Max",
+    "url": "https://www.eand.com/en/news/21-09-26-eand-to-offer-iphone18-pro-iphone18-pro-max.html",
+    "published": "2026-09-21T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "863c1ee1ae1cff156e12b5ffdea362e3",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE and Accenture launch AI Transformation Alliance",
+    "url": "https://www.eand.com/en/news/15-09-26-eand-and-accenture-launch-ai-transformation.html",
+    "published": "2026-09-15T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "688d88e1c460fbf5b083255e7caf85e1",
+    "feed_id": "eand-official",
+    "title": "etisalat UAE and Ankabut agreement",
+    "url": "https://www.eand.com/en/news/09-09-26-eand-and-ankabut-agreement.html",
+    "published": "2026-09-09T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "11891ca448627c65fa6cc84df4170c5d",
+    "feed_id": "eand-official",
+    "title": "Smiles and Flyby partnership",
+    "url": "https://www.eand.com/en/news/07-sep-26-smiles-and-flyby-partnership.html",
+    "published": "2026-09-07T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "2bee75e6ba69d92496f61780b8b45882",
+    "feed_id": "eand-official",
+    "title": "e& launches its first AI-powered enterprise laptop in the UAE",
+    "url": "https://www.eand.com/en/news/27-08-26-eand-ai-enterprise-laptop-uae.html",
+    "published": "2026-08-27T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "c8cb8c47077429a7bf732b6d99fc752d",
+    "feed_id": "eand-official",
+    "title": "e& UAE launches Business Pro AI bundled with Microsoft Copilot",
+    "url": "https://www.eand.com/en/news/24-08-26-eand-business-pro-ai-copilot.html",
+    "published": "2026-08-24T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "a40aecf25b6941dc77dd360153c4e2c3",
+    "feed_id": "eand-official",
+    "title": "e& is embedding Agentic AI into its core business connectivity",
+    "url": "https://www.eand.com/en/news/17-08-26-eand-agentic-ai-core-connectivity.html",
+    "published": "2026-08-17T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "5be9a9618506f285c81bf03c96c8beee",
+    "feed_id": "eand-official",
+    "title": "e& UAE leads industry transition to 5G-native IoT",
+    "url": "https://www.eand.com/en/news/13-08-26-eand-transition-5g-native-iot.html",
+    "published": "2026-08-13T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "999a7206d5311c0ef41b1ee6f48dca35",
+    "feed_id": "eand-official",
+    "title": "e& launches NetSecure360",
+    "url": "https://www.eand.com/en/news/10-08-26-eand-launches-netsecure360.html",
+    "published": "2026-08-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "36546cc6ce851396ca23fd209e92f5ce",
+    "feed_id": "eand-official",
+    "title": "Samsung's most complete foldable",
+    "url": "https://www.eand.com/en/news/07-08-26-samsung-most-complete-foldable.html",
+    "published": "2026-08-07T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "3e9bf9cd2f1c1abc18d7b6557ae71534",
+    "feed_id": "eand-official",
+    "title": "e& reports 11.6% increase in consolidated revenue",
+    "url": "https://www.eand.com/en/news/30-07-26-eand-reports-11-6-increase-revenue.html",
+    "published": "2026-07-30T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "1fb6b8522bdcbc7a232c0ab7123a2994",
+    "feed_id": "eand-official",
+    "title": "e& UAE and Khalifa University publish study",
+    "url": "https://www.eand.com/en/news/29-07-26-eand-khalifa-university-study.html",
+    "published": "2026-07-29T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "bd96874db6cf1d0c04ea438530fc27cd",
+    "feed_id": "eand-official",
+    "title": "Globe partners with e& to strengthen international voice services",
+    "url": "https://www.eand.com/en/news/28-07-26-globe-eand-international-voice.html",
+    "published": "2026-07-28T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "efef6d56e37d4a757a5299271856f1ff",
+    "feed_id": "eand-official",
+    "title": "e& UAE activates the highest 5.5G modulation",
+    "url": "https://www.eand.com/en/news/24-07-26-eand-uae-highest-5-5g-modulation.html",
+    "published": "2026-07-24T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "8c245e425aff64a1a350663aa5589b06",
+    "feed_id": "eand-official",
+    "title": "e& UAE and Core42 partner to deliver sovereign AI infrastructure",
+    "url": "https://www.eand.com/en/news/20-07-26-eand-uae-core42-sovereign-ai-infrastructure.html",
+    "published": "2026-07-20T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "403032536b812421c6c4a1835ce10adc",
+    "feed_id": "eand-official",
+    "title": "e& Successfully Completes Sale of Vodafone Stake",
+    "url": "https://www.eand.com/en/news/17-07-26-eand-completes-sale-Vodafone-stake.html",
+    "published": "2026-07-17T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "M&A",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND",
+      "VOD"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "ce352b710078148c2e6e4d1dc699c2a5",
+    "feed_id": "eand-official",
+    "title": "e& marks World Youth Skills Day 2026",
+    "url": "https://www.eand.com/en/news/16-07-26-eand-world-youth-skills-day.html",
+    "published": "2026-07-16T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "58ab37096c302b451e96eb1fb6b5429e",
+    "feed_id": "eand-official",
+    "title": "e& Announces USD 5.95 Billion Sale of Vodafone Investment",
+    "url": "https://www.eand.com/en/news/10-07-26-eand-vodafone-investment-sale.html",
+    "published": "2026-07-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND",
+      "VOD"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "3fee641ceb620e3036f2b706630ed71b",
+    "feed_id": "eand-official",
+    "title": "e& Carrier & Wholesale Services and Lenovo Connect partnership",
+    "url": "https://www.eand.com/en/news/03-07-26-eand-wholesale-lenovo-partnership.html",
+    "published": "2026-07-03T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "19d2e6f58386b3719c6d878ddae7151e",
+    "feed_id": "eand-official",
+    "title": "e& and Aldar partner to bring exclusive home internet offers",
+    "url": "https://www.eand.com/en/news/29-06-26-aldar-partner-home-internet-offers.html",
+    "published": "2026-06-29T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "32f14105608b3317f431c96093f5bdb9",
+    "feed_id": "eand-official",
+    "title": "e& partners with ExitLag to enhance gaming experiences",
+    "url": "https://www.eand.com/en/news/25-06-26-eand-exitlag-gaming-experience.html",
+    "published": "2026-06-25T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "463434411bbfb1dce53bfb1e693d7f09",
+    "feed_id": "eand-official",
+    "title": "e& unveils OneWork for secure sovereign collaboration in the UAE",
+    "url": "https://www.eand.com/en/news/24-06-26-eand-unveils-onework-for-secure-sovereign-collaboration-in-the-uae.html",
+    "published": "2026-06-24T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "fa6763a26befd8a974ef02a71ed38c30",
+    "feed_id": "eand-official",
+    "title": "e& brings 5.5G connectivity to world’s tallest hotel",
+    "url": "https://www.eand.com/en/news/23-06-26-eand-5-5g-connectivity-to-world-tallest-hotel.html",
+    "published": "2026-06-23T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "65f14f3c23d93b4559c23e9202cac2cb",
+    "feed_id": "eand-official",
+    "title": "e& and TM Forum announce strategic blueprint",
+    "url": "https://www.eand.com/en/news/22-06-26-eand-tm-strategic-blueprint.html",
+    "published": "2026-06-22T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "1d44800aa62a34469e142b0ec617015f",
+    "feed_id": "eand-official",
+    "title": "e& launches CTRL + BLOCK movement",
+    "url": "https://www.eand.com/en/news/19-06-26-eand-launches-ctrl-block-movement.html",
+    "published": "2026-06-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "8d314c52d6c517a9b5136c04c02943da",
+    "feed_id": "eand-official",
+    "title": "e& secures global leadership",
+    "url": "https://www.eand.com/en/news/18-06-26-eand-secures-global-leadership.html",
+    "published": "2026-06-18T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "faad9090684c976886c9e44b55239425",
+    "feed_id": "eand-official",
+    "title": "e&, Cyber Security Council and Open Innovation AI collaborate",
+    "url": "https://www.eand.com/en/news/21-may-26-eand-cybersecurity-and-openai-collaboration.html",
+    "published": "2026-05-21T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "d9f5eca81f2decf43cad12c7d0ea78b7",
+    "feed_id": "eand-official",
+    "title": "e& launches exclusive package to keep pilgrims connected",
+    "url": "https://www.eand.com/en/news/19-may-26-exclusive-package-to-keep-pilgrims-connected.html",
+    "published": "2026-05-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "ea2aa43b71e95da4a4189262c33802ae",
+    "feed_id": "eand-official",
+    "title": "e& UAE redefines home connectivity with Fibre+",
+    "url": "https://www.eand.com/en/news/13-may-26-home-connectivity-with-fibre.html",
+    "published": "2026-05-13T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "6bd5659425d518e0b81f97a1bf68d755",
+    "feed_id": "eand-official",
+    "title": "e& money supports UAE businesses and employees",
+    "url": "https://www.eand.com/en/news/12-may-26-eandmoney-support-business-and-employees.html",
+    "published": "2026-05-12T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "b885ac751a1c95057f1c1585be69f829",
+    "feed_id": "eand-official",
+    "title": "e& reports AED 19.4 billion consolidated revenue",
+    "url": "https://www.eand.com/en/news/28-04-26-eand-financial-results-q1-2026.html",
+    "published": "2026-04-28T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "2928a72f01e63451396006610289fc01",
+    "feed_id": "eand-official",
+    "title": "e& money launch gold buy/sell offering in UAE",
+    "url": "https://www.eand.com/en/news/13-april-26-eand-money-launch-gold-buy.html",
+    "published": "2026-04-13T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "fa39b92b80e48b3c0c859f79d7356cff",
+    "feed_id": "eand-official",
+    "title": "e& and TM Forum launch white paper",
+    "url": "https://www.eand.com/en/news/02-april-26-eand-tm-forum-launch-white-paper.html",
+    "published": "2026-04-02T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "592ee448307f14e84456892e28d5a860",
+    "feed_id": "eand-official",
+    "title": "e& and Khalifa University launch white paper",
+    "url": "https://www.eand.com/en/news/16-mar-26-eand-khalifa-uni-launch-white-paper.html",
+    "published": "2026-03-16T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "42a9e0cdf296b8c9e814298a307efe69",
+    "feed_id": "eand-official",
+    "title": "e& delivers record revenue and net profit in FY 2025",
+    "url": "https://www.eand.com/en/news/24-feb-26-eand-delivers-record-revenue-and-net-profit-in-FY-2025.html",
+    "published": "2026-02-24T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Earnings",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "c7a1532d6f621da080c2560f1210ba67",
+    "feed_id": "eand-official",
+    "title": "e& money opens a new era in financial access",
+    "url": "https://www.eand.com/en/news/11-feb-2026-eand-money-opens-a-new-era-in-financial-access.html",
+    "published": "2026-02-24T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "0e46a9164bcbce577c2088a4b7e77467",
+    "feed_id": "eand-official",
+    "title": "e& and Aster Pharmacy team up to launch Pharmacy in a Box",
+    "url": "https://www.eand.com/en/news/19-feb-26-eand-asterpharmacy-lunch-pharmacy-in-a-box.html",
+    "published": "2026-02-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "0e943d0a54d9594765bc68c8a79c5f75",
+    "feed_id": "eand-official",
+    "title": "e& partners with Samsung to launch All-In TV",
+    "url": "https://www.eand.com/en/news/18-feb-26-eand-partners-with-samsung-all-in-tv.html",
+    "published": "2026-02-18T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "79b1bf414f578dfbc2406b5b6c33b4cc",
+    "feed_id": "eand-official",
+    "title": "e& Carrier & Wholesale expands Fujairah SmartHub",
+    "url": "https://www.eand.com/en/news/16-feb-26-eand-c-and-w-expands-fujairah-smarthub.html",
+    "published": "2026-02-16T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "3bc6d3c0b362f83372078250e42400af",
+    "feed_id": "eand-official",
+    "title": "e& C&W Services and SES deliver 1.25 Gbps low-latency satellite",
+    "url": "https://www.eand.com/en/news/10-feb-26-eand-cw-services-and-ses.html",
+    "published": "2026-02-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "b8b4c539fdcc21a267e673f6a211890b",
+    "feed_id": "eand-official",
+    "title": "e& C&W Services and SES deliver 1.25 Gbps low-latency satellite",
+    "url": "https://www.eand.com/en/news/10-feb-26-eand-c-and-w-ses-deliver-low-latency-satellite.html",
+    "published": "2026-02-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "0d4d461238ac3f61010a1e4e9c17b95a",
+    "feed_id": "eand-official",
+    "title": "e& Carrier & Wholesale activates 2Africa submarine cable",
+    "url": "https://www.eand.com/en/news/9-feb-2026-eand-carrier-wholesale-activates-2africa-submarine-cable.html",
+    "published": "2026-02-09T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "28bf41f05ac4b91aad56fcc2354ebb72",
+    "feed_id": "eand-official",
+    "title": "e& and MEVCA Announce Three-Year Strategic Partnership",
+    "url": "https://www.eand.com/en/news/4-feb-2026-eand-and-mecva-announce-three-year-strategic-partnership.html",
+    "published": "2026-02-04T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "929531147bd8bf290726254154f71258",
+    "feed_id": "eand-official",
+    "title": "e& launches Addictech to spark conversation on digital wellbeing",
+    "url": "https://www.eand.com/en/news/29-jan-26-eand-aunches-addictech-to-spark-conversation-on-digital-wellbeing.html",
+    "published": "2026-01-29T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "9da00ab95c6e1971bcf7839aea317996",
+    "feed_id": "eand-official",
+    "title": "e& achieves Running on ODA accreditation from TM Forum",
+    "url": "https://www.eand.com/en/news/26-jan-26-eand-achieves-running-on-oda-accreditation-from-tm-forum.html",
+    "published": "2026-01-26T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "64c206b76244c341c6d6898cb4f2ee2e",
+    "feed_id": "eand-official",
+    "title": "e& enterprise and Emergence Partnership",
+    "url": "https://www.eand.com/en/news/22-jan-2026-eand-enterprise-and-emergence-partnership.html",
+    "published": "2026-01-22T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "d6c498892156998d6fb766c3bdf2b296",
+    "feed_id": "eand-official",
+    "title": "e& and IBM unveil enterprise-grade agentic AI",
+    "url": "https://www.eand.com/en/news/19-jan-26-eand-and-ibm-unveil-enterprise-grade-agentic-ai.html",
+    "published": "2026-01-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "cc226637f1dc32e93e67963b4f64860e",
+    "feed_id": "eand-official",
+    "title": "e& enterprise and Sergas team up",
+    "url": "https://www.eand.com/en/news/13-jan-26-eand-enterprise-and-sergas-team-up.html",
+    "published": "2026-01-13T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "66e431ad03863968816c74a23993bae1",
+    "feed_id": "eand-official",
+    "title": "Freedom Telecom International and e& Sign Strategic MoU",
+    "url": "https://www.eand.com/en/news/8-1-2026-freedom-telecom-international-and-eand-sign-strategic-mou.html",
+    "published": "2026-01-08T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "8d36122b8dc2ee205a74d7f3da78ca8b",
+    "feed_id": "eand-official",
+    "title": "e& and Al Rayan Investments join forces",
+    "url": "https://www.eand.com/en/news/5-jan-2026-eand-and-ai-rayan-investments-join-forces.html",
+    "published": "2026-01-05T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "84bde7768553051ba75da0b4ea4b6047",
+    "feed_id": "eand-official",
+    "title": "e& and ZTT complete region’s first hollow-core fibre field trial",
+    "url": "https://www.eand.com/en/news/29-dec-26-eand-and-ztt-complete-regions-first-hollow-core-fibre-field-trial.html",
+    "published": "2025-12-29T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "c5717dd6607fa10768169b38e234ed26",
+    "feed_id": "eand-official",
+    "title": "e& boosts EMIX backbone to 400G",
+    "url": "https://www.eand.com/en/news/23-dec-25-eand-boosts--emix--backbone-to-400g-in-collaboration-with-cisco.html",
+    "published": "2025-12-23T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "f8f166a6467971ab7f3b616e75a2b469",
+    "feed_id": "eand-official",
+    "title": "e& accelerates its 5.5G evolution with 4-carrier aggregation",
+    "url": "https://www.eand.com/en/news/24-dec-2025-eand-accelerates--its-5-5g-evolution-with-4-carrier-aggregation.html",
+    "published": "2025-12-23T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "dea6346f4ce02d0e7c87541e56eba92f",
+    "feed_id": "eand-official",
+    "title": "O2 Slovakia signs an agreement to acquire 100%",
+    "url": "https://www.eand.com/en/news/18-dec-25-o2-slovakia-signs-an-agreement-to-acquire-100-percent-of-upc-slovakia.html",
+    "published": "2025-12-18T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "9741d146dfb2bd0221055ca6e2927979",
+    "feed_id": "eand-official",
+    "title": "e& launches a smart keyboard",
+    "url": "https://www.eand.com/en/news/11-dec-2025-eand-launches-a-smart-keyboard.html",
+    "published": "2025-12-11T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "01b662a86849cb5e4f01d9fd5ef90651",
+    "feed_id": "eand-official",
+    "title": "Crypto.com Partners with e& money to Advance UAE Crypto Ecosystem",
+    "url": "https://www.eand.com/en/news/11-dec-25-crypto-com-partners-with-eand-money-to-advance-uae-crypto-ecosystem.html",
+    "published": "2025-12-11T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "8f78c9cd9ba2911479ac07858259f9e1",
+    "feed_id": "eand-official",
+    "title": "e& UAE to consider enabling Stablecoin Payments",
+    "url": "https://www.eand.com/en/news/10-dec-25-eand-uae-to-consider-enabling-stablecoin-payments-through-ae-coin.html",
+    "published": "2025-12-10T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "38593fd75f92a05561e0c8be68680f0b",
+    "feed_id": "eand-official",
+    "title": "e& powers Burj Khalifa with 5.5G",
+    "url": "https://www.eand.com/en/news/4-dec-2025-eand-powers-burj-khalifa-with-5-5g.html",
+    "published": "2025-12-04T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Infrastructure",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "4a4189e11f8a811f7f0290c04c027b92",
+    "feed_id": "eand-official",
+    "title": "e& completes the world's first IP+DWDM 800GE solution trial",
+    "url": "https://www.eand.com/en/news/25-nov-25-eand-completes-the-world-s-first-ip-dwdm-800ge-solution-trial.html",
+    "published": "2025-11-25T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "a4c5862f3919e7218c00084a2c02e90d",
+    "feed_id": "eand-official",
+    "title": "e& and Motorola Mobility join forces to drive tech innovation",
+    "url": "https://www.eand.com/en/news/19-nov-25-eand-and-motorola-mobility-join-forces-to-drive-tech-innovation.html",
+    "published": "2025-11-19T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "6291f049a7063e3332f8c61804106efd",
+    "feed_id": "eand-official",
+    "title": "e& enterprise partners with Cygnet.One",
+    "url": "https://www.eand.com/en/news/17-nov-25-end-enterprise-partners-with-cygnet-one.html",
+    "published": "2025-11-17T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "4e399e9a503ea6ab741b634bfa745933",
+    "feed_id": "eand-official",
+    "title": "e& Carrier & Wholesale Services expands global footprint",
+    "url": "https://www.eand.com/en/news/13-oct-2025-eand-carrier-wholesale-services-expands-global-footprint.html",
+    "published": "2025-11-13T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "085ab2171a920833f56d841951730f7a",
+    "feed_id": "eand-official",
+    "title": "UAE Sovereign Launchpad is now live",
+    "url": "https://www.eand.com/en/news/3-nov-25-uae-sovereign-launchpad-offered-by-eand-and-powered-by-aws-is-now-live.html",
+    "published": "2025-11-03T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "ff048d86702187a94ba1c0e293e90c76",
+    "feed_id": "eand-official",
+    "title": "e& joins forces with KredosAi",
+    "url": "https://www.eand.com/en/news/31-oct-2025-eand-joins-forces-with-kredoai-for-personalised-customer-engagement.html",
+    "published": "2025-10-31T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "21462a812370d152ea22c4c98f6538ad",
+    "feed_id": "eand-official",
+    "title": "e& continues strong growth in Q3 2025",
+    "url": "https://www.eand.com/en/news/29-oct-2025-financial-results-q3.html",
+    "published": "2025-10-28T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "54915176b18c9f9470c4ad9aac97342b",
+    "feed_id": "eand-official",
+    "title": "e& enterprise to redefine CX excellence",
+    "url": "https://www.eand.com/en/news/27-oct-25-eand-enterprise-to-redefine-CX-excellence.html",
+    "published": "2025-10-25T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "d8f4a408298b53589d4d375e00fb5d2c",
+    "feed_id": "eand-official",
+    "title": "e& accelerates digital transformation with Google Apigee Hybrid Adoption",
+    "url": "https://www.eand.com/en/news/23-oct-25-eand-accelerates-digital-transformation-with-google-apigee-hybrid-adoption.html",
+    "published": "2025-10-23T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "8a09a1dd97649ca0cf35184e26b135e4",
+    "feed_id": "eand-official",
+    "title": "e& launches ‘Imagine&’ a GenAI image creator",
+    "url": "https://www.eand.com/en/news/17-oct-25-eand-launches-imagineand-agenai-image-creator.html",
+    "published": "2025-10-17T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Industry News",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "eec3e56485d4240864b2e04d8c7a50dc",
+    "feed_id": "eand-official",
+    "title": "e& unveils a human-centred AI vision",
+    "url": "https://www.eand.com/en/news/17-oct-25-eand-unveils-a-human-centred-aI-vision-shaping-the-customer-experience.html",
+    "published": "2025-10-17T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
+  },
+  {
+    "id": "3467e2a6baa39a882a161a7f485bef4d",
+    "feed_id": "eand-official",
+    "title": "e& money will become UAE’s first PayPal-linked digital wallet",
+    "url": "https://www.eand.com/en/news/15-oct-25-eand-money-will-become-uaes-first-paypal-linked-digital-wallet.html",
+    "published": "2025-10-15T00:00:00+00:00",
+    "discovered": "2026-11-17T17:04:03+00:00",
+    "company_id": "EAND",
+    "category": "Strategy & AI",
+    "impact": "Review",
+    "summary": "",
+    "kind": "official",
+    "company_ids": [
+      "EAND"
+    ],
+    "publisher": "e& / etisalat · Official newsroom"
   }
 ]
