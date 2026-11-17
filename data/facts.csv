@@ -1,11 +1,30 @@
-﻿company_id,period,metric,value,unit,precision,growth_yoy,source_id
-ZAIN,9M 2026,revenue,1800,KWD million,rounded,4,zain-2026
-ZAIN,9M 2026,ebitda,587,KWD million,,4,zain-2026
-ZAIN,9M 2026,net_income,304,KWD million,,59,zain-2026
-ZAIN,9M 2026,ebitda_margin,34,percent,reported,,zain-2026
-ZAIN,9M 2026,customers,53,million,,3,zain-2026
-ZAIN,9M 2026,capex_revenue,9,percent,reported,,zain-2026
-ZAIN,Q3 2026,revenue,615,KWD million,,2,zain-2026
-ZAIN,Q3 2026,ebitda,209,KWD million,,1,zain-2026
-ZAIN,Q3 2026,net_income,84,KWD million,,30,zain-2026
-ZAIN,Q3 2026,ebitda_margin,34,percent,reported,,zain-2026
+﻿company_id,scope,period,metric,value,previous_value,previous_period,comparison_basis,unit,precision,growth_yoy,growth_basis,source_id
+ZAIN,consolidated,9M 2026,revenue,1800,,,,KWD million,rounded,4,reported,zain-2026
+ZAIN,consolidated,9M 2026,ebitda,587,,,,KWD million,,4,reported,zain-2026
+ZAIN,consolidated,9M 2026,net_income,304,,,,KWD million,,59,reported,zain-2026
+ZAIN,consolidated,9M 2026,ebitda_margin,34,,,,percent,reported,,reported,zain-2026
+ZAIN,consolidated,9M 2026,customers,53,,,,million,,3,reported,zain-2026
+ZAIN,consolidated,9M 2026,capex_revenue,9,,,,percent,reported,,reported,zain-2026
+ZAIN,consolidated,Q3 2026,revenue,615,,,,KWD million,,2,reported,zain-2026
+ZAIN,consolidated,Q3 2026,ebitda,209,,,,KWD million,,1,reported,zain-2026
+ZAIN,consolidated,Q3 2026,net_income,84,,,,KWD million,,30,reported,zain-2026
+ZAIN,consolidated,Q3 2026,ebitda_margin,34,,,,percent,reported,,reported,zain-2026
+OTEL,consolidated,9M 2026,revenue,2579.806,2520.471,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,2.35,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,9M 2026,net_income,406.389,260.476,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,56.02,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,9M 2026,attributable_profit,84.749,55.697,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,52.16,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,9M 2026,non_controlling_profit,321.64,204.779,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,57.07,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,Q3 2026,revenue,874.05,906.256,Q3 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,-3.55,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,Q3 2026,net_income,113.628,91.719,Q3 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,23.89,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,Q3 2026,attributable_profit,26.205,19.09,Q3 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,37.27,calculated from sourced values,omantel-q3-2026
+OTEL,consolidated,H1 2026,revenue,1705.756,1614.215,H1 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,5.67,calculated from sourced values,omantel-h1-2026
+OTEL,consolidated,H1 2026,net_income,292.76,168.757,H1 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,73.48,calculated from sourced values,omantel-h1-2026
+OTEL,consolidated,H1 2026,attributable_profit,58.544,36.607,H1 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,59.93,calculated from sourced values,omantel-h1-2026
+OTEL,consolidated,9M 2026,ebitda,854.1,835.5,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported in preliminary disclosure,2.2,reported,omantel-prelim-2026
+OTEL,consolidated,9M 2026,ebitda_margin,33.11,33.15,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,percent,reported in preliminary disclosure,,not applicable,omantel-prelim-2026
+OTEL,excluding_zain,9M 2026,revenue,535.19,493.22,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported in preliminary disclosure; normalized profit includes final dividend adjustment,8.5,reported,omantel-prelim-2026
+OTEL,excluding_zain,9M 2026,ebitda,124.11,127.83,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported in preliminary disclosure; normalized profit includes final dividend adjustment,-2.9,reported,omantel-prelim-2026
+OTEL,excluding_zain,9M 2026,ebitda_margin,23,26,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,percent,reported in preliminary disclosure; normalized profit includes final dividend adjustment,,not applicable,omantel-prelim-2026
+OTEL,excluding_zain,9M 2026,normalized_profit,56.947,50.216,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported in preliminary disclosure; normalized profit includes final dividend adjustment,13.3,reported,omantel-prelim-2026
+OTEL,excluding_zain,9M 2026,normalized_attributable_profit,57.09,49.71,9M 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported in preliminary disclosure; normalized profit includes final dividend adjustment,14.8,reported,omantel-prelim-2026
+OTEL,consolidated,H1 2026,non_controlling_profit,234.216,132.15,H1 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,77.23,calculated from sourced values,omantel-h1-2026
+OTEL,consolidated,Q3 2026,non_controlling_profit,87.423,72.629,Q3 2025,2025 comparative as presented in the source; IAS 29 restated where applicable,OMR million,reported; OMR thousands converted to millions,20.37,calculated from sourced values,omantel-q3-2026

@@ -67,3 +67,21 @@ published consolidated groups; eliminations and adjustments are required.
 Live exchange prices, automatic financial-statement extraction, cross-company
 normalized comparisons, AI-generated analysis, account login, native mobile
 apps, and push/email alerts are not implemented.
+
+### Omantel research and reporting scopes
+
+The Arabic/English interface now includes direct `#omantel`, `#reports` and
+`#comparisons` routes. Omantel has separate consolidated and excluding-Zain
+views, prior-period figures, Q3/H1/9M period selection where sourced, and CSV
+exports that retain reporting scope and source provenance.
+
+Omantel consolidated figures use the financial statements approved 12 November
+2026 and published on MSX; the 11 November preliminary disclosure supplies 9M
+EBITDA, reported margins and the excluding-Zain scope. The latter is not derived
+by subtracting Zain from consolidated results. Its normalized profits, including
+the final dividend adjustment, are distinct metrics rather than reported profit.
+The comparison retains OMR and KWD and charts growth/margins only, because the
+scopes overlap and their absolute amounts cannot be combined.
+
+Financial snapshots are reviewed manually. The existing GitHub Actions schedule
+continues to refresh public news approximately twice an hour.

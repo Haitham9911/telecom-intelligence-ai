@@ -35,7 +35,7 @@ def build(refresh=True):
         (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     seed=json.loads((DATA/'seed.json').read_text(encoding='utf-8'))
     with (DATA/'facts.csv').open('w',encoding='utf-8-sig',newline='') as fh:
-        writer=csv.DictWriter(fh,fieldnames=['company_id','period','metric','value','unit','precision','growth_yoy','source_id']);writer.writeheader();writer.writerows(seed['facts'])
+        writer=csv.DictWriter(fh,fieldnames=['company_id','scope','period','metric','value','previous_value','previous_period','comparison_basis','unit','precision','growth_yoy','growth_basis','source_id']);writer.writeheader();writer.writerows(seed['facts'])
     if SITE.exists():shutil.rmtree(SITE)
     (SITE/'data').mkdir(parents=True)
     for name in ('seed.json','live-news.json','feed-health.json','live-status.json','facts.csv'):
@@ -44,7 +44,7 @@ def build(refresh=True):
     if 'const IS_STATIC=false;' not in html:
         raise ValueError('Static build marker is missing')
     html=html.replace('const IS_STATIC=false;', 'const IS_STATIC=true;', 1)
-    for name in ('styles.css', 'app.js', 'icon.svg'):
+    for name in ('styles.css', 'app.js', 'research.js', 'icon.svg'):
         shutil.copy2(R/name, SITE/name)
     (SITE/'index.html').write_text(html,encoding='utf-8')
     (SITE/'.nojekyll').write_text('',encoding='utf-8')

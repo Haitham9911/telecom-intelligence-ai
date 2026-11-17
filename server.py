@@ -43,17 +43,18 @@ class Handler(SimpleHTTPRequestHandler):
         u=urlparse(self.path)
         if u.path.startswith('/api/'):
             mapping={'/api/companies':'companies','/api/facts':'facts','/api/events':'events','/api/sources':'sources'}
+            if u.path=='/api/seed':self.json(SEED);return
             if u.path=='/api/status':
                 health=health_rows()
                 self.json({'mode':'scheduled-public-rss','poll_interval_seconds':updater.INTERVAL,'worker_enabled':os.getenv('ENABLE_FEEDS','1')=='1','last_checked':max([f['last_checked'] for f in health if f['last_checked']],default=None),'last_success':max([f['last_success'] for f in health if f['last_success']],default=None),'feeds_ok':sum(bool(f['last_success'] and not f['last_error']) for f in health),'feeds_failed':sum(bool(f['last_error']) for f in health),'financial_kpis_live':False,'msx_connected':False,'message':'Public news headlines may update while server is running and Internet is available; MSX and financial KPIs are not live.'});return
             if u.path=='/api/live-news':self.json(feed_rows());return
             if u.path=='/api/feed-health':self.json(health_rows());return
             if u.path in mapping:
-                result=rows(mapping[u.path]);q=parse_qs(u.query)
+                result=SEED[mapping[u.path]];q=parse_qs(u.query)
                 if 'company_id' in q:result=[x for x in result if x.get('company_id',x.get('id'))==q['company_id'][0]]
                 self.json(result);return
             if u.path=='/api/export.csv':
-                s=io.StringIO();w=csv.DictWriter(s,fieldnames=['company_id','period','metric','value','unit','precision','growth_yoy','source_id']);w.writeheader();w.writerows(rows('facts'))
+                s=io.StringIO();w=csv.DictWriter(s,fieldnames=['company_id','scope','period','metric','value','previous_value','previous_period','comparison_basis','unit','precision','growth_yoy','growth_basis','source_id']);w.writeheader();w.writerows(SEED['facts'])
                 b=s.getvalue().encode('utf-8-sig');self.send_response(200);self.send_header('Content-Type','text/csv; charset=utf-8');self.send_header('Content-Disposition','attachment; filename="telecom_verified_facts.csv"');self.send_header('Content-Length',str(len(b)));self.end_headers();self.wfile.write(b);return
             self.json({'error':'not found'},404);return
         if u.path=='/':self.path='/index.html'

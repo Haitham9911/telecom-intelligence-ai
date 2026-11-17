@@ -7,7 +7,7 @@
       "name": "Omantel",
       "country": "Oman",
       "exchange": "MSX",
-      "source": "https://www.msx.om/"
+      "source": "https://www.msx.om/snapshot.aspx?s=OTEL&se=4"
     },
     {
       "id": "ORED",
@@ -96,7 +96,9 @@
       "unit": "KWD million",
       "precision": "rounded",
       "growth_yoy": 4,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -105,7 +107,9 @@
       "value": 587,
       "unit": "KWD million",
       "growth_yoy": 4,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -114,7 +118,9 @@
       "value": 304,
       "unit": "KWD million",
       "growth_yoy": 59,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -123,7 +129,9 @@
       "value": 34,
       "unit": "percent",
       "precision": "reported",
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -132,7 +140,9 @@
       "value": 53,
       "unit": "million",
       "growth_yoy": 3,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -141,7 +151,9 @@
       "value": 9,
       "unit": "percent",
       "precision": "reported",
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -150,7 +162,9 @@
       "value": 615,
       "unit": "KWD million",
       "growth_yoy": 2,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -159,7 +173,9 @@
       "value": 209,
       "unit": "KWD million",
       "growth_yoy": 1,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -168,7 +184,9 @@
       "value": 84,
       "unit": "KWD million",
       "growth_yoy": 30,
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
     },
     {
       "company_id": "ZAIN",
@@ -177,7 +195,294 @@
       "value": 34,
       "unit": "percent",
       "precision": "reported",
-      "source_id": "zain-2026"
+      "source_id": "zain-2026",
+      "scope": "consolidated",
+      "growth_basis": "reported"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "revenue",
+      "value": 2579.806,
+      "previous_value": 2520.471,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 2.35,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "net_income",
+      "value": 406.389,
+      "previous_value": 260.476,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 56.02,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "attributable_profit",
+      "value": 84.749,
+      "previous_value": 55.697,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 52.16,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "non_controlling_profit",
+      "value": 321.64,
+      "previous_value": 204.779,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 57.07,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "Q3 2026",
+      "metric": "revenue",
+      "value": 874.05,
+      "previous_value": 906.256,
+      "previous_period": "Q3 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": -3.55,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "Q3 2026",
+      "metric": "net_income",
+      "value": 113.628,
+      "previous_value": 91.719,
+      "previous_period": "Q3 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 23.89,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "Q3 2026",
+      "metric": "attributable_profit",
+      "value": 26.205,
+      "previous_value": 19.09,
+      "previous_period": "Q3 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 37.27,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "H1 2026",
+      "metric": "revenue",
+      "value": 1705.756,
+      "previous_value": 1614.215,
+      "previous_period": "H1 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 5.67,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-h1-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "H1 2026",
+      "metric": "net_income",
+      "value": 292.76,
+      "previous_value": 168.757,
+      "previous_period": "H1 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 73.48,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-h1-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "H1 2026",
+      "metric": "attributable_profit",
+      "value": 58.544,
+      "previous_value": 36.607,
+      "previous_period": "H1 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 59.93,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-h1-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "ebitda",
+      "value": 854.1,
+      "previous_value": 835.5,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported in preliminary disclosure",
+      "growth_yoy": 2.2,
+      "growth_basis": "reported",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "9M 2026",
+      "metric": "ebitda_margin",
+      "value": 33.11,
+      "previous_value": 33.15,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "percent",
+      "precision": "reported in preliminary disclosure",
+      "growth_yoy": null,
+      "growth_basis": "not applicable",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "excluding_zain",
+      "period": "9M 2026",
+      "metric": "revenue",
+      "value": 535.19,
+      "previous_value": 493.22,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported in preliminary disclosure; normalized profit includes final dividend adjustment",
+      "growth_yoy": 8.5,
+      "growth_basis": "reported",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "excluding_zain",
+      "period": "9M 2026",
+      "metric": "ebitda",
+      "value": 124.11,
+      "previous_value": 127.83,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported in preliminary disclosure; normalized profit includes final dividend adjustment",
+      "growth_yoy": -2.9,
+      "growth_basis": "reported",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "excluding_zain",
+      "period": "9M 2026",
+      "metric": "ebitda_margin",
+      "value": 23,
+      "previous_value": 26,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "percent",
+      "precision": "reported in preliminary disclosure; normalized profit includes final dividend adjustment",
+      "growth_yoy": null,
+      "growth_basis": "not applicable",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "excluding_zain",
+      "period": "9M 2026",
+      "metric": "normalized_profit",
+      "value": 56.947,
+      "previous_value": 50.216,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported in preliminary disclosure; normalized profit includes final dividend adjustment",
+      "growth_yoy": 13.3,
+      "growth_basis": "reported",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "excluding_zain",
+      "period": "9M 2026",
+      "metric": "normalized_attributable_profit",
+      "value": 57.09,
+      "previous_value": 49.71,
+      "previous_period": "9M 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported in preliminary disclosure; normalized profit includes final dividend adjustment",
+      "growth_yoy": 14.8,
+      "growth_basis": "reported",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "H1 2026",
+      "metric": "non_controlling_profit",
+      "value": 234.216,
+      "previous_value": 132.15,
+      "previous_period": "H1 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 77.23,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-h1-2026"
+    },
+    {
+      "company_id": "OTEL",
+      "scope": "consolidated",
+      "period": "Q3 2026",
+      "metric": "non_controlling_profit",
+      "value": 87.423,
+      "previous_value": 72.629,
+      "previous_period": "Q3 2025",
+      "comparison_basis": "2025 comparative as presented in the source; IAS 29 restated where applicable",
+      "unit": "OMR million",
+      "precision": "reported; OMR thousands converted to millions",
+      "growth_yoy": 20.37,
+      "growth_basis": "calculated from sourced values",
+      "source_id": "omantel-q3-2026"
     }
   ],
   "events": [
@@ -214,6 +519,30 @@
   ],
   "sources": [
     {
+      "id": "omantel-prelim-2026",
+      "label": "Omantel 9M 2026 preliminary disclosure: EBITDA and excluding Zain · MSX",
+      "url": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf",
+      "published": "2026-11-11",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "omantel-h1-2026",
+      "label": "Omantel H1 2026 financial statements · MSX",
+      "url": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q2%20(Un-Audited)_e.zip",
+      "published": "2026-08-13",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "omantel-q3-2026",
+      "label": "Omantel 9M/Q3 2026 board-approved financial statements · MSX",
+      "url": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q3%20(Un-Audited)_e.zip",
+      "published": "2026-11-15",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
       "id": "zain-2026",
       "label": "Zain Group 9M/Q3 2026 official results",
       "url": "https://www.zain.com/en/press-release/zaingroup2026-q3",
@@ -238,6 +567,64 @@
       "label": "NCSI Oman data portal",
       "url": "https://data.gov.om/",
       "mode": "reference-only"
+    }
+  ],
+  "schema": 2,
+  "reports": [
+    {
+      "id": "otel-q3",
+      "company_id": "OTEL",
+      "period": "9M 2026",
+      "title_ar": "عمانتل — القوائم المالية حتى سبتمبر 2026",
+      "title_en": "Omantel — September 2026 financial statements",
+      "description_ar": "القوائم المعتمدة من مجلس الإدارة؛ تتضمن نتائج الربع الثالث والأشهر التسعة والإيضاحات.",
+      "description_en": "Board-approved statements, including Q3, nine-month results and notes.",
+      "date": "2026-11-15",
+      "format": "ZIP · PDF",
+      "url_en": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q3%20(Un-Audited)_e.zip",
+      "url_ar": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q3%20(Un-Audited)_a.zip",
+      "source_id": "omantel-q3-2026"
+    },
+    {
+      "id": "otel-prelim",
+      "company_id": "OTEL",
+      "period": "9M 2026",
+      "title_ar": "عمانتل — ملخص النتائج وباستبعاد زين",
+      "title_en": "Omantel — results summary & excluding Zain",
+      "description_ar": "إفصاح أولي: EBITDA، محركات الأداء، وأرقام عمانتل باستبعاد زين مع تسويات الأرباح.",
+      "description_en": "Preliminary release: EBITDA, performance drivers, and excluding-Zain results with profit adjustments.",
+      "date": "2026-11-11",
+      "format": "PDF · AR / EN",
+      "url_en": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf",
+      "url_ar": "https://www.msx.om/MSMDocs/Images/NewsDocs/OTEL-11112026-21.pdf",
+      "source_id": "omantel-prelim-2026"
+    },
+    {
+      "id": "otel-h1",
+      "company_id": "OTEL",
+      "period": "H1 2026",
+      "title_ar": "عمانتل — القوائم المالية للنصف الأول 2026",
+      "title_en": "Omantel — H1 2026 financial statements",
+      "description_ar": "نتائج النصف الأول والربع الثاني، مع القوائم والإيضاحات.",
+      "description_en": "First-half and second-quarter results, statements and notes.",
+      "date": "2026-08-13",
+      "format": "ZIP · PDF",
+      "url_en": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q2%20(Un-Audited)_e.zip",
+      "url_ar": "https://www.msx.om/MSMDOCS/FinancialReports/OTEL_2026_Q2%20(Un-Audited)_a.zip",
+      "source_id": "omantel-h1-2026"
+    },
+    {
+      "id": "zain-q3",
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "title_ar": "مجموعة زين — نتائج الأشهر التسعة 2026",
+      "title_en": "Zain Group — 9M 2026 results",
+      "description_ar": "الإفصاح الرسمي للأشهر التسعة والربع الثالث، بالعملة الأصلية: الدينار الكويتي.",
+      "description_en": "Official nine-month and Q3 results, in the original reporting currency: KWD.",
+      "date": "2026-11-10",
+      "format": "WEB",
+      "url_en": "https://www.zain.com/en/press-release/zaingroup2026-q3",
+      "source_id": "zain-2026"
     }
   ]
 }
