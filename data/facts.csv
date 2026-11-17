@@ -1,0 +1,11 @@
+﻿company_id,period,metric,value,unit,precision,growth_yoy,source_id
+ZAIN,9M 2026,revenue,1800,KWD million,rounded,4,zain-2026
+ZAIN,9M 2026,ebitda,587,KWD million,,4,zain-2026
+ZAIN,9M 2026,net_income,304,KWD million,,59,zain-2026
+ZAIN,9M 2026,ebitda_margin,34,percent,reported,,zain-2026
+ZAIN,9M 2026,customers,53,million,,3,zain-2026
+ZAIN,9M 2026,capex_revenue,9,percent,reported,,zain-2026
+ZAIN,Q3 2026,revenue,615,KWD million,,2,zain-2026
+ZAIN,Q3 2026,ebitda,209,KWD million,,1,zain-2026
+ZAIN,Q3 2026,net_income,84,KWD million,,30,zain-2026
+ZAIN,Q3 2026,ebitda_margin,34,percent,reported,,zain-2026

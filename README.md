@@ -21,7 +21,9 @@ activity; check the Actions page if the dashboard becomes stale.
 Feed history and conditional-request metadata are retained in a repository
 Actions cache. Cache eviction is possible; a fresh run can rebuild from the
 publishers' current feeds. Failures and last successful checks are shown in
-the dashboard. Only news headlines, links, and short feed summaries refresh.
+the dashboard. TeleGeography is enabled using its current RSS address. Telecoms Tech News is
+disabled because its feed redirects to an HTML homepage. Only news headlines,
+links, and short feed summaries refresh.
 Financial figures and share prices do not refresh from RSS.
 
 No API keys, private company data, or connection to other business systems

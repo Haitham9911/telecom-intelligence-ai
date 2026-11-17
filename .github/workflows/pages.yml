@@ -1,0 +1,51 @@
+name: Publish Telecom Intelligence (independent)
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: telecom-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    if: github.repository == 'Haitham9911/telecom-intelligence-ai'
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate offline tests
+        run: python -m unittest -v test_live.py test_app.py test_deploy.py
+      - name: Restore public feed history
+        uses: actions/cache/restore@v4
+        with:
+          path: data/intelligence.sqlite3
+          key: telecom-feeds-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: telecom-feeds-v1-
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Refresh public sources and build static site
+        run: python build_static.py
+      - name: Save public feed history
+        uses: actions/cache/save@v4
+        with:
+          path: data/intelligence.sqlite3
+          key: telecom-feeds-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

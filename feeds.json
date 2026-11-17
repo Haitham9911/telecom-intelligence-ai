@@ -1,0 +1,20 @@
+{
+  "feeds": [
+    {
+      "id": "telegeography",
+      "label": "TeleGeography Blog",
+      "url": "https://resources.telegeography.com/rss.xml",
+      "kind": "industry",
+      "enabled": true
+    },
+    {
+      "id": "telecomstech",
+      "label": "Telecoms Tech News",
+      "url": "https://telecomstechnews.com/feed/",
+      "kind": "industry",
+      "enabled": false,
+      "disabled_reason": "Feed URL redirects to an HTML homepage; disabled until a valid public feed is available."
+    }
+  ],
+  "notes": "Public third-party news feed headlines; not official stock exchange disclosures, live share prices or verified financial facts. Review publisher terms before production. Add additional feeds only with permission."
+}

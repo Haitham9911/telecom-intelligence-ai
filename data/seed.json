@@ -1,0 +1,243 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-17",
+  "companies": [
+    {
+      "id": "OTEL",
+      "name": "Omantel",
+      "country": "Oman",
+      "exchange": "MSX",
+      "source": "https://www.msx.om/"
+    },
+    {
+      "id": "ORED",
+      "name": "Ooredoo Oman",
+      "country": "Oman",
+      "exchange": "MSX",
+      "source": "https://www.msx.om/"
+    },
+    {
+      "id": "ZAIN",
+      "name": "Zain Group",
+      "country": "Kuwait",
+      "exchange": "Boursa Kuwait",
+      "source": "https://www.zain.com/en/investor-relations"
+    },
+    {
+      "id": "STC",
+      "name": "stc Group",
+      "country": "Saudi Arabia",
+      "exchange": "Saudi Exchange",
+      "source": "https://www.saudiexchange.sa/"
+    },
+    {
+      "id": "EAND",
+      "name": "e&",
+      "country": "UAE",
+      "exchange": "ADX",
+      "source": "https://www.eand.com/"
+    },
+    {
+      "id": "ORDS",
+      "name": "Ooredoo Group",
+      "country": "Qatar",
+      "exchange": "QSE",
+      "source": "https://www.ooredoo.com/"
+    },
+    {
+      "id": "VOD",
+      "name": "Vodafone Group",
+      "country": "UK",
+      "exchange": "LSE",
+      "source": "https://www.vodafone.com/"
+    },
+    {
+      "id": "DTE",
+      "name": "Deutsche Telekom",
+      "country": "Germany",
+      "exchange": "Xetra",
+      "source": "https://www.telekom.com/"
+    },
+    {
+      "id": "SINGTEL",
+      "name": "Singtel",
+      "country": "Singapore",
+      "exchange": "SGX",
+      "source": "https://www.singtel.com/"
+    },
+    {
+      "id": "TEF",
+      "name": "Telefónica",
+      "country": "Spain",
+      "exchange": "BME",
+      "source": "https://www.telefonica.com/"
+    },
+    {
+      "id": "VZ",
+      "name": "Verizon",
+      "country": "USA",
+      "exchange": "NYSE",
+      "source": "https://www.verizon.com/"
+    },
+    {
+      "id": "TMUS",
+      "name": "T-Mobile US",
+      "country": "USA",
+      "exchange": "NASDAQ",
+      "source": "https://www.t-mobile.com/"
+    }
+  ],
+  "facts": [
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "revenue",
+      "value": 1800,
+      "unit": "KWD million",
+      "precision": "rounded",
+      "growth_yoy": 4,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "ebitda",
+      "value": 587,
+      "unit": "KWD million",
+      "growth_yoy": 4,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "net_income",
+      "value": 304,
+      "unit": "KWD million",
+      "growth_yoy": 59,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "ebitda_margin",
+      "value": 34,
+      "unit": "percent",
+      "precision": "reported",
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "customers",
+      "value": 53,
+      "unit": "million",
+      "growth_yoy": 3,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "9M 2026",
+      "metric": "capex_revenue",
+      "value": 9,
+      "unit": "percent",
+      "precision": "reported",
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "Q3 2026",
+      "metric": "revenue",
+      "value": 615,
+      "unit": "KWD million",
+      "growth_yoy": 2,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "Q3 2026",
+      "metric": "ebitda",
+      "value": 209,
+      "unit": "KWD million",
+      "growth_yoy": 1,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "Q3 2026",
+      "metric": "net_income",
+      "value": 84,
+      "unit": "KWD million",
+      "growth_yoy": 30,
+      "source_id": "zain-2026"
+    },
+    {
+      "company_id": "ZAIN",
+      "period": "Q3 2026",
+      "metric": "ebitda_margin",
+      "value": 34,
+      "unit": "percent",
+      "precision": "reported",
+      "source_id": "zain-2026"
+    }
+  ],
+  "events": [
+    {
+      "id": "zain-9m-2026",
+      "company_id": "ZAIN",
+      "date": "2026-11-10",
+      "category": "Earnings",
+      "title": "Zain Group publishes 9M 2026 results",
+      "summary": "Revenue +4%, EBITDA +4%, net income +59%; reported earnings include USD 501m Zain Ventures investment gains. A like-for-like adjusted profit is not calculated.",
+      "impact": "high",
+      "source_id": "zain-2026"
+    },
+    {
+      "id": "zain-towers-2026",
+      "company_id": "ZAIN",
+      "date": "2026-11-10",
+      "category": "Infrastructure",
+      "title": "Zain and Ooredoo report first closing of shared towers platform",
+      "summary": "Reported first closing combines 4,000 towers in Kuwait and Qatar; valuation and consolidation impact need more detailed disclosures.",
+      "impact": "medium",
+      "source_id": "zain-2026"
+    },
+    {
+      "id": "zain-zoi-2026",
+      "company_id": "ZAIN",
+      "date": "2026-11-10",
+      "category": "Wholesale",
+      "title": "Zain Omantel International reported revenue growth",
+      "summary": "ZOI revenue increased 46% year on year during the nine months to September 2026.",
+      "impact": "medium",
+      "source_id": "zain-2026"
+    }
+  ],
+  "sources": [
+    {
+      "id": "zain-2026",
+      "label": "Zain Group 9M/Q3 2026 official results",
+      "url": "https://www.zain.com/en/press-release/zaingroup2026-q3",
+      "published": "2026-11-10",
+      "checked": "2026-11-17",
+      "mode": "verified-seed"
+    },
+    {
+      "id": "oman-tra",
+      "label": "TRA Oman Telecom Sector Indicators",
+      "url": "https://tra.gov.om/open-data/sector-indicator",
+      "mode": "reference-only"
+    },
+    {
+      "id": "msx",
+      "label": "Muscat Stock Exchange",
+      "url": "https://www.msx.om/",
+      "mode": "reference-only"
+    },
+    {
+      "id": "ncsi",
+      "label": "NCSI Oman data portal",
+      "url": "https://data.gov.om/",
+      "mode": "reference-only"
+    }
+  ]
+}
