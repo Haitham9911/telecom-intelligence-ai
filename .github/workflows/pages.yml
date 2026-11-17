@@ -32,6 +32,7 @@ jobs:
           node test_intelligence.cjs
           node test_indicators.cjs
           node test_oman.cjs
+          node test_oman_analysis.cjs
       - name: Restore public feed and quote history
         uses: actions/cache/restore@v4
         with:

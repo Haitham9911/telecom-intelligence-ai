@@ -154,3 +154,8 @@ Vodafone mobile and Awasr fixed-broadband counts are estimates from the matching
 Ooredoo's operating page puts country selection and latest customer/ARPU cards first. Oman has exact five-year prepaid/postpaid/fixed-line counts and Q4 ARPU, six quarterly observations through Q3 2026, and separate 9M 2026 results. Eight markets can be compared. Ooredoo ARPU and financial schedules retain QAR even outside Qatar; Fixed Line preserves the issuer's definition. Consolidated group counts exclude IOH, and company-defined net debt is not reconstructed by subtracting the displayed cash from debt.
 
 Validation: `python -m unittest -v test_oman.py test_deploy.py` and `node test_oman.cjs`.
+
+
+### Calculated Oman growth analysis
+
+`#oman-market?view=analysis` adds adjacent-month changes from the same NCSI publication, prepaid/postpaid reconciliation, fixed-broadband share movement and five-year annual changes/CAGR. Month comparisons require the exact preceding month, matching source vintage, scope and units. Share estimates use matched service definitions and each period's own denominator. The change interval accounts for rounding in both reported shares; it is not a confidence interval and can span zero. Vodafone mobile-broadband and all-mobile shares are intentionally not compared. Awasr's arithmetic decomposition separates the market-size and share terms without claiming causation. Ooredoo Oman adds annual mobile growth, postpaid mix and ARPU growth; postpaid mix is within its own base, not national market share. CSV exports preserve missing values and period bases. Test with `node test_oman_analysis.cjs`.
