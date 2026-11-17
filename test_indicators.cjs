@@ -1,5 +1,8 @@
 const fs=require('fs'),vm=require('vm'),assert=require('node:assert/strict');
-const ctx={document:{addEventListener(){}},lang:'en',t:(_,en)=>en};vm.createContext(ctx);vm.runInContext(fs.readFileSync('indicators.js','utf8'),ctx);ctx.testData=JSON.parse(fs.readFileSync('data/indicator-data.json','utf8'));vm.runInContext('indicatorData=testData',ctx);const calc=x=>vm.runInContext(x,ctx);
+const {execFileSync}=require('node:child_process');
+// Build the fixture offline from committed sources, including on a clean checkout.
+const fixture=execFileSync('python',['-c',"import json,financial_refresh; print(json.dumps(financial_refresh.combined('data')))"],{encoding:'utf8',maxBuffer:8*1024*1024});
+const ctx={document:{addEventListener(){}},lang:'en',t:(_,en)=>en};vm.createContext(ctx);vm.runInContext(fs.readFileSync('indicators.js','utf8'),ctx);ctx.testData=JSON.parse(fixture);vm.runInContext('indicatorData=testData',ctx);const calc=x=>vm.runInContext(x,ctx);
 assert.deepEqual(Array.from(calc('indYears()')),[2021,2022,2023,2024,2025]);
 assert.equal(calc("indRecord('OTEL','customers',2021)"),null);
 assert.ok(calc("indRecord('OTEL','domestic_customers',2021).value")>0);
