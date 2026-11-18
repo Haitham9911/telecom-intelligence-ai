@@ -15,4 +15,24 @@ assert.equal(calc("indRecord('VZ','net_debt',2025)"),null); // Do not relabel ne
 assert.ok(calc("indRecord('VZ','net_unsecured_debt',2021).value")>0);
 assert.ok(calc("indRecord('VZ','current_ratio',2025).value")>0);
 assert.equal(calc("indRecord('TEF','debt_to_equity',2025)"),null);
-console.log('Indicator scope, currency, missing values and reporting dates: 12 checks passed');
+assert.equal(calc("indRecord('DTE','working_capital',2022).value"),-6245);
+assert.equal(calc("indRecord('DTE','working_capital',2022).currency"),'EUR');
+assert.ok(Math.abs(calc("indRecord('ORDS','working_capital',2025).value")-6845.433)<1e-8);
+assert.ok(Math.abs(calc("indRecord('ORDS','current_ratio',2025).value")-21602.134/14756.701)<1e-10);
+assert.equal(calc("indRecord('ORDS','current_assets',2021).source_vintage"),'Annual Report 2022');
+assert.match(calc("indRecord('ORDS','current_assets',2022).basis_en"),/Note 49/);
+assert.match(calc("indRecord('DTE','operating_cash_flow',2021).basis_en"),/EUR 808m.*discontinued/);
+for(const company of ['ORDS','DTE'])for(const metric of ['current_assets','current_liabilities','total_liabilities','operating_cash_flow']){
+ assert.deepEqual(Array.from(calc(`indicatorData.records.filter(r=>r.company_id==='${company}'&&r.metric==='${metric}'&&r.period_type==='annual').map(r=>r.year).sort()`)),[2021,2022,2023,2024,2025]);
+}
+// A ratio/subtraction must not combine group and domestic balances or report vintages.
+calc("indRaw('ORDS','current_liabilities',2025).scope_en='Domestic only'");
+assert.equal(calc("indRecord('ORDS','working_capital',2025)"),null);
+assert.equal(calc("indRecord('ORDS','current_ratio',2025)"),null);
+calc("indRaw('ORDS','current_liabilities',2025).scope_en='Consolidated group';indRaw('ORDS','current_liabilities',2025).source_vintage='Annual Report 2024'");
+assert.equal(calc("indRecord('ORDS','working_capital',2025)"),null);
+// Zero current liabilities still permit a subtraction, but not division.
+calc("indRaw('ORDS','current_liabilities',2025).source_vintage='Annual Report 2025';indRaw('ORDS','current_liabilities',2025).value=0");
+assert.equal(calc("indRecord('ORDS','current_ratio',2025)"),null);
+assert.equal(calc("indRecord('ORDS','working_capital',2025).value"),21602.134);
+console.log('Indicator scope, currencies, five-year liquidity, provenance and calculation guards passed');
