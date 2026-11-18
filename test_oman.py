@@ -25,6 +25,10 @@ class OmanTests(unittest.TestCase):
   for s in d['shares']:
    self.assertAlmostEqual(sum(r['share'] for r in s['operators']),100);self.assertEqual(s['period_end'],s['id'].split('-',1)[1] if s['id'].startswith('mobile-') else s['id'].split('-',1)[1])
    self.assertGreater(s['total'],0)
+ def test_iraq_prepaid_is_not_inferred_blended_arpu(self):
+  d=json.loads((R/'data/oman-market.json').read_text())
+  iraq=next(r for r in d['ooredoo']['latest_markets'] if r['market']=='Iraq')
+  self.assertEqual(iraq['arpu_prepaid'],23.3);self.assertIsNone(iraq['arpu_blended'])
  def test_ooredoo_mobile_excludes_fixed(self):
   o=json.loads((R/'data/oman-market.json').read_text())['ooredoo']
   for r in o['ooredoo_oman_annual']+o['ooredoo_oman_quarters']:

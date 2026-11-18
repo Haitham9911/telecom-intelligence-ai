@@ -2062,7 +2062,8 @@
         "ebitda": 274.8,
         "capex": 163.2,
         "mobile_customers": 2803893,
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       }
     ],
     "latest_markets": [
@@ -2088,7 +2089,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Iraq",
@@ -2097,7 +2099,7 @@
         "prepaid": 20055665,
         "wireless_broadband": null,
         "fixed_line": null,
-        "arpu_blended": 23.3,
+        "arpu_blended": null,
         "arpu_postpaid": null,
         "arpu_prepaid": 23.3,
         "arpu_fixed": null,
@@ -2112,7 +2114,9 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "arpu_note_en": "The Q3 2026 supplementary schedule reports prepaid ARPU only for Iraq; no blended ARPU is reported.",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Oman",
@@ -2136,7 +2140,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Kuwait",
@@ -2160,7 +2165,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Tunisia",
@@ -2184,7 +2190,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Algeria",
@@ -2208,7 +2215,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Maldives",
@@ -2232,7 +2240,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       },
       {
         "market": "Palestine",
@@ -2256,7 +2265,8 @@
         "arpu_currency": "QAR",
         "financial_currency": "QAR",
         "financial_unit": "million",
-        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf"
+        "source_url": "https://www.ooredoo.com/wp-content/uploads/2026/10/Supplementary-Schedules-Q3-2026.pdf",
+        "reviewed_at": "2026-11-18"
       }
     ],
     "group_latest": {
