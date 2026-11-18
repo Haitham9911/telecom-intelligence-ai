@@ -77,7 +77,7 @@ def combined(data_dir):
 def export(data_dir):
  data_dir=Path(data_dir);data=combined(data_dir)
  (data_dir/'indicator-data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
- fields=['company_id','metric','period_end','period_type','value','unit','currency','label_en','scope_en','basis_en','source_url','source_page','method','filed_at','reviewed_at']
+ fields=['company_id','metric','period_start','period_end','period_type','value','unit','currency','label_en','scope_en','basis_en','source_url','source_page','source_vintage','source_unit','method','filed_at','reviewed_at']
  with (data_dir/'financial-indicators.csv').open('w',encoding='utf-8-sig',newline='') as fh:
   w=csv.DictWriter(fh,fields,extrasaction='ignore');w.writeheader();w.writerows(data['records'])
  return data

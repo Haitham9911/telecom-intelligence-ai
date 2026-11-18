@@ -1,4 +1,4 @@
-import copy,datetime as dt,json,tempfile,unittest
+import copy,csv,datetime as dt,json,tempfile,unittest
 from pathlib import Path
 import financial_refresh as f
 TODAY=dt.date(2026,11,17)
@@ -39,4 +39,12 @@ class FinancialRefreshTests(unittest.TestCase):
    self.assertTrue(r['source_url'].startswith('https://'));self.assertTrue(r['scope_en']);self.assertTrue(r['basis_en']);self.assertEqual(r['year'],int(r['period_end'][:4]));keys.append((r['company_id'],r['metric'],r['period_end']))
    if r['unit']=='million_currency':self.assertIn(r['currency'],('OMR','KWD','QAR','SAR','AED','EUR','USD'))
   self.assertEqual(len(keys),len(set(keys)))
+ def test_csv_preserves_reviewed_vintage_and_flow_period(self):
+  row=next(r for r in json.loads((Path(__file__).parent/'data/financial-indicators.json').read_text())['records'] if r['company_id']=='ORDS' and r['metric']=='operating_cash_flow' and r['year']==2021)
+  with tempfile.TemporaryDirectory() as d:
+   Path(d,'financial-indicators.json').write_text(json.dumps({'records':[row]}))
+   f.export(d)
+   with Path(d,'financial-indicators.csv').open(encoding='utf-8-sig',newline='') as fh: exported=next(csv.DictReader(fh))
+   for key in ['source_url','source_vintage','source_unit','period_start','period_end','reviewed_at','basis_en']:
+    self.assertEqual(exported[key],row[key])
 if __name__=='__main__':unittest.main()
